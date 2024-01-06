@@ -1,0 +1,3329 @@
+{
+  "files": {
+    "Data/AbyssObjects.dat64": {
+      "fixed_size": 12432,
+      "row_count": 111,
+      "row_width": 112,
+      "var_offset": 12436,
+      "var_size": 6518
+    },
+    "Data/AbyssRegions.dat64": {
+      "fixed_size": 0,
+      "row_count": 5,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/AbyssTheme.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/AccountQuestFlags.dat64": {
+      "fixed_size": 0,
+      "row_count": 10,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/AchievementItems.dat64": {
+      "fixed_size": 271754,
+      "row_count": 5782,
+      "row_width": 47,
+      "var_offset": 271758,
+      "var_size": 456540
+    },
+    "Data/AchievementSetRewards.dat64": {
+      "fixed_size": 1960,
+      "row_count": 70,
+      "row_width": 28,
+      "var_offset": 1964,
+      "var_size": 1112
+    },
+    "Data/AchievementSets.dat64": {
+      "fixed_size": 0,
+      "row_count": 27,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/AchievementSetsDisplay.dat64": {
+      "fixed_size": 324,
+      "row_count": 27,
+      "row_width": 12,
+      "var_offset": 328,
+      "var_size": 96
+    },
+    "Data/Achievements.dat64": {
+      "fixed_size": 43260,
+      "row_count": 721,
+      "row_width": 60,
+      "var_offset": 43264,
+      "var_size": 125942
+    },
+    "Data/ActiveSkillTargetTypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 24,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/ActiveSkillType.dat64": {
+      "fixed_size": 0,
+      "row_count": 75,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/ActiveSkills.dat64": {
+      "fixed_size": 192322,
+      "row_count": 1138,
+      "row_width": 169,
+      "var_offset": 192326,
+      "var_size": 373240
+    },
+    "Data/AdditionalLifeScaling.dat64": {
+      "fixed_size": 80,
+      "row_count": 4,
+      "row_width": 20,
+      "var_offset": 84,
+      "var_size": 596
+    },
+    "Data/AdditionalLifeScalingPerLevel.dat64": {
+      "fixed_size": 0,
+      "row_count": 0,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/AdvancedSkillsTutorial.dat64": {
+      "fixed_size": 2304,
+      "row_count": 24,
+      "row_width": 96,
+      "var_offset": 2308,
+      "var_size": 18806
+    },
+    "Data/Animation.dat64": {
+      "fixed_size": 1512,
+      "row_count": 108,
+      "row_width": 14,
+      "var_offset": 1516,
+      "var_size": 2980
+    },
+    "Data/ApplyDamageFunctions.dat64": {
+      "fixed_size": 250,
+      "row_count": 10,
+      "row_width": 25,
+      "var_offset": 254,
+      "var_size": 646
+    },
+    "Data/ArchetypeRewards.dat64": {
+      "fixed_size": 8640,
+      "row_count": 135,
+      "row_width": 64,
+      "var_offset": 8644,
+      "var_size": 16776
+    },
+    "Data/Archetypes.dat64": {
+      "fixed_size": 2914,
+      "row_count": 31,
+      "row_width": 94,
+      "var_offset": 2918,
+      "var_size": 35556
+    },
+    "Data/ArchitectLifeScalingPerLevel.dat64": {
+      "fixed_size": 344,
+      "row_count": 43,
+      "row_width": 8,
+      "var_offset": 348,
+      "var_size": 8
+    },
+    "Data/AreaTransitionAnimationTypes.dat64": {
+      "fixed_size": 16,
+      "row_count": 2,
+      "row_width": 8,
+      "var_offset": 20,
+      "var_size": 34
+    },
+    "Data/AreaTransitionAnimations.dat64": {
+      "fixed_size": 1400,
+      "row_count": 7,
+      "row_width": 200,
+      "var_offset": 1404,
+      "var_size": 282
+    },
+    "Data/AreaTransitionInfo.dat64": {
+      "fixed_size": 212,
+      "row_count": 1,
+      "row_width": 212,
+      "var_offset": 216,
+      "var_size": 40
+    },
+    "Data/AreaType.dat64": {
+      "fixed_size": 0,
+      "row_count": 32,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/ArmourClasses.dat64": {
+      "fixed_size": 0,
+      "row_count": 5,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/ArmourSurfaceTypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 11,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/ArmourTypes.dat64": {
+      "fixed_size": 7460,
+      "row_count": 373,
+      "row_width": 20,
+      "var_offset": 7464,
+      "var_size": 8
+    },
+    "Data/Ascendancy.dat64": {
+      "fixed_size": 1292,
+      "row_count": 19,
+      "row_width": 68,
+      "var_offset": 1296,
+      "var_size": 6326
+    },
+    "Data/AtlasFog.dat64": {
+      "fixed_size": 64,
+      "row_count": 4,
+      "row_width": 16,
+      "var_offset": 68,
+      "var_size": 8
+    },
+    "Data/AtlasInfluenceOutcomes.dat64": {
+      "fixed_size": 1232,
+      "row_count": 22,
+      "row_width": 56,
+      "var_offset": 1236,
+      "var_size": 1406
+    },
+    "Data/AtlasNode.dat64": {
+      "fixed_size": 19875,
+      "row_count": 159,
+      "row_width": 125,
+      "var_offset": 19879,
+      "var_size": 6616
+    },
+    "Data/AtlasNodeDefinition.dat64": {
+      "fixed_size": 7155,
+      "row_count": 159,
+      "row_width": 45,
+      "var_offset": 7159,
+      "var_size": 8
+    },
+    "Data/AtlasPositions.dat64": {
+      "fixed_size": 384,
+      "row_count": 24,
+      "row_width": 16,
+      "var_offset": 388,
+      "var_size": 8
+    },
+    "Data/AtlasQuadrant.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/AtlasSector.dat64": {
+      "fixed_size": 1920,
+      "row_count": 48,
+      "row_width": 40,
+      "var_offset": 1924,
+      "var_size": 2174
+    },
+    "Data/Attributes.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/BackendErrors.dat64": {
+      "fixed_size": 7808,
+      "row_count": 488,
+      "row_width": 16,
+      "var_offset": 7812,
+      "var_size": 73516
+    },
+    "Data/BaseItemTypes.dat64": {
+      "fixed_size": 2017125,
+      "row_count": 5379,
+      "row_width": 375,
+      "var_offset": 2017129,
+      "var_size": 925152
+    },
+    "Data/BestiaryCapturableMonsters.dat64": {
+      "fixed_size": 56400,
+      "row_count": 470,
+      "row_width": 120,
+      "var_offset": 56404,
+      "var_size": 29170
+    },
+    "Data/BestiaryEncounters.dat64": {
+      "fixed_size": 1936,
+      "row_count": 44,
+      "row_width": 44,
+      "var_offset": 1940,
+      "var_size": 7402
+    },
+    "Data/BestiaryFamilies.dat64": {
+      "fixed_size": 385,
+      "row_count": 5,
+      "row_width": 77,
+      "var_offset": 389,
+      "var_size": 2784
+    },
+    "Data/BestiaryGenus.dat64": {
+      "fixed_size": 2016,
+      "row_count": 42,
+      "row_width": 48,
+      "var_offset": 2020,
+      "var_size": 4250
+    },
+    "Data/BestiaryGroups.dat64": {
+      "fixed_size": 960,
+      "row_count": 12,
+      "row_width": 80,
+      "var_offset": 964,
+      "var_size": 9742
+    },
+    "Data/BestiaryNets.dat64": {
+      "fixed_size": 451,
+      "row_count": 11,
+      "row_width": 41,
+      "var_offset": 455,
+      "var_size": 8
+    },
+    "Data/BestiaryRecipeComponent.dat64": {
+      "fixed_size": 17760,
+      "row_count": 185,
+      "row_width": 96,
+      "var_offset": 17764,
+      "var_size": 8920
+    },
+    "Data/BestiaryRecipeItemCreation.dat64": {
+      "fixed_size": 1880,
+      "row_count": 47,
+      "row_width": 40,
+      "var_offset": 1884,
+      "var_size": 1108
+    },
+    "Data/BestiaryRecipes.dat64": {
+      "fixed_size": 3290,
+      "row_count": 47,
+      "row_width": 70,
+      "var_offset": 3294,
+      "var_size": 5848
+    },
+    "Data/BetrayalChoiceActions.dat64": {
+      "fixed_size": 920,
+      "row_count": 23,
+      "row_width": 40,
+      "var_offset": 924,
+      "var_size": 828
+    },
+    "Data/BetrayalChoices.dat64": {
+      "fixed_size": 100,
+      "row_count": 5,
+      "row_width": 20,
+      "var_offset": 104,
+      "var_size": 104
+    },
+    "Data/BetrayalDialogue.dat64": {
+      "fixed_size": 410020,
+      "row_count": 2158,
+      "row_width": 190,
+      "var_offset": 410024,
+      "var_size": 41448
+    },
+    "Data/BetrayalDialogueCue.dat64": {
+      "fixed_size": 0,
+      "row_count": 15,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/BetrayalFlags.dat64": {
+      "fixed_size": 0,
+      "row_count": 1,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/BetrayalForts.dat64": {
+      "fixed_size": 108,
+      "row_count": 3,
+      "row_width": 36,
+      "var_offset": 112,
+      "var_size": 82
+    },
+    "Data/BetrayalJobs.dat64": {
+      "fixed_size": 560,
+      "row_count": 5,
+      "row_width": 112,
+      "var_offset": 564,
+      "var_size": 646
+    },
+    "Data/BetrayalRanks.dat64": {
+      "fixed_size": 112,
+      "row_count": 4,
+      "row_width": 28,
+      "var_offset": 116,
+      "var_size": 434
+    },
+    "Data/BetrayalRelationshipState.dat64": {
+      "fixed_size": 48,
+      "row_count": 3,
+      "row_width": 16,
+      "var_offset": 52,
+      "var_size": 60
+    },
+    "Data/BetrayalTargetFlags.dat64": {
+      "fixed_size": 0,
+      "row_count": 10,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/BetrayalTargetJobAchievements.dat64": {
+      "fixed_size": 960,
+      "row_count": 20,
+      "row_width": 48,
+      "var_offset": 964,
+      "var_size": 8
+    },
+    "Data/BetrayalTargetLifeScalingPerLevel.dat64": {
+      "fixed_size": 440,
+      "row_count": 55,
+      "row_width": 8,
+      "var_offset": 444,
+      "var_size": 8
+    },
+    "Data/BetrayalTargets.dat64": {
+      "fixed_size": 2754,
+      "row_count": 18,
+      "row_width": 153,
+      "var_offset": 2758,
+      "var_size": 5556
+    },
+    "Data/BetrayalTraitorRewards.dat64": {
+      "fixed_size": 11424,
+      "row_count": 204,
+      "row_width": 56,
+      "var_offset": 11428,
+      "var_size": 4302
+    },
+    "Data/BetrayalUpgradeSlots.dat64": {
+      "fixed_size": 0,
+      "row_count": 5,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/BetrayalUpgrades.dat64": {
+      "fixed_size": 6800,
+      "row_count": 50,
+      "row_width": 136,
+      "var_offset": 6804,
+      "var_size": 12394
+    },
+    "Data/BetrayalWallLifeScalingPerLevel.dat64": {
+      "fixed_size": 440,
+      "row_count": 55,
+      "row_width": 8,
+      "var_offset": 444,
+      "var_size": 8
+    },
+    "Data/BeyondDemons.dat64": {
+      "fixed_size": 306,
+      "row_count": 17,
+      "row_width": 18,
+      "var_offset": 310,
+      "var_size": 8
+    },
+    "Data/BindableVirtualKeys.dat64": {
+      "fixed_size": 1820,
+      "row_count": 91,
+      "row_width": 20,
+      "var_offset": 1824,
+      "var_size": 1206
+    },
+    "Data/BloodTypes.dat64": {
+      "fixed_size": 1728,
+      "row_count": 12,
+      "row_width": 144,
+      "var_offset": 1732,
+      "var_size": 6592
+    },
+    "Data/Bloodlines.dat64": {
+      "fixed_size": 8330,
+      "row_count": 49,
+      "row_width": 170,
+      "var_offset": 8334,
+      "var_size": 11050
+    },
+    "Data/BreachstoneUpgrades.dat64": {
+      "fixed_size": 320,
+      "row_count": 5,
+      "row_width": 64,
+      "var_offset": 324,
+      "var_size": 8
+    },
+    "Data/BuffCategories.dat64": {
+      "fixed_size": 0,
+      "row_count": 13,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/BuffDefinitions.dat64": {
+      "fixed_size": 189000,
+      "row_count": 1260,
+      "row_width": 150,
+      "var_offset": 189004,
+      "var_size": 196200
+    },
+    "Data/BuffGroups.dat64": {
+      "fixed_size": 0,
+      "row_count": 15,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/BuffMergeModes.dat64": {
+      "fixed_size": 0,
+      "row_count": 12,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/BuffStackUIModes.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/BuffVisualOrbTypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/BuffVisuals.dat64": {
+      "fixed_size": 165668,
+      "row_count": 998,
+      "row_width": 166,
+      "var_offset": 165672,
+      "var_size": 259202
+    },
+    "Data/CharacterAudioEvents.dat64": {
+      "fixed_size": 36135,
+      "row_count": 219,
+      "row_width": 165,
+      "var_offset": 36139,
+      "var_size": 17176
+    },
+    "Data/CharacterPanelDescriptionModes.dat64": {
+      "fixed_size": 352,
+      "row_count": 11,
+      "row_width": 32,
+      "var_offset": 356,
+      "var_size": 764
+    },
+    "Data/CharacterPanelStatContexts.dat64": {
+      "fixed_size": 0,
+      "row_count": 2,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/CharacterPanelStats.dat64": {
+      "fixed_size": 34691,
+      "row_count": 307,
+      "row_width": 113,
+      "var_offset": 34695,
+      "var_size": 41722
+    },
+    "Data/CharacterPanelTabs.dat64": {
+      "fixed_size": 100,
+      "row_count": 5,
+      "row_width": 20,
+      "var_offset": 104,
+      "var_size": 92
+    },
+    "Data/CharacterStartItems.dat64": {
+      "fixed_size": 231021,
+      "row_count": 1351,
+      "row_width": 171,
+      "var_offset": 231025,
+      "var_size": 58048
+    },
+    "Data/CharacterStartQuestState.dat64": {
+      "fixed_size": 2080,
+      "row_count": 20,
+      "row_width": 104,
+      "var_offset": 2084,
+      "var_size": 30338
+    },
+    "Data/CharacterStartStateSet.dat64": {
+      "fixed_size": 80,
+      "row_count": 10,
+      "row_width": 8,
+      "var_offset": 84,
+      "var_size": 300
+    },
+    "Data/CharacterStartStates.dat64": {
+      "fixed_size": 12222,
+      "row_count": 97,
+      "row_width": 126,
+      "var_offset": 12226,
+      "var_size": 52886
+    },
+    "Data/CharacterTextAudio.dat64": {
+      "fixed_size": 15096,
+      "row_count": 629,
+      "row_width": 24,
+      "var_offset": 15100,
+      "var_size": 148110
+    },
+    "Data/Characters.dat64": {
+      "fixed_size": 1428,
+      "row_count": 7,
+      "row_width": 204,
+      "var_offset": 1432,
+      "var_size": 7024
+    },
+    "Data/ChestClusters.dat64": {
+      "fixed_size": 2184,
+      "row_count": 42,
+      "row_width": 52,
+      "var_offset": 2188,
+      "var_size": 4080
+    },
+    "Data/ChestEffects.dat64": {
+      "fixed_size": 3016,
+      "row_count": 29,
+      "row_width": 104,
+      "var_offset": 3020,
+      "var_size": 14130
+    },
+    "Data/ChestItemTemplates.dat64": {
+      "fixed_size": 41792,
+      "row_count": 653,
+      "row_width": 64,
+      "var_offset": 41796,
+      "var_size": 55698
+    },
+    "Data/Chests.dat64": {
+      "fixed_size": 236848,
+      "row_count": 1048,
+      "row_width": 226,
+      "var_offset": 236852,
+      "var_size": 184274
+    },
+    "Data/ClientStrings.dat64": {
+      "fixed_size": 166608,
+      "row_count": 4628,
+      "row_width": 36,
+      "var_offset": 166612,
+      "var_size": 760280
+    },
+    "Data/CloneShot.dat64": {
+      "fixed_size": 1512,
+      "row_count": 21,
+      "row_width": 72,
+      "var_offset": 1516,
+      "var_size": 494
+    },
+    "Data/Commands.dat64": {
+      "fixed_size": 1650,
+      "row_count": 50,
+      "row_width": 33,
+      "var_offset": 1654,
+      "var_size": 5358
+    },
+    "Data/ComponentArmour.dat64": {
+      "fixed_size": 8952,
+      "row_count": 373,
+      "row_width": 24,
+      "var_offset": 8956,
+      "var_size": 33376
+    },
+    "Data/ComponentAttributeRequirements.dat64": {
+      "fixed_size": 13960,
+      "row_count": 698,
+      "row_width": 20,
+      "var_offset": 13964,
+      "var_size": 72792
+    },
+    "Data/ComponentCharges.dat64": {
+      "fixed_size": 720,
+      "row_count": 45,
+      "row_width": 16,
+      "var_offset": 724,
+      "var_size": 3206
+    },
+    "Data/CooldownBypassTypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/CooldownGroups.dat64": {
+      "fixed_size": 0,
+      "row_count": 7,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/CraftingBenchCustomActions.dat64": {
+      "fixed_size": 0,
+      "row_count": 6,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/CraftingBenchOptions.dat64": {
+      "fixed_size": 183954,
+      "row_count": 713,
+      "row_width": 258,
+      "var_offset": 183958,
+      "var_size": 78018
+    },
+    "Data/CraftingBenchUnlockCategories.dat64": {
+      "fixed_size": 7680,
+      "row_count": 128,
+      "row_width": 60,
+      "var_offset": 7684,
+      "var_size": 29044
+    },
+    "Data/CraftingItemClassCategories.dat64": {
+      "fixed_size": 680,
+      "row_count": 17,
+      "row_width": 40,
+      "var_offset": 684,
+      "var_size": 1144
+    },
+    "Data/CurrencyItems.dat64": {
+      "fixed_size": 664692,
+      "row_count": 3444,
+      "row_width": 193,
+      "var_offset": 664696,
+      "var_size": 279868
+    },
+    "Data/CurrencyStashTabLayout.dat64": {
+      "fixed_size": 2376,
+      "row_count": 54,
+      "row_width": 44,
+      "var_offset": 2380,
+      "var_size": 4042
+    },
+    "Data/CurrencyUseTypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 6,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/CustomLeagueMods.dat64": {
+      "fixed_size": 5590,
+      "row_count": 65,
+      "row_width": 86,
+      "var_offset": 5594,
+      "var_size": 3524
+    },
+    "Data/DamageParticleEffectTypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 5,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/DamageParticleEffects.dat64": {
+      "fixed_size": 912,
+      "row_count": 19,
+      "row_width": 48,
+      "var_offset": 916,
+      "var_size": 2050
+    },
+    "Data/Dances.dat64": {
+      "fixed_size": 224,
+      "row_count": 7,
+      "row_width": 32,
+      "var_offset": 228,
+      "var_size": 8
+    },
+    "Data/DaressoPitFights.dat64": {
+      "fixed_size": 1180,
+      "row_count": 20,
+      "row_width": 59,
+      "var_offset": 1184,
+      "var_size": 532
+    },
+    "Data/Default.dat64": {
+      "fixed_size": 0,
+      "row_count": 0,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/DefaultMonsterStats.dat64": {
+      "fixed_size": 6000,
+      "row_count": 100,
+      "row_width": 60,
+      "var_offset": 6004,
+      "var_size": 792
+    },
+    "Data/DelveAzuriteShop.dat64": {
+      "fixed_size": 899,
+      "row_count": 31,
+      "row_width": 29,
+      "var_offset": 903,
+      "var_size": 8
+    },
+    "Data/DelveBiomes.dat64": {
+      "fixed_size": 1450,
+      "row_count": 10,
+      "row_width": 145,
+      "var_offset": 1454,
+      "var_size": 4176
+    },
+    "Data/DelveCatchupDepths.dat64": {
+      "fixed_size": 800,
+      "row_count": 100,
+      "row_width": 8,
+      "var_offset": 804,
+      "var_size": 8
+    },
+    "Data/DelveCraftingModifierDescriptions.dat64": {
+      "fixed_size": 608,
+      "row_count": 38,
+      "row_width": 16,
+      "var_offset": 612,
+      "var_size": 3000
+    },
+    "Data/DelveCraftingModifiers.dat64": {
+      "fixed_size": 5025,
+      "row_count": 25,
+      "row_width": 201,
+      "var_offset": 5029,
+      "var_size": 7300
+    },
+    "Data/DelveCraftingTags.dat64": {
+      "fixed_size": 312,
+      "row_count": 13,
+      "row_width": 24,
+      "var_offset": 316,
+      "var_size": 238
+    },
+    "Data/DelveDynamite.dat64": {
+      "fixed_size": 400,
+      "row_count": 4,
+      "row_width": 100,
+      "var_offset": 404,
+      "var_size": 8
+    },
+    "Data/DelveFeatureRewards.dat64": {
+      "fixed_size": 6976,
+      "row_count": 218,
+      "row_width": 32,
+      "var_offset": 6980,
+      "var_size": 14376
+    },
+    "Data/DelveFeatures.dat64": {
+      "fixed_size": 34440,
+      "row_count": 246,
+      "row_width": 140,
+      "var_offset": 34444,
+      "var_size": 19186
+    },
+    "Data/DelveFlares.dat64": {
+      "fixed_size": 64,
+      "row_count": 1,
+      "row_width": 64,
+      "var_offset": 68,
+      "var_size": 8
+    },
+    "Data/DelveLevelScaling.dat64": {
+      "fixed_size": 336000,
+      "row_count": 6000,
+      "row_width": 56,
+      "var_offset": 336004,
+      "var_size": 8
+    },
+    "Data/DelveMonsterSpawners.dat64": {
+      "fixed_size": 79485,
+      "row_count": 757,
+      "row_width": 105,
+      "var_offset": 79489,
+      "var_size": 53106
+    },
+    "Data/DelveResourcePerLevel.dat64": {
+      "fixed_size": 656,
+      "row_count": 82,
+      "row_width": 8,
+      "var_offset": 660,
+      "var_size": 8
+    },
+    "Data/DelveRooms.dat64": {
+      "fixed_size": 16120,
+      "row_count": 403,
+      "row_width": 40,
+      "var_offset": 16124,
+      "var_size": 36382
+    },
+    "Data/DelveUpgradeType.dat64": {
+      "fixed_size": 0,
+      "row_count": 10,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/DelveUpgrades.dat64": {
+      "fixed_size": 26316,
+      "row_count": 387,
+      "row_width": 68,
+      "var_offset": 26320,
+      "var_size": 6952
+    },
+    "Data/DescentExiles.dat64": {
+      "fixed_size": 2820,
+      "row_count": 47,
+      "row_width": 60,
+      "var_offset": 2824,
+      "var_size": 1116
+    },
+    "Data/DescentRewardChests.dat64": {
+      "fixed_size": 8184,
+      "row_count": 33,
+      "row_width": 248,
+      "var_offset": 8188,
+      "var_size": 60154
+    },
+    "Data/DescentStarterChest.dat64": {
+      "fixed_size": 10368,
+      "row_count": 162,
+      "row_width": 64,
+      "var_offset": 10372,
+      "var_size": 3262
+    },
+    "Data/DisplayMinionMonsterType.dat64": {
+      "fixed_size": 320,
+      "row_count": 16,
+      "row_width": 20,
+      "var_offset": 324,
+      "var_size": 8
+    },
+    "Data/DivinationCardArt.dat64": {
+      "fixed_size": 6526,
+      "row_count": 251,
+      "row_width": 26,
+      "var_offset": 6530,
+      "var_size": 22184
+    },
+    "Data/DivinationCardStashTabLayout.dat64": {
+      "fixed_size": 4267,
+      "row_count": 251,
+      "row_width": 17,
+      "var_offset": 4271,
+      "var_size": 8
+    },
+    "Data/DropEffects.dat64": {
+      "fixed_size": 96,
+      "row_count": 6,
+      "row_width": 16,
+      "var_offset": 100,
+      "var_size": 708
+    },
+    "Data/DropModifiers.dat64": {
+      "fixed_size": 1260,
+      "row_count": 35,
+      "row_width": 36,
+      "var_offset": 1264,
+      "var_size": 8
+    },
+    "Data/DropPool.dat64": {
+      "fixed_size": 408,
+      "row_count": 34,
+      "row_width": 12,
+      "var_offset": 412,
+      "var_size": 820
+    },
+    "Data/EclipseMods.dat64": {
+      "fixed_size": 5005,
+      "row_count": 77,
+      "row_width": 65,
+      "var_offset": 5009,
+      "var_size": 3674
+    },
+    "Data/EffectDrivenSkill.dat64": {
+      "fixed_size": 900,
+      "row_count": 9,
+      "row_width": 100,
+      "var_offset": 904,
+      "var_size": 152
+    },
+    "Data/Effectiveness.dat64": {
+      "fixed_size": 0,
+      "row_count": 35,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/EffectivenessCostConstants.dat64": {
+      "fixed_size": 36,
+      "row_count": 3,
+      "row_width": 12,
+      "var_offset": 40,
+      "var_size": 98
+    },
+    "Data/EinharMissions.dat64": {
+      "fixed_size": 432,
+      "row_count": 12,
+      "row_width": 36,
+      "var_offset": 436,
+      "var_size": 88
+    },
+    "Data/EinharPackFallback.dat64": {
+      "fixed_size": 704,
+      "row_count": 22,
+      "row_width": 32,
+      "var_offset": 708,
+      "var_size": 1336
+    },
+    "Data/ElderBossArenas.dat64": {
+      "fixed_size": 468,
+      "row_count": 13,
+      "row_width": 36,
+      "var_offset": 472,
+      "var_size": 200
+    },
+    "Data/ElderMapBossOverride.dat64": {
+      "fixed_size": 5680,
+      "row_count": 142,
+      "row_width": 40,
+      "var_offset": 5684,
+      "var_size": 3810
+    },
+    "Data/EndlessLedgeChests.dat64": {
+      "fixed_size": 1824,
+      "row_count": 38,
+      "row_width": 48,
+      "var_offset": 1828,
+      "var_size": 1528
+    },
+    "Data/EnvironmentTransitions.dat64": {
+      "fixed_size": 80,
+      "row_count": 2,
+      "row_width": 40,
+      "var_offset": 84,
+      "var_size": 518
+    },
+    "Data/Environments.dat64": {
+      "fixed_size": 62912,
+      "row_count": 983,
+      "row_width": 64,
+      "var_offset": 62916,
+      "var_size": 126562
+    },
+    "Data/EssenceStashTabLayout.dat64": {
+      "fixed_size": 4905,
+      "row_count": 109,
+      "row_width": 45,
+      "var_offset": 4909,
+      "var_size": 10128
+    },
+    "Data/EssenceType.dat64": {
+      "fixed_size": 725,
+      "row_count": 25,
+      "row_width": 29,
+      "var_offset": 729,
+      "var_size": 410
+    },
+    "Data/Essences.dat64": {
+      "fixed_size": 96705,
+      "row_count": 105,
+      "row_width": 921,
+      "var_offset": 96709,
+      "var_size": 2792
+    },
+    "Data/EventSeason.dat64": {
+      "fixed_size": 960,
+      "row_count": 48,
+      "row_width": 20,
+      "var_offset": 964,
+      "var_size": 1970
+    },
+    "Data/EventSeasonRewards.dat64": {
+      "fixed_size": 9156,
+      "row_count": 327,
+      "row_width": 28,
+      "var_offset": 9160,
+      "var_size": 11732
+    },
+    "Data/EvergreenAchievementTypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 17,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/EvergreenAchievements.dat64": {
+      "fixed_size": 1488,
+      "row_count": 62,
+      "row_width": 24,
+      "var_offset": 1492,
+      "var_size": 3320
+    },
+    "Data/ExecuteGEAL.dat64": {
+      "fixed_size": 5549,
+      "row_count": 31,
+      "row_width": 179,
+      "var_offset": 5553,
+      "var_size": 7360
+    },
+    "Data/ExpandingPulse.dat64": {
+      "fixed_size": 612,
+      "row_count": 9,
+      "row_width": 68,
+      "var_offset": 616,
+      "var_size": 1562
+    },
+    "Data/ExperienceLevels.dat64": {
+      "fixed_size": 1600,
+      "row_count": 100,
+      "row_width": 16,
+      "var_offset": 1604,
+      "var_size": 1008
+    },
+    "Data/ExplodingStormBuffs.dat64": {
+      "fixed_size": 10244,
+      "row_count": 52,
+      "row_width": 197,
+      "var_offset": 10248,
+      "var_size": 2962
+    },
+    "Data/ExtraTerrainFeatureFamily.dat64": {
+      "fixed_size": 0,
+      "row_count": 1,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/ExtraTerrainFeatures.dat64": {
+      "fixed_size": 1751,
+      "row_count": 17,
+      "row_width": 103,
+      "var_offset": 1755,
+      "var_size": 4526
+    },
+    "Data/FixedHideoutDoodads.dat64": {
+      "fixed_size": 120,
+      "row_count": 5,
+      "row_width": 24,
+      "var_offset": 124,
+      "var_size": 118
+    },
+    "Data/FixedMissions.dat64": {
+      "fixed_size": 576,
+      "row_count": 9,
+      "row_width": 64,
+      "var_offset": 580,
+      "var_size": 12
+    },
+    "Data/FlaskType.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/Flasks.dat64": {
+      "fixed_size": 3240,
+      "row_count": 45,
+      "row_width": 72,
+      "var_offset": 3244,
+      "var_size": 1700
+    },
+    "Data/FlavourText.dat64": {
+      "fixed_size": 32380,
+      "row_count": 1619,
+      "row_width": 20,
+      "var_offset": 32384,
+      "var_size": 374414
+    },
+    "Data/FlavourTextImages.dat64": {
+      "fixed_size": 0,
+      "row_count": 37,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/Footprints.dat64": {
+      "fixed_size": 2000,
+      "row_count": 50,
+      "row_width": 40,
+      "var_offset": 2004,
+      "var_size": 53836
+    },
+    "Data/FragmentStashTabLayout.dat64": {
+      "fixed_size": 2816,
+      "row_count": 64,
+      "row_width": 44,
+      "var_offset": 2820,
+      "var_size": 5948
+    },
+    "Data/GameConstants.dat64": {
+      "fixed_size": 228,
+      "row_count": 19,
+      "row_width": 12,
+      "var_offset": 232,
+      "var_size": 1006
+    },
+    "Data/GemTags.dat64": {
+      "fixed_size": 528,
+      "row_count": 33,
+      "row_width": 16,
+      "var_offset": 532,
+      "var_size": 1010
+    },
+    "Data/GemTypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/GeometryAttack.dat64": {
+      "fixed_size": 34344,
+      "row_count": 216,
+      "row_width": 159,
+      "var_offset": 34348,
+      "var_size": 2668
+    },
+    "Data/GeometryProjectiles.dat64": {
+      "fixed_size": 480,
+      "row_count": 10,
+      "row_width": 48,
+      "var_offset": 484,
+      "var_size": 8
+    },
+    "Data/GeometryTrigger.dat64": {
+      "fixed_size": 816,
+      "row_count": 6,
+      "row_width": 136,
+      "var_offset": 820,
+      "var_size": 56
+    },
+    "Data/GlobalAudioConfig.dat64": {
+      "fixed_size": 104,
+      "row_count": 8,
+      "row_width": 13,
+      "var_offset": 108,
+      "var_size": 298
+    },
+    "Data/Grandmasters.dat64": {
+      "fixed_size": 28980,
+      "row_count": 644,
+      "row_width": 45,
+      "var_offset": 28984,
+      "var_size": 159930
+    },
+    "Data/GrantedEffectGroups.dat64": {
+      "fixed_size": 0,
+      "row_count": 1,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/GrantedEffects.dat64": {
+      "fixed_size": 938520,
+      "row_count": 5940,
+      "row_width": 158,
+      "var_offset": 938524,
+      "var_size": 303524
+    },
+    "Data/GrantedEffectsPerLevel.dat64": {
+      "fixed_size": 9879754,
+      "row_count": 34186,
+      "row_width": 289,
+      "var_offset": 9879758,
+      "var_size": 6670616
+    },
+    "Data/GroundEffectTypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 11,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/GroundEffects.dat64": {
+      "fixed_size": 2100,
+      "row_count": 70,
+      "row_width": 30,
+      "var_offset": 2104,
+      "var_size": 3656
+    },
+    "Data/HarbingerMaps.dat64": {
+      "fixed_size": 420,
+      "row_count": 15,
+      "row_width": 28,
+      "var_offset": 424,
+      "var_size": 470
+    },
+    "Data/Harbingers.dat64": {
+      "fixed_size": 896,
+      "row_count": 28,
+      "row_width": 32,
+      "var_offset": 900,
+      "var_size": 8
+    },
+    "Data/HideoutDoodads.dat64": {
+      "fixed_size": 80501,
+      "row_count": 1019,
+      "row_width": 79,
+      "var_offset": 80505,
+      "var_size": 937750
+    },
+    "Data/HideoutNPCs.dat64": {
+      "fixed_size": 512,
+      "row_count": 8,
+      "row_width": 64,
+      "var_offset": 516,
+      "var_size": 216
+    },
+    "Data/HideoutRarity.dat64": {
+      "fixed_size": 80,
+      "row_count": 5,
+      "row_width": 16,
+      "var_offset": 84,
+      "var_size": 142
+    },
+    "Data/Hideouts.dat64": {
+      "fixed_size": 4240,
+      "row_count": 40,
+      "row_width": 106,
+      "var_offset": 4244,
+      "var_size": 12566
+    },
+    "Data/ImpactSoundData.dat64": {
+      "fixed_size": 704,
+      "row_count": 22,
+      "row_width": 32,
+      "var_offset": 708,
+      "var_size": 1972
+    },
+    "Data/IncursionArchitect.dat64": {
+      "fixed_size": 480,
+      "row_count": 24,
+      "row_width": 20,
+      "var_offset": 484,
+      "var_size": 8
+    },
+    "Data/IncursionBrackets.dat64": {
+      "fixed_size": 600,
+      "row_count": 10,
+      "row_width": 60,
+      "var_offset": 604,
+      "var_size": 120
+    },
+    "Data/IncursionChestRewards.dat64": {
+      "fixed_size": 1248,
+      "row_count": 24,
+      "row_width": 52,
+      "var_offset": 1252,
+      "var_size": 4030
+    },
+    "Data/IncursionChests.dat64": {
+      "fixed_size": 6104,
+      "row_count": 109,
+      "row_width": 56,
+      "var_offset": 6108,
+      "var_size": 3046
+    },
+    "Data/IncursionRoomAdditionalBossDrops.dat64": {
+      "fixed_size": 0,
+      "row_count": 0,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/IncursionRoomBossFightEvents.dat64": {
+      "fixed_size": 648,
+      "row_count": 9,
+      "row_width": 72,
+      "var_offset": 652,
+      "var_size": 1654
+    },
+    "Data/IncursionRooms.dat64": {
+      "fixed_size": 14060,
+      "row_count": 95,
+      "row_width": 148,
+      "var_offset": 14064,
+      "var_size": 49346
+    },
+    "Data/IncursionUniqueUpgradeComponents.dat64": {
+      "fixed_size": 352,
+      "row_count": 11,
+      "row_width": 32,
+      "var_offset": 356,
+      "var_size": 8
+    },
+    "Data/IncursionUniqueUpgrades.dat64": {
+      "fixed_size": 352,
+      "row_count": 11,
+      "row_width": 32,
+      "var_offset": 356,
+      "var_size": 8
+    },
+    "Data/InvasionMonsterGroups.dat64": {
+      "fixed_size": 0,
+      "row_count": 90,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/InvasionMonsterRestrictions.dat64": {
+      "fixed_size": 14056,
+      "row_count": 251,
+      "row_width": 56,
+      "var_offset": 14060,
+      "var_size": 32096
+    },
+    "Data/InvasionMonsterRoles.dat64": {
+      "fixed_size": 0,
+      "row_count": 5,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/InvasionMonstersPerArea.dat64": {
+      "fixed_size": 48468,
+      "row_count": 577,
+      "row_width": 84,
+      "var_offset": 48472,
+      "var_size": 101264
+    },
+    "Data/ItemClassCategories.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/ItemClasses.dat64": {
+      "fixed_size": 4081,
+      "row_count": 53,
+      "row_width": 77,
+      "var_offset": 4085,
+      "var_size": 3990
+    },
+    "Data/ItemExperiencePerLevel.dat64": {
+      "fixed_size": 179496,
+      "row_count": 7479,
+      "row_width": 24,
+      "var_offset": 179500,
+      "var_size": 8
+    },
+    "Data/ItemSetNames.dat64": {
+      "fixed_size": 0,
+      "row_count": 13,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/ItemShopType.dat64": {
+      "fixed_size": 0,
+      "row_count": 25,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/ItemSynthesisCorruptedMods.dat64": {
+      "fixed_size": 768,
+      "row_count": 24,
+      "row_width": 32,
+      "var_offset": 772,
+      "var_size": 840
+    },
+    "Data/ItemSynthesisMods.dat64": {
+      "fixed_size": 135060,
+      "row_count": 2251,
+      "row_width": 60,
+      "var_offset": 135064,
+      "var_size": 228230
+    },
+    "Data/ItemThemes.dat64": {
+      "fixed_size": 2160,
+      "row_count": 135,
+      "row_width": 16,
+      "var_offset": 2164,
+      "var_size": 3428
+    },
+    "Data/ItemTradeData.dat64": {
+      "fixed_size": 68229,
+      "row_count": 1197,
+      "row_width": 57,
+      "var_offset": 68233,
+      "var_size": 82030
+    },
+    "Data/ItemVisualEffect.dat64": {
+      "fixed_size": 12208,
+      "row_count": 112,
+      "row_width": 109,
+      "var_offset": 12212,
+      "var_size": 156534
+    },
+    "Data/ItemVisualHeldBodyModel.dat64": {
+      "fixed_size": 256,
+      "row_count": 2,
+      "row_width": 128,
+      "var_offset": 260,
+      "var_size": 676
+    },
+    "Data/ItemVisualIdentity.dat64": {
+      "fixed_size": 3119792,
+      "row_count": 7358,
+      "row_width": 424,
+      "var_offset": 3119796,
+      "var_size": 2785298
+    },
+    "Data/ItemisedVisualEffect.dat64": {
+      "fixed_size": 202710,
+      "row_count": 1398,
+      "row_width": 145,
+      "var_offset": 202714,
+      "var_size": 69360
+    },
+    "Data/JobAssassinationSpawnerGroups.dat64": {
+      "fixed_size": 32,
+      "row_count": 1,
+      "row_width": 32,
+      "var_offset": 36,
+      "var_size": 8
+    },
+    "Data/JobRaidBrackets.dat64": {
+      "fixed_size": 400,
+      "row_count": 10,
+      "row_width": 40,
+      "var_offset": 404,
+      "var_size": 8
+    },
+    "Data/KillstreakThresholds.dat64": {
+      "fixed_size": 468,
+      "row_count": 13,
+      "row_width": 36,
+      "var_offset": 472,
+      "var_size": 8
+    },
+    "Data/LabyrinthAreas.dat64": {
+      "fixed_size": 2376,
+      "row_count": 33,
+      "row_width": 72,
+      "var_offset": 2380,
+      "var_size": 5524
+    },
+    "Data/LabyrinthExclusionGroups.dat64": {
+      "fixed_size": 8,
+      "row_count": 1,
+      "row_width": 8,
+      "var_offset": 12,
+      "var_size": 46
+    },
+    "Data/LabyrinthIzaroChests.dat64": {
+      "fixed_size": 1476,
+      "row_count": 41,
+      "row_width": 36,
+      "var_offset": 1480,
+      "var_size": 3762
+    },
+    "Data/LabyrinthNodeOverrides.dat64": {
+      "fixed_size": 672,
+      "row_count": 14,
+      "row_width": 48,
+      "var_offset": 676,
+      "var_size": 1354
+    },
+    "Data/LabyrinthRewardTypes.dat64": {
+      "fixed_size": 112,
+      "row_count": 7,
+      "row_width": 16,
+      "var_offset": 116,
+      "var_size": 978
+    },
+    "Data/LabyrinthRewards.dat64": {
+      "fixed_size": 2584,
+      "row_count": 38,
+      "row_width": 68,
+      "var_offset": 2588,
+      "var_size": 4068
+    },
+    "Data/LabyrinthSecretEffects.dat64": {
+      "fixed_size": 7936,
+      "row_count": 124,
+      "row_width": 64,
+      "var_offset": 7940,
+      "var_size": 8928
+    },
+    "Data/LabyrinthSecretLocations.dat64": {
+      "fixed_size": 0,
+      "row_count": 6,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/LabyrinthSecrets.dat64": {
+      "fixed_size": 8700,
+      "row_count": 58,
+      "row_width": 150,
+      "var_offset": 8704,
+      "var_size": 5538
+    },
+    "Data/LabyrinthSection.dat64": {
+      "fixed_size": 1880,
+      "row_count": 47,
+      "row_width": 40,
+      "var_offset": 1884,
+      "var_size": 1322
+    },
+    "Data/LabyrinthSectionLayout.dat64": {
+      "fixed_size": 24084,
+      "row_count": 223,
+      "row_width": 108,
+      "var_offset": 24088,
+      "var_size": 6168
+    },
+    "Data/LabyrinthTrials.dat64": {
+      "fixed_size": 1080,
+      "row_count": 18,
+      "row_width": 60,
+      "var_offset": 1084,
+      "var_size": 92
+    },
+    "Data/LabyrinthTrinkets.dat64": {
+      "fixed_size": 512,
+      "row_count": 8,
+      "row_width": 64,
+      "var_offset": 516,
+      "var_size": 332
+    },
+    "Data/Labyrinths.dat64": {
+      "fixed_size": 432,
+      "row_count": 4,
+      "row_width": 108,
+      "var_offset": 436,
+      "var_size": 488
+    },
+    "Data/LeagueCategory.dat64": {
+      "fixed_size": 0,
+      "row_count": 29,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/LeagueFlag.dat64": {
+      "fixed_size": 1024,
+      "row_count": 64,
+      "row_width": 16,
+      "var_offset": 1028,
+      "var_size": 7804
+    },
+    "Data/LeagueFlags.dat64": {
+      "fixed_size": 0,
+      "row_count": 53,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/LeagueInfo.dat64": {
+      "fixed_size": 2937,
+      "row_count": 33,
+      "row_width": 89,
+      "var_offset": 2941,
+      "var_size": 47178
+    },
+    "Data/LeagueQuestFlags.dat64": {
+      "fixed_size": 0,
+      "row_count": 535,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/LeagueTrophy.dat64": {
+      "fixed_size": 0,
+      "row_count": 1591,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/LevelRelativePlayerScaling.dat64": {
+      "fixed_size": 3200,
+      "row_count": 100,
+      "row_width": 32,
+      "var_offset": 3204,
+      "var_size": 8
+    },
+    "Data/MapConnections.dat64": {
+      "fixed_size": 7560,
+      "row_count": 135,
+      "row_width": 56,
+      "var_offset": 7564,
+      "var_size": 1760
+    },
+    "Data/MapCreationInformation.dat64": {
+      "fixed_size": 2860,
+      "row_count": 143,
+      "row_width": 20,
+      "var_offset": 2864,
+      "var_size": 8
+    },
+    "Data/MapDeviceRecipes.dat64": {
+      "fixed_size": 2240,
+      "row_count": 35,
+      "row_width": 64,
+      "var_offset": 2244,
+      "var_size": 2022
+    },
+    "Data/MapDevices.dat64": {
+      "fixed_size": 671,
+      "row_count": 11,
+      "row_width": 61,
+      "var_offset": 675,
+      "var_size": 1644
+    },
+    "Data/MapFragmentFamilies.dat64": {
+      "fixed_size": 0,
+      "row_count": 11,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/MapFragmentMods.dat64": {
+      "fixed_size": 2915,
+      "row_count": 53,
+      "row_width": 55,
+      "var_offset": 2919,
+      "var_size": 8
+    },
+    "Data/MapInhabitants.dat64": {
+      "fixed_size": 544,
+      "row_count": 17,
+      "row_width": 32,
+      "var_offset": 548,
+      "var_size": 2888
+    },
+    "Data/MapPins.dat64": {
+      "fixed_size": 16472,
+      "row_count": 142,
+      "row_width": 116,
+      "var_offset": 16476,
+      "var_size": 23812
+    },
+    "Data/MapPurchaseCosts.dat64": {
+      "fixed_size": 2112,
+      "row_count": 16,
+      "row_width": 132,
+      "var_offset": 2116,
+      "var_size": 1376
+    },
+    "Data/MapSeries.dat64": {
+      "fixed_size": 144,
+      "row_count": 6,
+      "row_width": 24,
+      "var_offset": 148,
+      "var_size": 496
+    },
+    "Data/MapSeriesTiers.dat64": {
+      "fixed_size": 4004,
+      "row_count": 143,
+      "row_width": 28,
+      "var_offset": 4008,
+      "var_size": 8
+    },
+    "Data/MapStashTabLayout.dat64": {
+      "fixed_size": 0,
+      "row_count": 0,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/Maps.dat64": {
+      "fixed_size": 73164,
+      "row_count": 469,
+      "row_width": 156,
+      "var_offset": 73168,
+      "var_size": 21406
+    },
+    "Data/MasterHideoutLevels.dat64": {
+      "fixed_size": 840,
+      "row_count": 35,
+      "row_width": 24,
+      "var_offset": 844,
+      "var_size": 8
+    },
+    "Data/Melee.dat64": {
+      "fixed_size": 2883,
+      "row_count": 31,
+      "row_width": 93,
+      "var_offset": 2887,
+      "var_size": 5004
+    },
+    "Data/MicroMigrationData.dat64": {
+      "fixed_size": 17680,
+      "row_count": 340,
+      "row_width": 52,
+      "var_offset": 17684,
+      "var_size": 8
+    },
+    "Data/MicrotransactionCharacterPortraitVariations.dat64": {
+      "fixed_size": 144,
+      "row_count": 9,
+      "row_width": 16,
+      "var_offset": 148,
+      "var_size": 8
+    },
+    "Data/MicrotransactionCombineForumula.dat64": {
+      "fixed_size": 3920,
+      "row_count": 70,
+      "row_width": 56,
+      "var_offset": 3924,
+      "var_size": 2786
+    },
+    "Data/MicrotransactionFireworksVariations.dat64": {
+      "fixed_size": 200,
+      "row_count": 8,
+      "row_width": 25,
+      "var_offset": 204,
+      "var_size": 1102
+    },
+    "Data/MicrotransactionPeriodicCharacterEffectVariations.dat64": {
+      "fixed_size": 2656,
+      "row_count": 83,
+      "row_width": 32,
+      "var_offset": 2660,
+      "var_size": 14678
+    },
+    "Data/MicrotransactionPortalVariations.dat64": {
+      "fixed_size": 2844,
+      "row_count": 79,
+      "row_width": 36,
+      "var_offset": 2848,
+      "var_size": 23536
+    },
+    "Data/MicrotransactionRarityDisplay.dat64": {
+      "fixed_size": 80,
+      "row_count": 5,
+      "row_width": 16,
+      "var_offset": 84,
+      "var_size": 576
+    },
+    "Data/MicrotransactionSlotId.dat64": {
+      "fixed_size": 0,
+      "row_count": 21,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/MicrotransactionSocialFrameVariations.dat64": {
+      "fixed_size": 2432,
+      "row_count": 152,
+      "row_width": 16,
+      "var_offset": 2436,
+      "var_size": 8
+    },
+    "Data/MinimapIcons.dat64": {
+      "fixed_size": 3249,
+      "row_count": 171,
+      "row_width": 19,
+      "var_offset": 3253,
+      "var_size": 8146
+    },
+    "Data/MiscAnimated.dat64": {
+      "fixed_size": 115680,
+      "row_count": 2892,
+      "row_width": 40,
+      "var_offset": 115684,
+      "var_size": 582338
+    },
+    "Data/MiscBeams.dat64": {
+      "fixed_size": 8928,
+      "row_count": 186,
+      "row_width": 48,
+      "var_offset": 8932,
+      "var_size": 9248
+    },
+    "Data/MiscObjects.dat64": {
+      "fixed_size": 22680,
+      "row_count": 567,
+      "row_width": 40,
+      "var_offset": 22684,
+      "var_size": 107020
+    },
+    "Data/MissionFavourPerLevel.dat64": {
+      "fixed_size": 800,
+      "row_count": 100,
+      "row_width": 8,
+      "var_offset": 804,
+      "var_size": 8
+    },
+    "Data/MissionTileMap.dat64": {
+      "fixed_size": 0,
+      "row_count": 0,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/MissionTransitionTiles.dat64": {
+      "fixed_size": 644,
+      "row_count": 23,
+      "row_width": 28,
+      "var_offset": 648,
+      "var_size": 3616
+    },
+    "Data/ModAuraFlags.dat64": {
+      "fixed_size": 0,
+      "row_count": 16,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/ModDomains.dat64": {
+      "fixed_size": 0,
+      "row_count": 20,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/ModFamily.dat64": {
+      "fixed_size": 0,
+      "row_count": 3037,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/ModGenerationType.dat64": {
+      "fixed_size": 0,
+      "row_count": 17,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/ModSellPriceTypes.dat64": {
+      "fixed_size": 232,
+      "row_count": 29,
+      "row_width": 8,
+      "var_offset": 236,
+      "var_size": 996
+    },
+    "Data/ModType.dat64": {
+      "fixed_size": 228680,
+      "row_count": 5717,
+      "row_width": 40,
+      "var_offset": 228684,
+      "var_size": 445028
+    },
+    "Data/Mods.dat64": {
+      "fixed_size": 7807436,
+      "row_count": 16198,
+      "row_width": 482,
+      "var_offset": 7807440,
+      "var_size": 1829114
+    },
+    "Data/MonsterAdditionalMonsterDrops.dat64": {
+      "fixed_size": 11840,
+      "row_count": 370,
+      "row_width": 32,
+      "var_offset": 11844,
+      "var_size": 12408
+    },
+    "Data/MonsterArmours.dat64": {
+      "fixed_size": 3360,
+      "row_count": 210,
+      "row_width": 16,
+      "var_offset": 3364,
+      "var_size": 189928
+    },
+    "Data/MonsterBehavior.dat64": {
+      "fixed_size": 0,
+      "row_count": 28,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/MonsterBonuses.dat64": {
+      "fixed_size": 440,
+      "row_count": 5,
+      "row_width": 88,
+      "var_offset": 444,
+      "var_size": 260
+    },
+    "Data/MonsterChanceToDropItemTemplate.dat64": {
+      "fixed_size": 0,
+      "row_count": 0,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/MonsterConditions.dat64": {
+      "fixed_size": 1066,
+      "row_count": 13,
+      "row_width": 82,
+      "var_offset": 1070,
+      "var_size": 522
+    },
+    "Data/MonsterFleeConditions.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/MonsterGroupEntries.dat64": {
+      "fixed_size": 9408,
+      "row_count": 336,
+      "row_width": 28,
+      "var_offset": 9412,
+      "var_size": 8528
+    },
+    "Data/MonsterGroupNames.dat64": {
+      "fixed_size": 0,
+      "row_count": 82,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/MonsterMapBossDifficulty.dat64": {
+      "fixed_size": 2100,
+      "row_count": 25,
+      "row_width": 84,
+      "var_offset": 2104,
+      "var_size": 8
+    },
+    "Data/MonsterMapDifficulty.dat64": {
+      "fixed_size": 2100,
+      "row_count": 25,
+      "row_width": 84,
+      "var_offset": 2104,
+      "var_size": 8
+    },
+    "Data/MonsterMortar.dat64": {
+      "fixed_size": 5694,
+      "row_count": 78,
+      "row_width": 73,
+      "var_offset": 5698,
+      "var_size": 8
+    },
+    "Data/MonsterPackCounts.dat64": {
+      "fixed_size": 1537,
+      "row_count": 29,
+      "row_width": 53,
+      "var_offset": 1541,
+      "var_size": 952
+    },
+    "Data/MonsterPackEntries.dat64": {
+      "fixed_size": 175320,
+      "row_count": 3896,
+      "row_width": 45,
+      "var_offset": 175324,
+      "var_size": 106970
+    },
+    "Data/MonsterPacks.dat64": {
+      "fixed_size": 216227,
+      "row_count": 1787,
+      "row_width": 121,
+      "var_offset": 216231,
+      "var_size": 234130
+    },
+    "Data/MonsterProjectileAttack.dat64": {
+      "fixed_size": 1428,
+      "row_count": 68,
+      "row_width": 21,
+      "var_offset": 1432,
+      "var_size": 8
+    },
+    "Data/MonsterProjectileSpell.dat64": {
+      "fixed_size": 4070,
+      "row_count": 110,
+      "row_width": 37,
+      "var_offset": 4074,
+      "var_size": 8
+    },
+    "Data/MonsterResistances.dat64": {
+      "fixed_size": 2688,
+      "row_count": 48,
+      "row_width": 56,
+      "var_offset": 2692,
+      "var_size": 1218
+    },
+    "Data/MonsterScalingByLevel.dat64": {
+      "fixed_size": 0,
+      "row_count": 11,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/MonsterSegments.dat64": {
+      "fixed_size": 960,
+      "row_count": 60,
+      "row_width": 16,
+      "var_offset": 964,
+      "var_size": 19800
+    },
+    "Data/MonsterSize.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/MonsterSkillsAliveDead.dat64": {
+      "fixed_size": 0,
+      "row_count": 2,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/MonsterSkillsAttackSpell.dat64": {
+      "fixed_size": 0,
+      "row_count": 2,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/MonsterSkillsClientInstance.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/MonsterSkillsHull.dat64": {
+      "fixed_size": 0,
+      "row_count": 2,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/MonsterSkillsOrientation.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/MonsterSkillsPlacement.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/MonsterSkillsReference.dat64": {
+      "fixed_size": 0,
+      "row_count": 7,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/MonsterSkillsSequenceMode.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/MonsterSkillsShape.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/MonsterSkillsTargets.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/MonsterSpawnerGroups.dat64": {
+      "fixed_size": 120,
+      "row_count": 15,
+      "row_width": 8,
+      "var_offset": 124,
+      "var_size": 2262
+    },
+    "Data/MonsterSpawnerGroupsPerLevel.dat64": {
+      "fixed_size": 2368,
+      "row_count": 74,
+      "row_width": 32,
+      "var_offset": 2372,
+      "var_size": 8
+    },
+    "Data/MonsterSpawnerOverrides.dat64": {
+      "fixed_size": 384,
+      "row_count": 8,
+      "row_width": 48,
+      "var_offset": 388,
+      "var_size": 8
+    },
+    "Data/MonsterStatsFromMapStats.dat64": {
+      "fixed_size": 19493,
+      "row_count": 193,
+      "row_width": 101,
+      "var_offset": 19497,
+      "var_size": 5896
+    },
+    "Data/MonsterTypes.dat64": {
+      "fixed_size": 135513,
+      "row_count": 2151,
+      "row_width": 63,
+      "var_offset": 135517,
+      "var_size": 151574
+    },
+    "Data/MonsterVarieties.dat64": {
+      "fixed_size": 4308504,
+      "row_count": 5791,
+      "row_width": 744,
+      "var_offset": 4308508,
+      "var_size": 2013436
+    },
+    "Data/MoveDaemon.dat64": {
+      "fixed_size": 4524,
+      "row_count": 39,
+      "row_width": 116,
+      "var_offset": 4528,
+      "var_size": 170
+    },
+    "Data/MultiPartAchievementAreas.dat64": {
+      "fixed_size": 180,
+      "row_count": 5,
+      "row_width": 36,
+      "var_offset": 184,
+      "var_size": 88
+    },
+    "Data/MultiPartAchievements.dat64": {
+      "fixed_size": 2850,
+      "row_count": 75,
+      "row_width": 38,
+      "var_offset": 2854,
+      "var_size": 5746
+    },
+    "Data/Music.dat64": {
+      "fixed_size": 6600,
+      "row_count": 110,
+      "row_width": 60,
+      "var_offset": 6604,
+      "var_size": 17020
+    },
+    "Data/MusicCategories.dat64": {
+      "fixed_size": 192,
+      "row_count": 12,
+      "row_width": 16,
+      "var_offset": 196,
+      "var_size": 336
+    },
+    "Data/MysteryBoxes.dat64": {
+      "fixed_size": 680,
+      "row_count": 17,
+      "row_width": 40,
+      "var_offset": 684,
+      "var_size": 1428
+    },
+    "Data/NPCAdditionalVendorItems.dat64": {
+      "fixed_size": 2160,
+      "row_count": 27,
+      "row_width": 80,
+      "var_offset": 2164,
+      "var_size": 854
+    },
+    "Data/NPCAudio.dat64": {
+      "fixed_size": 5580,
+      "row_count": 93,
+      "row_width": 60,
+      "var_offset": 5584,
+      "var_size": 86374
+    },
+    "Data/NPCFollowerVariations.dat64": {
+      "fixed_size": 504,
+      "row_count": 7,
+      "row_width": 72,
+      "var_offset": 508,
+      "var_size": 8
+    },
+    "Data/NPCMaster.dat64": {
+      "fixed_size": 861,
+      "row_count": 7,
+      "row_width": 123,
+      "var_offset": 865,
+      "var_size": 2044
+    },
+    "Data/NPCMasterLevels.dat64": {
+      "fixed_size": 480,
+      "row_count": 20,
+      "row_width": 24,
+      "var_offset": 484,
+      "var_size": 8
+    },
+    "Data/NPCShop.dat64": {
+      "fixed_size": 2800,
+      "row_count": 25,
+      "row_width": 112,
+      "var_offset": 2804,
+      "var_size": 6278
+    },
+    "Data/NPCShopAdditionalItems.dat64": {
+      "fixed_size": 32,
+      "row_count": 1,
+      "row_width": 32,
+      "var_offset": 36,
+      "var_size": 440
+    },
+    "Data/NPCTalk.dat64": {
+      "fixed_size": 624624,
+      "row_count": 2288,
+      "row_width": 273,
+      "var_offset": 624628,
+      "var_size": 88862
+    },
+    "Data/NPCTalkCategory.dat64": {
+      "fixed_size": 0,
+      "row_count": 30,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/NPCTalkConsoleQuickActions.dat64": {
+      "fixed_size": 64,
+      "row_count": 4,
+      "row_width": 16,
+      "var_offset": 68,
+      "var_size": 280
+    },
+    "Data/NPCTextAudio.dat64": {
+      "fixed_size": 293596,
+      "row_count": 5062,
+      "row_width": 58,
+      "var_offset": 293600,
+      "var_size": 2459898
+    },
+    "Data/NPCs.dat64": {
+      "fixed_size": 40248,
+      "row_count": 387,
+      "row_width": 104,
+      "var_offset": 40252,
+      "var_size": 39282
+    },
+    "Data/NetTiers.dat64": {
+      "fixed_size": 200,
+      "row_count": 10,
+      "row_width": 20,
+      "var_offset": 204,
+      "var_size": 8
+    },
+    "Data/Notifications.dat64": {
+      "fixed_size": 961,
+      "row_count": 31,
+      "row_width": 31,
+      "var_offset": 965,
+      "var_size": 2640
+    },
+    "Data/OldMapStashTabLayout.dat64": {
+      "fixed_size": 0,
+      "row_count": 0,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/Orientations.dat64": {
+      "fixed_size": 0,
+      "row_count": 9,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/PCBangRewardMicros.dat64": {
+      "fixed_size": 120,
+      "row_count": 6,
+      "row_width": 20,
+      "var_offset": 124,
+      "var_size": 8
+    },
+    "Data/PVPTypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/PantheonPanelLayout.dat64": {
+      "fixed_size": 3360,
+      "row_count": 16,
+      "row_width": 210,
+      "var_offset": 3364,
+      "var_size": 3238
+    },
+    "Data/PantheonSouls.dat64": {
+      "fixed_size": 1360,
+      "row_count": 20,
+      "row_width": 68,
+      "var_offset": 1364,
+      "var_size": 8
+    },
+    "Data/PassiveJewelSlots.dat64": {
+      "fixed_size": 336,
+      "row_count": 21,
+      "row_width": 16,
+      "var_offset": 340,
+      "var_size": 8
+    },
+    "Data/PassiveSkillBuffs.dat64": {
+      "fixed_size": 1292,
+      "row_count": 17,
+      "row_width": 76,
+      "var_offset": 1296,
+      "var_size": 1180
+    },
+    "Data/PassiveSkillStatCategories.dat64": {
+      "fixed_size": 320,
+      "row_count": 20,
+      "row_width": 16,
+      "var_offset": 324,
+      "var_size": 486
+    },
+    "Data/PassiveSkillTreeTutorial.dat64": {
+      "fixed_size": 840,
+      "row_count": 7,
+      "row_width": 120,
+      "var_offset": 844,
+      "var_size": 5512
+    },
+    "Data/PassiveSkills.dat64": {
+      "fixed_size": 328282,
+      "row_count": 2014,
+      "row_width": 163,
+      "var_offset": 328286,
+      "var_size": 274786
+    },
+    "Data/PathOfEndurance.dat64": {
+      "fixed_size": 6800,
+      "row_count": 100,
+      "row_width": 68,
+      "var_offset": 6804,
+      "var_size": 9388
+    },
+    "Data/PerLevelValues.dat64": {
+      "fixed_size": 0,
+      "row_count": 100,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/PerandusBosses.dat64": {
+      "fixed_size": 812,
+      "row_count": 29,
+      "row_width": 28,
+      "var_offset": 816,
+      "var_size": 8
+    },
+    "Data/PerandusChests.dat64": {
+      "fixed_size": 672,
+      "row_count": 21,
+      "row_width": 32,
+      "var_offset": 676,
+      "var_size": 8
+    },
+    "Data/PerandusDaemons.dat64": {
+      "fixed_size": 845,
+      "row_count": 13,
+      "row_width": 65,
+      "var_offset": 849,
+      "var_size": 72
+    },
+    "Data/PerandusGuards.dat64": {
+      "fixed_size": 1560,
+      "row_count": 26,
+      "row_width": 60,
+      "var_offset": 1564,
+      "var_size": 1664
+    },
+    "Data/Pet.dat64": {
+      "fixed_size": 6192,
+      "row_count": 172,
+      "row_width": 36,
+      "var_offset": 6196,
+      "var_size": 11650
+    },
+    "Data/PreloadGroups.dat64": {
+      "fixed_size": 384,
+      "row_count": 48,
+      "row_width": 8,
+      "var_offset": 388,
+      "var_size": 956
+    },
+    "Data/PreloadPriorities.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/ProjectileVariations.dat64": {
+      "fixed_size": 450,
+      "row_count": 18,
+      "row_width": 25,
+      "var_offset": 454,
+      "var_size": 632
+    },
+    "Data/Projectiles.dat64": {
+      "fixed_size": 60990,
+      "row_count": 642,
+      "row_width": 95,
+      "var_offset": 60994,
+      "var_size": 216054
+    },
+    "Data/Prophecies.dat64": {
+      "fixed_size": 25668,
+      "row_count": 276,
+      "row_width": 93,
+      "var_offset": 25672,
+      "var_size": 131302
+    },
+    "Data/ProphecyChain.dat64": {
+      "fixed_size": 676,
+      "row_count": 13,
+      "row_width": 52,
+      "var_offset": 680,
+      "var_size": 586
+    },
+    "Data/ProphecyType.dat64": {
+      "fixed_size": 204,
+      "row_count": 17,
+      "row_width": 12,
+      "var_offset": 208,
+      "var_size": 710
+    },
+    "Data/Quest.dat64": {
+      "fixed_size": 11700,
+      "row_count": 150,
+      "row_width": 78,
+      "var_offset": 11704,
+      "var_size": 13730
+    },
+    "Data/QuestAchievements.dat64": {
+      "fixed_size": 7488,
+      "row_count": 104,
+      "row_width": 72,
+      "var_offset": 7492,
+      "var_size": 11898
+    },
+    "Data/QuestFlags.dat64": {
+      "fixed_size": 0,
+      "row_count": 2103,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/QuestRewards.dat64": {
+      "fixed_size": 111086,
+      "row_count": 829,
+      "row_width": 134,
+      "var_offset": 111090,
+      "var_size": 2002
+    },
+    "Data/QuestStateCalcuation.dat64": {
+      "fixed_size": 0,
+      "row_count": 5,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/QuestStates.dat64": {
+      "fixed_size": 232650,
+      "row_count": 1175,
+      "row_width": 198,
+      "var_offset": 232654,
+      "var_size": 272998
+    },
+    "Data/QuestStaticRewards.dat64": {
+      "fixed_size": 3200,
+      "row_count": 40,
+      "row_width": 80,
+      "var_offset": 3204,
+      "var_size": 260
+    },
+    "Data/QuestType.dat64": {
+      "fixed_size": 144,
+      "row_count": 6,
+      "row_width": 24,
+      "var_offset": 148,
+      "var_size": 182
+    },
+    "Data/QuestVendorRewards.dat64": {
+      "fixed_size": 24064,
+      "row_count": 256,
+      "row_width": 94,
+      "var_offset": 24068,
+      "var_size": 41272
+    },
+    "Data/RaceAreas.dat64": {
+      "fixed_size": 4160,
+      "row_count": 52,
+      "row_width": 80,
+      "var_offset": 4164,
+      "var_size": 1112
+    },
+    "Data/RaceTimes.dat64": {
+      "fixed_size": 8568,
+      "row_count": 306,
+      "row_width": 28,
+      "var_offset": 8572,
+      "var_size": 8
+    },
+    "Data/Races.dat64": {
+      "fixed_size": 623,
+      "row_count": 7,
+      "row_width": 89,
+      "var_offset": 627,
+      "var_size": 8804
+    },
+    "Data/RandomUniqueMonsters.dat64": {
+      "fixed_size": 192,
+      "row_count": 6,
+      "row_width": 32,
+      "var_offset": 196,
+      "var_size": 120
+    },
+    "Data/Rarity.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/Realms.dat64": {
+      "fixed_size": 2856,
+      "row_count": 28,
+      "row_width": 102,
+      "var_offset": 2860,
+      "var_size": 4458
+    },
+    "Data/RecipeUnlockDisplay.dat64": {
+      "fixed_size": 3640,
+      "row_count": 91,
+      "row_width": 40,
+      "var_offset": 3644,
+      "var_size": 18854
+    },
+    "Data/RecipeUnlockObjects.dat64": {
+      "fixed_size": 2100,
+      "row_count": 75,
+      "row_width": 28,
+      "var_offset": 2104,
+      "var_size": 1576
+    },
+    "Data/RelativeImportanceConstants.dat64": {
+      "fixed_size": 0,
+      "row_count": 2,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/RogueExiles.dat64": {
+      "fixed_size": 952,
+      "row_count": 56,
+      "row_width": 17,
+      "var_offset": 956,
+      "var_size": 8
+    },
+    "Data/RunicCircles.dat64": {
+      "fixed_size": 32,
+      "row_count": 1,
+      "row_width": 32,
+      "var_offset": 36,
+      "var_size": 52
+    },
+    "Data/SafehouseBYOCrafting.dat64": {
+      "fixed_size": 13056,
+      "row_count": 204,
+      "row_width": 64,
+      "var_offset": 13060,
+      "var_size": 4216
+    },
+    "Data/SafehouseCraftingSpree.dat64": {
+      "fixed_size": 1008,
+      "row_count": 12,
+      "row_width": 84,
+      "var_offset": 1012,
+      "var_size": 1604
+    },
+    "Data/SafehouseCraftingSpreeCurrencies.dat64": {
+      "fixed_size": 325,
+      "row_count": 13,
+      "row_width": 25,
+      "var_offset": 329,
+      "var_size": 252
+    },
+    "Data/SessionQuestFlags.dat64": {
+      "fixed_size": 296,
+      "row_count": 74,
+      "row_width": 4,
+      "var_offset": 300,
+      "var_size": 8
+    },
+    "Data/ShaperMemoryFragments.dat64": {
+      "fixed_size": 480,
+      "row_count": 15,
+      "row_width": 32,
+      "var_offset": 484,
+      "var_size": 8
+    },
+    "Data/ShaperOrbs.dat64": {
+      "fixed_size": 420,
+      "row_count": 15,
+      "row_width": 28,
+      "var_offset": 424,
+      "var_size": 8
+    },
+    "Data/ShieldTypes.dat64": {
+      "fixed_size": 1780,
+      "row_count": 89,
+      "row_width": 20,
+      "var_offset": 1784,
+      "var_size": 8
+    },
+    "Data/ShopCategory.dat64": {
+      "fixed_size": 11840,
+      "row_count": 185,
+      "row_width": 64,
+      "var_offset": 11844,
+      "var_size": 13282
+    },
+    "Data/ShopCountry.dat64": {
+      "fixed_size": 1088,
+      "row_count": 34,
+      "row_width": 32,
+      "var_offset": 1092,
+      "var_size": 958
+    },
+    "Data/ShopCurrency.dat64": {
+      "fixed_size": 112,
+      "row_count": 7,
+      "row_width": 16,
+      "var_offset": 116,
+      "var_size": 116
+    },
+    "Data/ShopForumBadge.dat64": {
+      "fixed_size": 0,
+      "row_count": 112,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/ShopPackagePlatform.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/ShopPaymentPackage.dat64": {
+      "fixed_size": 20956,
+      "row_count": 169,
+      "row_width": 124,
+      "var_offset": 20960,
+      "var_size": 31260
+    },
+    "Data/ShopPaymentPackageItems.dat64": {
+      "fixed_size": 45120,
+      "row_count": 752,
+      "row_width": 60,
+      "var_offset": 45124,
+      "var_size": 242
+    },
+    "Data/ShopPaymentPackagePrice.dat64": {
+      "fixed_size": 26856,
+      "row_count": 746,
+      "row_width": 36,
+      "var_offset": 26860,
+      "var_size": 8
+    },
+    "Data/ShopPaymentPackageProxy.dat64": {
+      "fixed_size": 0,
+      "row_count": 105,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/ShopRegion.dat64": {
+      "fixed_size": 40,
+      "row_count": 5,
+      "row_width": 8,
+      "var_offset": 44,
+      "var_size": 102
+    },
+    "Data/ShopToken.dat64": {
+      "fixed_size": 3408,
+      "row_count": 142,
+      "row_width": 24,
+      "var_offset": 3412,
+      "var_size": 14120
+    },
+    "Data/ShrineBuffs.dat64": {
+      "fixed_size": 1960,
+      "row_count": 35,
+      "row_width": 56,
+      "var_offset": 1964,
+      "var_size": 1538
+    },
+    "Data/ShrineSounds.dat64": {
+      "fixed_size": 240,
+      "row_count": 10,
+      "row_width": 24,
+      "var_offset": 244,
+      "var_size": 2048
+    },
+    "Data/Shrines.dat64": {
+      "fixed_size": 4350,
+      "row_count": 30,
+      "row_width": 145,
+      "var_offset": 4354,
+      "var_size": 3644
+    },
+    "Data/SigilDisplay.dat64": {
+      "fixed_size": 144,
+      "row_count": 2,
+      "row_width": 72,
+      "var_offset": 148,
+      "var_size": 724
+    },
+    "Data/SkillGemInfo.dat64": {
+      "fixed_size": 10176,
+      "row_count": 159,
+      "row_width": 64,
+      "var_offset": 10180,
+      "var_size": 112504
+    },
+    "Data/SkillGems.dat64": {
+      "fixed_size": 45396,
+      "row_count": 388,
+      "row_width": 117,
+      "var_offset": 45400,
+      "var_size": 48676
+    },
+    "Data/SkillSurgeEffects.dat64": {
+      "fixed_size": 2107,
+      "row_count": 49,
+      "row_width": 43,
+      "var_offset": 2111,
+      "var_size": 58
+    },
+    "Data/SkillTotemVariations.dat64": {
+      "fixed_size": 3504,
+      "row_count": 146,
+      "row_width": 24,
+      "var_offset": 3508,
+      "var_size": 8
+    },
+    "Data/SkillTotems.dat64": {
+      "fixed_size": 0,
+      "row_count": 17,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/SkillTrapVariations.dat64": {
+      "fixed_size": 476,
+      "row_count": 17,
+      "row_width": 28,
+      "var_offset": 480,
+      "var_size": 1496
+    },
+    "Data/SoundEffects.dat64": {
+      "fixed_size": 4900,
+      "row_count": 196,
+      "row_width": 25,
+      "var_offset": 4904,
+      "var_size": 36434
+    },
+    "Data/SpawnAdditionalChestsOrClusters.dat64": {
+      "fixed_size": 576,
+      "row_count": 12,
+      "row_width": 48,
+      "var_offset": 580,
+      "var_size": 8
+    },
+    "Data/SpawnObject.dat64": {
+      "fixed_size": 1890,
+      "row_count": 21,
+      "row_width": 90,
+      "var_offset": 1894,
+      "var_size": 508
+    },
+    "Data/SpecialRooms.dat64": {
+      "fixed_size": 16,
+      "row_count": 1,
+      "row_width": 16,
+      "var_offset": 20,
+      "var_size": 134
+    },
+    "Data/SpecialTiles.dat64": {
+      "fixed_size": 32,
+      "row_count": 2,
+      "row_width": 16,
+      "var_offset": 36,
+      "var_size": 248
+    },
+    "Data/StartingPassiveSkills.dat64": {
+      "fixed_size": 168,
+      "row_count": 7,
+      "row_width": 24,
+      "var_offset": 172,
+      "var_size": 412
+    },
+    "Data/StatDescriptionFunctions.dat64": {
+      "fixed_size": 0,
+      "row_count": 35,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/StatInterpolationTypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/StatSemantics.dat64": {
+      "fixed_size": 0,
+      "row_count": 6,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/Stats.dat64": {
+      "fixed_size": 760509,
+      "row_count": 9389,
+      "row_width": 81,
+      "var_offset": 760513,
+      "var_size": 827400
+    },
+    "Data/StrDexIntMissionExtraRequirement.dat64": {
+      "fixed_size": 440,
+      "row_count": 5,
+      "row_width": 88,
+      "var_offset": 444,
+      "var_size": 282
+    },
+    "Data/StrDexIntMissions.dat64": {
+      "fixed_size": 4256,
+      "row_count": 28,
+      "row_width": 152,
+      "var_offset": 4260,
+      "var_size": 1412
+    },
+    "Data/Strongboxes.dat64": {
+      "fixed_size": 676,
+      "row_count": 26,
+      "row_width": 26,
+      "var_offset": 680,
+      "var_size": 8
+    },
+    "Data/SuicideExplosion.dat64": {
+      "fixed_size": 520,
+      "row_count": 13,
+      "row_width": 40,
+      "var_offset": 524,
+      "var_size": 8
+    },
+    "Data/SummonedSpecificBarrels.dat64": {
+      "fixed_size": 180,
+      "row_count": 3,
+      "row_width": 60,
+      "var_offset": 184,
+      "var_size": 78
+    },
+    "Data/SummonedSpecificMonsters.dat64": {
+      "fixed_size": 16720,
+      "row_count": 380,
+      "row_width": 44,
+      "var_offset": 16724,
+      "var_size": 21040
+    },
+    "Data/SummonedSpecificMonstersOnDeath.dat64": {
+      "fixed_size": 588,
+      "row_count": 12,
+      "row_width": 49,
+      "var_offset": 592,
+      "var_size": 668
+    },
+    "Data/SuperShaperInfluence.dat64": {
+      "fixed_size": 256,
+      "row_count": 8,
+      "row_width": 32,
+      "var_offset": 260,
+      "var_size": 1272
+    },
+    "Data/SupporterPackSets.dat64": {
+      "fixed_size": 3840,
+      "row_count": 60,
+      "row_width": 64,
+      "var_offset": 3844,
+      "var_size": 8304
+    },
+    "Data/SurgeTypes.dat64": {
+      "fixed_size": 408,
+      "row_count": 17,
+      "row_width": 24,
+      "var_offset": 412,
+      "var_size": 874
+    },
+    "Data/SynthesisAreaSize.dat64": {
+      "fixed_size": 80,
+      "row_count": 4,
+      "row_width": 20,
+      "var_offset": 84,
+      "var_size": 70
+    },
+    "Data/SynthesisAreas.dat64": {
+      "fixed_size": 16700,
+      "row_count": 167,
+      "row_width": 100,
+      "var_offset": 16704,
+      "var_size": 23344
+    },
+    "Data/SynthesisBonuses.dat64": {
+      "fixed_size": 1292,
+      "row_count": 34,
+      "row_width": 38,
+      "var_offset": 1296,
+      "var_size": 8
+    },
+    "Data/SynthesisBrackets.dat64": {
+      "fixed_size": 672,
+      "row_count": 12,
+      "row_width": 56,
+      "var_offset": 676,
+      "var_size": 8
+    },
+    "Data/SynthesisFragmentDialogue.dat64": {
+      "fixed_size": 18032,
+      "row_count": 161,
+      "row_width": 112,
+      "var_offset": 18036,
+      "var_size": 8
+    },
+    "Data/SynthesisGlobalMods.dat64": {
+      "fixed_size": 1820,
+      "row_count": 65,
+      "row_width": 28,
+      "var_offset": 1824,
+      "var_size": 8
+    },
+    "Data/SynthesisMonsterExperiencePerLevel.dat64": {
+      "fixed_size": 488,
+      "row_count": 61,
+      "row_width": 8,
+      "var_offset": 492,
+      "var_size": 8
+    },
+    "Data/SynthesisRewardCategories.dat64": {
+      "fixed_size": 24,
+      "row_count": 3,
+      "row_width": 8,
+      "var_offset": 28,
+      "var_size": 52
+    },
+    "Data/SynthesisRewardTypes.dat64": {
+      "fixed_size": 4360,
+      "row_count": 109,
+      "row_width": 40,
+      "var_offset": 4364,
+      "var_size": 27754
+    },
+    "Data/TableMonsterSpawners.dat64": {
+      "fixed_size": 25764,
+      "row_count": 226,
+      "row_width": 114,
+      "var_offset": 25768,
+      "var_size": 22322
+    },
+    "Data/Tags.dat64": {
+      "fixed_size": 8920,
+      "row_count": 446,
+      "row_width": 20,
+      "var_offset": 8924,
+      "var_size": 12460
+    },
+    "Data/TalismanMonsterMods.dat64": {
+      "fixed_size": 32,
+      "row_count": 1,
+      "row_width": 32,
+      "var_offset": 36,
+      "var_size": 8
+    },
+    "Data/TalismanPacks.dat64": {
+      "fixed_size": 1440,
+      "row_count": 18,
+      "row_width": 80,
+      "var_offset": 1444,
+      "var_size": 3668
+    },
+    "Data/Talismans.dat64": {
+      "fixed_size": 2730,
+      "row_count": 35,
+      "row_width": 78,
+      "var_offset": 2734,
+      "var_size": 8
+    },
+    "Data/TerrainPlugins.dat64": {
+      "fixed_size": 888,
+      "row_count": 74,
+      "row_width": 12,
+      "var_offset": 892,
+      "var_size": 3600
+    },
+    "Data/Tips.dat64": {
+      "fixed_size": 656,
+      "row_count": 41,
+      "row_width": 16,
+      "var_offset": 660,
+      "var_size": 6810
+    },
+    "Data/Topologies.dat64": {
+      "fixed_size": 64036,
+      "row_count": 2287,
+      "row_width": 28,
+      "var_offset": 64040,
+      "var_size": 377962
+    },
+    "Data/TormentSpirits.dat64": {
+      "fixed_size": 3840,
+      "row_count": 30,
+      "row_width": 128,
+      "var_offset": 3844,
+      "var_size": 5352
+    },
+    "Data/TreasureHunterMissions.dat64": {
+      "fixed_size": 1197,
+      "row_count": 9,
+      "row_width": 133,
+      "var_offset": 1201,
+      "var_size": 1020
+    },
+    "Data/TriggerSpawners.dat64": {
+      "fixed_size": 1395,
+      "row_count": 31,
+      "row_width": 45,
+      "var_offset": 1399,
+      "var_size": 8098
+    },
+    "Data/Tutorial.dat64": {
+      "fixed_size": 5925,
+      "row_count": 75,
+      "row_width": 79,
+      "var_offset": 5929,
+      "var_size": 8426
+    },
+    "Data/UITalkCategories.dat64": {
+      "fixed_size": 0,
+      "row_count": 86,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/UITalkText.dat64": {
+      "fixed_size": 4275,
+      "row_count": 95,
+      "row_width": 45,
+      "var_offset": 4279,
+      "var_size": 33544
+    },
+    "Data/UniqueChests.dat64": {
+      "fixed_size": 4658,
+      "row_count": 34,
+      "row_width": 137,
+      "var_offset": 4662,
+      "var_size": 4912
+    },
+    "Data/UniqueFragments.dat64": {
+      "fixed_size": 1008,
+      "row_count": 18,
+      "row_width": 56,
+      "var_offset": 1012,
+      "var_size": 8
+    },
+    "Data/UniqueJewelLimits.dat64": {
+      "fixed_size": 1600,
+      "row_count": 80,
+      "row_width": 20,
+      "var_offset": 1604,
+      "var_size": 8
+    },
+    "Data/UniqueMapInfo.dat64": {
+      "fixed_size": 4875,
+      "row_count": 75,
+      "row_width": 65,
+      "var_offset": 4879,
+      "var_size": 8
+    },
+    "Data/UniqueMaps.dat64": {
+      "fixed_size": 1679,
+      "row_count": 23,
+      "row_width": 73,
+      "var_offset": 1683,
+      "var_size": 126
+    },
+    "Data/UniqueSetNames.dat64": {
+      "fixed_size": 0,
+      "row_count": 114,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/UniqueStashLayout.dat64": {
+      "fixed_size": 87067,
+      "row_count": 1049,
+      "row_width": 83,
+      "var_offset": 87071,
+      "var_size": 8
+    },
+    "Data/UniqueStashTypes.dat64": {
+      "fixed_size": 1040,
+      "row_count": 20,
+      "row_width": 52,
+      "var_offset": 1044,
+      "var_size": 2850
+    },
+    "Data/VoteState.dat64": {
+      "fixed_size": 64,
+      "row_count": 4,
+      "row_width": 16,
+      "var_offset": 68,
+      "var_size": 310
+    },
+    "Data/VoteType.dat64": {
+      "fixed_size": 108,
+      "row_count": 3,
+      "row_width": 36,
+      "var_offset": 112,
+      "var_size": 1298
+    },
+    "Data/WarbandsGraph.dat64": {
+      "fixed_size": 1536,
+      "row_count": 48,
+      "row_width": 32,
+      "var_offset": 1540,
+      "var_size": 792
+    },
+    "Data/WarbandsMapGraph.dat64": {
+      "fixed_size": 2816,
+      "row_count": 88,
+      "row_width": 32,
+      "var_offset": 2820,
+      "var_size": 1448
+    },
+    "Data/WarbandsPackMonsters.dat64": {
+      "fixed_size": 444,
+      "row_count": 3,
+      "row_width": 148,
+      "var_offset": 448,
+      "var_size": 2720
+    },
+    "Data/WarbandsPackNumbers.dat64": {
+      "fixed_size": 2160,
+      "row_count": 45,
+      "row_width": 48,
+      "var_offset": 2164,
+      "var_size": 1070
+    },
+    "Data/WeaponArmourCommon.dat64": {
+      "fixed_size": 0,
+      "row_count": 2,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/WeaponClasses.dat64": {
+      "fixed_size": 0,
+      "row_count": 14,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/WeaponDamageScaling.dat64": {
+      "fixed_size": 0,
+      "row_count": 1,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/WeaponImpactSoundData.dat64": {
+      "fixed_size": 196,
+      "row_count": 7,
+      "row_width": 28,
+      "var_offset": 200,
+      "var_size": 160
+    },
+    "Data/WeaponSoundTypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 7,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/WeaponTypes.dat64": {
+      "fixed_size": 12400,
+      "row_count": 310,
+      "row_width": 40,
+      "var_offset": 12404,
+      "var_size": 8
+    },
+    "Data/Wordlists.dat64": {
+      "fixed_size": 0,
+      "row_count": 9,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "Data/Words.dat64": {
+      "fixed_size": 139584,
+      "row_count": 2181,
+      "row_width": 64,
+      "var_offset": 139588,
+      "var_size": 155832
+    },
+    "Data/WorldAreas.dat64": {
+      "fixed_size": 1003000,
+      "row_count": 1475,
+      "row_width": 680,
+      "var_offset": 1003004,
+      "var_size": 354578
+    },
+    "Data/ZanaQuests.dat64": {
+      "fixed_size": 276,
+      "row_count": 6,
+      "row_width": 46,
+      "var_offset": 280,
+      "var_size": 48
+    }
+  }
+}

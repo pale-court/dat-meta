@@ -1,19 +1,84 @@
 {
   "builds": {
+    "1001906": {
+      "game_version": "2.1.2d",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "10054912": {
       "game_version": "3.19.2b 206562",
       "shape_revision": 2,
       "time_updated": "1669917738"
+    },
+    "1005591": {
+      "game_version": "2.1.2e",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1006402": {
+      "game_version": "2.1.2e",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1007514": {
+      "game_version": "2.1.2e",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "10075864": {
       "game_version": "3.19.2c 206650",
       "shape_revision": 2,
       "time_updated": "1670360892"
     },
+    "1008809": {
+      "game_version": "2.2.0",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1009561": {
+      "game_version": "2.2.0",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1009663": {
+      "game_version": "2.2.0",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1009757": {
+      "game_version": "2.2.0b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1010113": {
+      "game_version": "2.2.0c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1010159": {
+      "game_version": "2.2.0c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1010848": {
+      "game_version": "2.2.0c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1010908": {
+      "game_version": "2.2.0c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "10113562": {
       "game_version": "3.20.0 207113",
       "shape_revision": 2,
       "time_updated": "1670604322"
+    },
+    "1011604": {
+      "game_version": "2.2.0c",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "10117091": {
       "game_version": "3.20.0 207113",
@@ -25,6 +90,11 @@
       "shape_revision": 2,
       "time_updated": "1670629544"
     },
+    "1011800": {
+      "game_version": "2.2.0d",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "10118542": {
       "game_version": "3.20.0 207134",
       "shape_revision": 2,
@@ -34,6 +104,11 @@
       "game_version": "3.20.0 207136",
       "shape_revision": 2,
       "time_updated": "1670649429"
+    },
+    "1012024": {
+      "game_version": "2.2.0e",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "10122059": {
       "game_version": "3.20.0 207151",
@@ -50,45 +125,100 @@
       "shape_revision": 2,
       "time_updated": "1671052905"
     },
+    "1015164": {
+      "game_version": "2.2.0f",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1015375": {
+      "game_version": "2.2.0g",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1017428": {
+      "game_version": "2.2.0h",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "10188614": {
       "game_version": "3.20.1 207952",
       "shape_revision": 2,
       "time_updated": "1671598392"
     },
-    "10297539": {
-      "game_version": "3.20.1b 208460",
+    "1019714": {
+      "game_version": "2.2.1",
       "shape_revision": 2,
-      "time_updated": "1673483555"
+      "time_updated": ""
     },
-    "10303354": {
-      "game_version": "3.20.1b 208509",
+    "1021198": {
+      "game_version": "2.2.1b",
       "shape_revision": 2,
-      "time_updated": "1673491697"
+      "time_updated": ""
     },
-    "10335422": {
-      "game_version": "3.20.1c 208658",
+    "1024509": {
+      "game_version": "2.2.1c",
       "shape_revision": 2,
-      "time_updated": "1673918099"
+      "time_updated": ""
     },
-    "10353532": {
-      "game_version": "3.20.1c 208846",
+    "1024757": {
+      "game_version": "2.2.1c",
       "shape_revision": 2,
-      "time_updated": "1674097398"
+      "time_updated": ""
     },
-    "10449664": {
-      "game_version": "3.20.2 209444",
+    "1028149": {
+      "game_version": "2.2.1d",
       "shape_revision": 2,
-      "time_updated": "1675292892"
+      "time_updated": ""
     },
-    "10706653": {
-      "game_version": "3.20.2b 211129",
+    "1031555": {
+      "game_version": "2.2.1d",
       "shape_revision": 2,
-      "time_updated": "1678221241"
+      "time_updated": ""
+    },
+    "1034946": {
+      "game_version": "2.2.1d",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1036681": {
+      "game_version": "2.2.1d",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1051611": {
+      "game_version": "2.2.1e",
+      "shape_revision": 2,
+      "time_updated": "1459466679"
+    },
+    "1061961": {
+      "game_version": "2.2.1f",
+      "shape_revision": 2,
+      "time_updated": "1460011055"
+    },
+    "1073195": {
+      "game_version": "2.2.2",
+      "shape_revision": 2,
+      "time_updated": "1460597245"
+    },
+    "1073552": {
+      "game_version": "2.2.2",
+      "shape_revision": 2,
+      "time_updated": "1460619926"
+    },
+    "1075734": {
+      "game_version": "2.2.2",
+      "shape_revision": 2,
+      "time_updated": "1460705339"
     },
     "10770062": {
       "game_version": "3.20.2b 211716",
       "shape_revision": 2,
       "time_updated": "1678840500"
+    },
+    "1084500": {
+      "game_version": "2.2.2b",
+      "shape_revision": 2,
+      "time_updated": "1461124834"
     },
     "10889804": {
       "game_version": "3.20.2c 212911",
@@ -140,6 +270,11 @@
       "shape_revision": 2,
       "time_updated": "1681874967"
     },
+    "1106917": {
+      "game_version": "2.2.2c",
+      "shape_revision": 2,
+      "time_updated": "1462246436"
+    },
     "11144071": {
       "game_version": "3.21.1 215155",
       "shape_revision": 2,
@@ -154,6 +289,2571 @@
       "game_version": "3.21.1 216223",
       "shape_revision": 2,
       "time_updated": "1684894904"
+    },
+    "1136663": {
+      "game_version": "2.2.2d",
+      "shape_revision": 2,
+      "time_updated": "1463691158"
+    },
+    "1162427": {
+      "game_version": "2.3.0",
+      "shape_revision": 2,
+      "time_updated": "1464973960"
+    },
+    "1163222": {
+      "game_version": "2.3.0",
+      "shape_revision": 2,
+      "time_updated": "1464988732"
+    },
+    "1163290": {
+      "game_version": "2.3.0",
+      "shape_revision": 2,
+      "time_updated": "1464990249"
+    },
+    "1163884": {
+      "game_version": "2.3.0b",
+      "shape_revision": 2,
+      "time_updated": "1465020938"
+    },
+    "1164610": {
+      "game_version": "2.3.0c",
+      "shape_revision": 2,
+      "time_updated": "1465102670"
+    },
+    "1165367": {
+      "game_version": "2.3.0d",
+      "shape_revision": 2,
+      "time_updated": "1465183665"
+    },
+    "1165473": {
+      "game_version": "2.3.0d",
+      "shape_revision": 2,
+      "time_updated": "1465195679"
+    },
+    "1169629": {
+      "game_version": "2.3.0e",
+      "shape_revision": 2,
+      "time_updated": "1465363938"
+    },
+    "1174116": {
+      "game_version": "2.3.0f",
+      "shape_revision": 2,
+      "time_updated": "1465544404"
+    },
+    "11754828": {
+      "game_version": "3.21.2 219778",
+      "shape_revision": 2,
+      "time_updated": "1690164146"
+    },
+    "11771014": {
+      "game_version": "3.21.2 220088",
+      "shape_revision": 2,
+      "time_updated": "1690181410"
+    },
+    "1177515": {
+      "game_version": "2.3.0g",
+      "shape_revision": 2,
+      "time_updated": "1465790802"
+    },
+    "11779665": {
+      "game_version": "3.21.2 220291",
+      "shape_revision": 2,
+      "time_updated": "1690263889"
+    },
+    "11780078": {
+      "game_version": "3.21.2 220309",
+      "shape_revision": 2,
+      "time_updated": "1690270156"
+    },
+    "11796902": {
+      "game_version": "3.21.2b 220546",
+      "shape_revision": 2,
+      "time_updated": "1690421775"
+    },
+    "1183571": {
+      "game_version": "2.3.0h",
+      "shape_revision": 2,
+      "time_updated": "1466064792"
+    },
+    "1192231": {
+      "game_version": "2.3.1",
+      "shape_revision": 2,
+      "time_updated": "1466570828"
+    },
+    "1192501": {
+      "game_version": "2.3.1",
+      "shape_revision": 2,
+      "time_updated": "1466585480"
+    },
+    "11942464": {
+      "game_version": "3.21.2c 221664",
+      "shape_revision": 2,
+      "time_updated": "1692138099"
+    },
+    "1196436": {
+      "game_version": "2.3.1",
+      "shape_revision": 2,
+      "time_updated": "1466734036"
+    },
+    "11977279": {
+      "game_version": "3.22.0 222138",
+      "shape_revision": 2,
+      "time_updated": "1692378636"
+    },
+    "11979436": {
+      "game_version": "3.22.0 222157",
+      "shape_revision": 2,
+      "time_updated": "1692400524"
+    },
+    "11981390": {
+      "game_version": "3.22.0 222185",
+      "shape_revision": 2,
+      "time_updated": "1692432081"
+    },
+    "11988438": {
+      "game_version": "3.22.0 222220",
+      "shape_revision": 2,
+      "time_updated": "1692592991"
+    },
+    "12000993": {
+      "game_version": "3.22.0b 222355",
+      "shape_revision": 2,
+      "time_updated": "1692758440"
+    },
+    "12046312": {
+      "game_version": "3.22.0b 222666",
+      "shape_revision": 2,
+      "time_updated": "1693195317"
+    },
+    "12046762": {
+      "game_version": "3.22.0b 222677",
+      "shape_revision": 2,
+      "time_updated": "1693202056"
+    },
+    "1205377": {
+      "game_version": "2.3.1b",
+      "shape_revision": 2,
+      "time_updated": "1467248830"
+    },
+    "12054036": {
+      "game_version": "3.22.0b 222683",
+      "shape_revision": 2,
+      "time_updated": "1693276396"
+    },
+    "12105596": {
+      "game_version": "3.22.1 223089",
+      "shape_revision": 2,
+      "time_updated": "1693881563"
+    },
+    "12120650": {
+      "game_version": "3.22.1 223242",
+      "shape_revision": 2,
+      "time_updated": "1694060211"
+    },
+    "1216027": {
+      "game_version": "2.3.1c",
+      "shape_revision": 2,
+      "time_updated": "1467940896"
+    },
+    "12174005": {
+      "game_version": "3.22.1b 223548",
+      "shape_revision": 2,
+      "time_updated": "1694573810"
+    },
+    "12212425": {
+      "game_version": "3.22.1b 223575",
+      "shape_revision": 2,
+      "time_updated": "1695013510"
+    },
+    "1222729": {
+      "game_version": "2.3.1c",
+      "shape_revision": 2,
+      "time_updated": "1468276957"
+    },
+    "12233304": {
+      "game_version": "3.22.1c 223873",
+      "shape_revision": 2,
+      "time_updated": "1695263172"
+    },
+    "12330378": {
+      "game_version": "3.22.1d 224481",
+      "shape_revision": 2,
+      "time_updated": "1696205048"
+    },
+    "12331323": {
+      "game_version": "3.22.1d 224525",
+      "shape_revision": 2,
+      "time_updated": "1696216072"
+    },
+    "1235407": {
+      "game_version": "2.3.2",
+      "shape_revision": 2,
+      "time_updated": "1468969976"
+    },
+    "1237514": {
+      "game_version": "2.3.2b",
+      "shape_revision": 2,
+      "time_updated": "1469068846"
+    },
+    "12521278": {
+      "game_version": "3.22.2 225591",
+      "shape_revision": 2,
+      "time_updated": "1698192370"
+    },
+    "12537703": {
+      "game_version": "3.22.2 225714",
+      "shape_revision": 2,
+      "time_updated": "1698288640"
+    },
+    "12567040": {
+      "game_version": "3.22.2 225841",
+      "shape_revision": 2,
+      "time_updated": "1698626296"
+    },
+    "1259243": {
+      "game_version": "2.3.3",
+      "shape_revision": 2,
+      "time_updated": "1470186761"
+    },
+    "12605467": {
+      "game_version": "3.22.2 226119",
+      "shape_revision": 2,
+      "time_updated": "1698969290"
+    },
+    "1261829": {
+      "game_version": "2.3.3",
+      "shape_revision": 2,
+      "time_updated": "1470291093"
+    },
+    "1276699": {
+      "game_version": "2.3.4",
+      "shape_revision": 2,
+      "time_updated": "1471035341"
+    },
+    "1283704": {
+      "game_version": "2.3.4",
+      "shape_revision": 2,
+      "time_updated": "1471411331"
+    },
+    "12875881": {
+      "game_version": "3.22.2b 228713",
+      "shape_revision": 2,
+      "time_updated": "1701812208"
+    },
+    "12909431": {
+      "game_version": "3.23.0 229169",
+      "shape_revision": 2,
+      "time_updated": "1702052029"
+    },
+    "12914924": {
+      "game_version": "3.23.0 229194",
+      "shape_revision": 2,
+      "time_updated": "1702068745"
+    },
+    "12915969": {
+      "game_version": "3.23.0 229212",
+      "shape_revision": 2,
+      "time_updated": "1702080575"
+    },
+    "12917259": {
+      "game_version": "3.23.0 229227",
+      "shape_revision": 2,
+      "time_updated": "1702097047"
+    },
+    "12918028": {
+      "game_version": "3.23.0 229237",
+      "shape_revision": 2,
+      "time_updated": "1702108211"
+    },
+    "12920613": {
+      "game_version": "3.23.0 229248",
+      "shape_revision": 2,
+      "time_updated": "1702161057"
+    },
+    "12925256": {
+      "game_version": "3.23.0 229296",
+      "shape_revision": 2,
+      "time_updated": "1702258802"
+    },
+    "12925921": {
+      "game_version": "3.23.0 229320",
+      "shape_revision": 2,
+      "time_updated": "1702268875"
+    },
+    "12956155": {
+      "game_version": "3.23.0b 229551",
+      "shape_revision": 2,
+      "time_updated": "1702521512"
+    },
+    "1296146": {
+      "game_version": "2.3.4b",
+      "shape_revision": 2,
+      "time_updated": "1472008352"
+    },
+    "12966602": {
+      "game_version": "3.23.0b 229644",
+      "shape_revision": 2,
+      "time_updated": "1702600692"
+    },
+    "12995705": {
+      "game_version": "3.23.0c 229769",
+      "shape_revision": 2,
+      "time_updated": "1702958008"
+    },
+    "1304630": {
+      "game_version": "2.3.4c",
+      "shape_revision": 2,
+      "time_updated": "1472414620"
+    },
+    "1305211": {
+      "game_version": "2.3.4c",
+      "shape_revision": 2,
+      "time_updated": "1472456045"
+    },
+    "1305482": {
+      "game_version": "2.3.4c",
+      "shape_revision": 2,
+      "time_updated": "1472469353"
+    },
+    "1306834": {
+      "game_version": "2.3.4c",
+      "shape_revision": 2,
+      "time_updated": "1472519736"
+    },
+    "1307354": {
+      "game_version": "2.3.4c",
+      "shape_revision": 2,
+      "time_updated": "1472546959"
+    },
+    "1314891": {
+      "game_version": "2.4.0",
+      "shape_revision": 2,
+      "time_updated": "1472836712"
+    },
+    "1315415": {
+      "game_version": "2.4.0",
+      "shape_revision": 2,
+      "time_updated": "1472843832"
+    },
+    "1315879": {
+      "game_version": "2.4.0",
+      "shape_revision": 2,
+      "time_updated": "1472865301"
+    },
+    "1316194": {
+      "game_version": "2.4.0",
+      "shape_revision": 2,
+      "time_updated": "1472890340"
+    },
+    "1316345": {
+      "game_version": "2.4.0",
+      "shape_revision": 2,
+      "time_updated": "1472902882"
+    },
+    "1317780": {
+      "game_version": "2.4.0b",
+      "shape_revision": 2,
+      "time_updated": "1473051899"
+    },
+    "1319614": {
+      "game_version": "2.4.0b",
+      "shape_revision": 2,
+      "time_updated": "1473145095"
+    },
+    "1321813": {
+      "game_version": "2.4.0b",
+      "shape_revision": 2,
+      "time_updated": "1473232362"
+    },
+    "1321917": {
+      "game_version": "2.4.0b",
+      "shape_revision": 2,
+      "time_updated": "1473238024"
+    },
+    "1323645": {
+      "game_version": "2.4.0c",
+      "shape_revision": 2,
+      "time_updated": "1473302607"
+    },
+    "1324113": {
+      "game_version": "2.4.0c",
+      "shape_revision": 2,
+      "time_updated": "1473328064"
+    },
+    "1325704": {
+      "game_version": "2.4.0d",
+      "shape_revision": 2,
+      "time_updated": "1473381125"
+    },
+    "132619": {
+      "game_version": "1.0.0b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "133062": {
+      "game_version": "1.0.0c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1332050": {
+      "game_version": "2.4.0e",
+      "shape_revision": 2,
+      "time_updated": "1473738912"
+    },
+    "1338640": {
+      "game_version": "2.4.0f",
+      "shape_revision": 2,
+      "time_updated": "1473988310"
+    },
+    "1338827": {
+      "game_version": "2.4.0f",
+      "shape_revision": 2,
+      "time_updated": "1473997539"
+    },
+    "134686": {
+      "game_version": "1.0.0d",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1352206": {
+      "game_version": "2.4.0g",
+      "shape_revision": 2,
+      "time_updated": "1474590716"
+    },
+    "135407": {
+      "game_version": "1.0.0d",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "135943": {
+      "game_version": "1.0.0e",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1363961": {
+      "game_version": "2.4.0h",
+      "shape_revision": 2,
+      "time_updated": "1475190754"
+    },
+    "139052": {
+      "game_version": "1.0.0f",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "139588": {
+      "game_version": "1.0.0g",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1397362": {
+      "game_version": "2.4.1",
+      "shape_revision": 2,
+      "time_updated": "1476744241"
+    },
+    "1398023": {
+      "game_version": "2.4.1",
+      "shape_revision": 2,
+      "time_updated": "1476779195"
+    },
+    "1404902": {
+      "game_version": "2.4.1b",
+      "shape_revision": 2,
+      "time_updated": "1477024873"
+    },
+    "142168": {
+      "game_version": "1.0.1",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "142249": {
+      "game_version": "1.0.1b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1454619": {
+      "game_version": "2.4.1c",
+      "shape_revision": 2,
+      "time_updated": "1478920571"
+    },
+    "146258": {
+      "game_version": "1.0.1c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1465491": {
+      "game_version": "2.4.2",
+      "shape_revision": 2,
+      "time_updated": "1479414946"
+    },
+    "1466045": {
+      "game_version": "2.4.2",
+      "shape_revision": 2,
+      "time_updated": "1479432735"
+    },
+    "1466161": {
+      "game_version": "2.4.2",
+      "shape_revision": 2,
+      "time_updated": "1479438257"
+    },
+    "1466341": {
+      "game_version": "2.4.2",
+      "shape_revision": 2,
+      "time_updated": "1479447895"
+    },
+    "1467238": {
+      "game_version": "2.4.3",
+      "shape_revision": 2,
+      "time_updated": "1479502105"
+    },
+    "146948": {
+      "game_version": "1.0.1c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1472869": {
+      "game_version": "2.4.3b",
+      "shape_revision": 2,
+      "time_updated": "1479779865"
+    },
+    "147544": {
+      "game_version": "1.0.1c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1475564": {
+      "game_version": "2.4.3b",
+      "shape_revision": 2,
+      "time_updated": "1479872119"
+    },
+    "1484186": {
+      "game_version": "2.4.3c",
+      "shape_revision": 2,
+      "time_updated": "1480368042"
+    },
+    "1493832": {
+      "game_version": "2.5.0",
+      "shape_revision": 2,
+      "time_updated": "1480699063"
+    },
+    "1495034": {
+      "game_version": "2.5.0",
+      "shape_revision": 2,
+      "time_updated": "1480702813"
+    },
+    "1495911": {
+      "game_version": "2.5.0",
+      "shape_revision": 2,
+      "time_updated": "1480733519"
+    },
+    "150089": {
+      "game_version": "1.0.2",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1504490": {
+      "game_version": "2.5.0b",
+      "shape_revision": 2,
+      "time_updated": "1481141152"
+    },
+    "1505308": {
+      "game_version": "2.5.0b",
+      "shape_revision": 2,
+      "time_updated": "1481171146"
+    },
+    "1507556": {
+      "game_version": "2.5.0c",
+      "shape_revision": 2,
+      "time_updated": "1481243472"
+    },
+    "151328": {
+      "game_version": "1.0.2b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1517709": {
+      "game_version": "2.5.0d",
+      "shape_revision": 2,
+      "time_updated": "1481684147"
+    },
+    "1523152": {
+      "game_version": "2.5.0d",
+      "shape_revision": 2,
+      "time_updated": "1481856535"
+    },
+    "153318": {
+      "game_version": "1.0.2c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1534850": {
+      "game_version": "2.5.1",
+      "shape_revision": 2,
+      "time_updated": "1482366705"
+    },
+    "1537594": {
+      "game_version": "2.5.1b",
+      "shape_revision": 2,
+      "time_updated": "1482449078"
+    },
+    "1543697": {
+      "game_version": "2.5.1b",
+      "shape_revision": 2,
+      "time_updated": "1482979924"
+    },
+    "1544921": {
+      "game_version": "2.5.1b",
+      "shape_revision": 2,
+      "time_updated": "1483065815"
+    },
+    "1557721": {
+      "game_version": "2.5.1c",
+      "shape_revision": 2,
+      "time_updated": "1483930879"
+    },
+    "156456": {
+      "game_version": "1.0.3",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "156999": {
+      "game_version": "1.0.3b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1586588": {
+      "game_version": "2.5.2",
+      "shape_revision": 2,
+      "time_updated": "1485214535"
+    },
+    "1586884": {
+      "game_version": "2.5.2b",
+      "shape_revision": 2,
+      "time_updated": "1485225737"
+    },
+    "1591319": {
+      "game_version": "2.5.2c",
+      "shape_revision": 2,
+      "time_updated": "1485390175"
+    },
+    "1593566": {
+      "game_version": "2.5.2d",
+      "shape_revision": 2,
+      "time_updated": "1485477819"
+    },
+    "1593706": {
+      "game_version": "2.5.2c",
+      "shape_revision": 2,
+      "time_updated": "1485485079"
+    },
+    "160701": {
+      "game_version": "1.0.3c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1616970": {
+      "game_version": "2.5.2d",
+      "shape_revision": 2,
+      "time_updated": "1486526640"
+    },
+    "162304": {
+      "game_version": "1.0.4",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1629650": {
+      "game_version": "2.5.2d",
+      "shape_revision": 2,
+      "time_updated": "1487056797"
+    },
+    "1636907": {
+      "game_version": "2.5.3",
+      "shape_revision": 2,
+      "time_updated": "1487278340"
+    },
+    "1637614": {
+      "game_version": "2.5.3",
+      "shape_revision": 2,
+      "time_updated": "1487304644"
+    },
+    "1647526": {
+      "game_version": "2.5.3b",
+      "shape_revision": 2,
+      "time_updated": "1487733154"
+    },
+    "1647750": {
+      "game_version": "2.5.3b",
+      "shape_revision": 2,
+      "time_updated": "1487745419"
+    },
+    "1660802": {
+      "game_version": "2.5.4",
+      "shape_revision": 2,
+      "time_updated": "1488318994"
+    },
+    "1662190": {
+      "game_version": "2.5.4",
+      "shape_revision": 2,
+      "time_updated": "1488322004"
+    },
+    "166258": {
+      "game_version": "1.0.5",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1668162": {
+      "game_version": "2.6.0",
+      "shape_revision": 2,
+      "time_updated": "1488560797"
+    },
+    "1669200": {
+      "game_version": "2.6.0",
+      "shape_revision": 2,
+      "time_updated": "1488565364"
+    },
+    "1669732": {
+      "game_version": "2.6.0",
+      "shape_revision": 2,
+      "time_updated": "1488583441"
+    },
+    "1669979": {
+      "game_version": "2.6.0",
+      "shape_revision": 2,
+      "time_updated": "1488599039"
+    },
+    "1679115": {
+      "game_version": "2.6.0d",
+      "shape_revision": 2,
+      "time_updated": "1489021552"
+    },
+    "1681562": {
+      "game_version": "2.6.0e",
+      "shape_revision": 2,
+      "time_updated": "1489103295"
+    },
+    "1693868": {
+      "game_version": "2.6.0f",
+      "shape_revision": 2,
+      "time_updated": "1489626490"
+    },
+    "1701618": {
+      "game_version": "2.6.0g",
+      "shape_revision": 2,
+      "time_updated": "1489973491"
+    },
+    "171025": {
+      "game_version": "1.0.5b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1764265": {
+      "game_version": "2.6.0h",
+      "shape_revision": 2,
+      "time_updated": "1492566387"
+    },
+    "1771664": {
+      "game_version": "2.6.0i",
+      "shape_revision": 2,
+      "time_updated": "1492747573"
+    },
+    "1776021": {
+      "game_version": "2.6.0j",
+      "shape_revision": 2,
+      "time_updated": "1493003527"
+    },
+    "177891": {
+      "game_version": "1.0.6",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "178015": {
+      "game_version": "1.0.6",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1784077": {
+      "game_version": "2.6.0k",
+      "shape_revision": 2,
+      "time_updated": "1493335695"
+    },
+    "1811199": {
+      "game_version": "2.6.0l",
+      "shape_revision": 2,
+      "time_updated": "1494395170"
+    },
+    "181528": {
+      "game_version": "1.0.6b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1831869": {
+      "game_version": "2.6.0l",
+      "shape_revision": 2,
+      "time_updated": "1495573186"
+    },
+    "1841914": {
+      "game_version": "2.6.0l",
+      "shape_revision": 2,
+      "time_updated": "1495598007"
+    },
+    "1846468": {
+      "game_version": "2.6.0l",
+      "shape_revision": 2,
+      "time_updated": "1495755653"
+    },
+    "1858825": {
+      "game_version": "2.6.0m",
+      "shape_revision": 2,
+      "time_updated": "1496288028"
+    },
+    "186134": {
+      "game_version": "1.0.6b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1867068": {
+      "game_version": "2.6.1",
+      "shape_revision": 2,
+      "time_updated": "1496702125"
+    },
+    "1873435": {
+      "game_version": "2.6.2",
+      "shape_revision": 2,
+      "time_updated": "1496869070"
+    },
+    "1876111": {
+      "game_version": "2.6.2",
+      "shape_revision": 2,
+      "time_updated": "1496907774"
+    },
+    "190048": {
+      "game_version": "1.0.6b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1901924": {
+      "game_version": "2.6.2",
+      "shape_revision": 2,
+      "time_updated": "1498001877"
+    },
+    "192097": {
+      "game_version": "1.0.6b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "1956454": {
+      "game_version": "2.6.2",
+      "shape_revision": 2,
+      "time_updated": "1499984372"
+    },
+    "1973886": {
+      "game_version": "2.6.2",
+      "shape_revision": 2,
+      "time_updated": "1500528333"
+    },
+    "1974078": {
+      "game_version": "2.6.3",
+      "shape_revision": 2,
+      "time_updated": "1500593144"
+    },
+    "1990787": {
+      "game_version": "2.6.3",
+      "shape_revision": 2,
+      "time_updated": "1501194638"
+    },
+    "1992927": {
+      "game_version": "2.6.3",
+      "shape_revision": 2,
+      "time_updated": "1501542949"
+    },
+    "2012775": {
+      "game_version": "3.0.0",
+      "shape_revision": 2,
+      "time_updated": "1501867778"
+    },
+    "2014477": {
+      "game_version": "3.0.0b",
+      "shape_revision": 2,
+      "time_updated": "1501921442"
+    },
+    "2029504": {
+      "game_version": "3.0.0c",
+      "shape_revision": 2,
+      "time_updated": "1502415053"
+    },
+    "2048067": {
+      "game_version": "3.0.1",
+      "shape_revision": 2,
+      "time_updated": "1503014858"
+    },
+    "2048855": {
+      "game_version": "3.0.1",
+      "shape_revision": 2,
+      "time_updated": "1503046058"
+    },
+    "2054037": {
+      "game_version": "3.0.1",
+      "shape_revision": 2,
+      "time_updated": "1503281502"
+    },
+    "206105": {
+      "game_version": "1.1.0",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "206457": {
+      "game_version": "1.1.0b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "206540": {
+      "game_version": "1.1.0c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "2066675": {
+      "game_version": "3.0.1b",
+      "shape_revision": 2,
+      "time_updated": "1503630404"
+    },
+    "2074923": {
+      "game_version": "3.0.1c",
+      "shape_revision": 2,
+      "time_updated": "1503980428"
+    },
+    "207525": {
+      "game_version": "1.1.0d",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "209445": {
+      "game_version": "1.1.0e",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "2094600": {
+      "game_version": "3.0.1d",
+      "shape_revision": 2,
+      "time_updated": "1504661772"
+    },
+    "210214": {
+      "game_version": "1.1.0f",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "2117537": {
+      "game_version": "3.0.1e",
+      "shape_revision": 2,
+      "time_updated": "1505435798"
+    },
+    "212773": {
+      "game_version": "1.1.1",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "2128784": {
+      "game_version": "3.0.1e",
+      "shape_revision": 2,
+      "time_updated": "1505863390"
+    },
+    "215572": {
+      "game_version": "1.1.1b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "2184770": {
+      "game_version": "3.0.1e",
+      "shape_revision": 2,
+      "time_updated": "1507595431"
+    },
+    "2191584": {
+      "game_version": "3.0.2",
+      "shape_revision": 2,
+      "time_updated": "1507776973"
+    },
+    "2194283": {
+      "game_version": "3.0.2",
+      "shape_revision": 2,
+      "time_updated": "1507847456"
+    },
+    "2210133": {
+      "game_version": "3.0.2b",
+      "shape_revision": 2,
+      "time_updated": "1508372974"
+    },
+    "222104": {
+      "game_version": "1.1.1c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "2234611": {
+      "game_version": "3.0.2b",
+      "shape_revision": 2,
+      "time_updated": "1509322521"
+    },
+    "223688": {
+      "game_version": "1.1.1c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "2243445": {
+      "game_version": "3.0.2c",
+      "shape_revision": 2,
+      "time_updated": "1509412579"
+    },
+    "2260147": {
+      "game_version": "3.0.2c",
+      "shape_revision": 2,
+      "time_updated": "1510027473"
+    },
+    "2265417": {
+      "game_version": "3.0.2c",
+      "shape_revision": 2,
+      "time_updated": "1510091155"
+    },
+    "2289760": {
+      "game_version": "3.0.3",
+      "shape_revision": 2,
+      "time_updated": "1510861685"
+    },
+    "229859": {
+      "game_version": "1.1.2",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "2302697": {
+      "game_version": "3.0.3b",
+      "shape_revision": 2,
+      "time_updated": "1511297651"
+    },
+    "2350415": {
+      "game_version": "3.0.3b",
+      "shape_revision": 2,
+      "time_updated": "1512702174"
+    },
+    "2351454": {
+      "game_version": "3.1.0",
+      "shape_revision": 2,
+      "time_updated": "1512753503"
+    },
+    "2352783": {
+      "game_version": "3.1.0",
+      "shape_revision": 2,
+      "time_updated": "1512759294"
+    },
+    "2353630": {
+      "game_version": "3.1.0b",
+      "shape_revision": 2,
+      "time_updated": "1512792130"
+    },
+    "2356423": {
+      "game_version": "3.1.0c",
+      "shape_revision": 2,
+      "time_updated": "1512963916"
+    },
+    "2359712": {
+      "game_version": "3.1.0d",
+      "shape_revision": 2,
+      "time_updated": "1513053654"
+    },
+    "2362880": {
+      "game_version": "3.1.0d",
+      "shape_revision": 2,
+      "time_updated": "1513130483"
+    },
+    "2370034": {
+      "game_version": "3.1.1",
+      "shape_revision": 2,
+      "time_updated": "1513305468"
+    },
+    "2370535": {
+      "game_version": "3.1.1",
+      "shape_revision": 2,
+      "time_updated": "1513313073"
+    },
+    "237593": {
+      "game_version": "1.1.2b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "2376693": {
+      "game_version": "3.1.1b",
+      "shape_revision": 2,
+      "time_updated": "1513569632"
+    },
+    "2384807": {
+      "game_version": "3.1.1c",
+      "shape_revision": 2,
+      "time_updated": "1513813468"
+    },
+    "2388002": {
+      "game_version": "3.1.1c",
+      "shape_revision": 2,
+      "time_updated": "1513819821"
+    },
+    "2389147": {
+      "game_version": "3.1.1d",
+      "shape_revision": 2,
+      "time_updated": "1513847248"
+    },
+    "2408605": {
+      "game_version": "3.1.1e",
+      "shape_revision": 2,
+      "time_updated": "1514944625"
+    },
+    "2446094": {
+      "game_version": "3.1.2",
+      "shape_revision": 2,
+      "time_updated": "1516309285"
+    },
+    "2449965": {
+      "game_version": "3.1.2",
+      "shape_revision": 2,
+      "time_updated": "1516329461"
+    },
+    "2467389": {
+      "game_version": "3.1.3",
+      "shape_revision": 2,
+      "time_updated": "1516919149"
+    },
+    "249920": {
+      "game_version": "1.1.3",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "250174": {
+      "game_version": "1.1.3",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "2503271": {
+      "game_version": "3.1.3",
+      "shape_revision": 2,
+      "time_updated": "1517972383"
+    },
+    "2528019": {
+      "game_version": "3.1.4",
+      "shape_revision": 2,
+      "time_updated": "1518724464"
+    },
+    "2530709": {
+      "game_version": "3.1.4",
+      "shape_revision": 2,
+      "time_updated": "1518751050"
+    },
+    "2570363": {
+      "game_version": "3.2.0",
+      "shape_revision": 2,
+      "time_updated": "1520010610"
+    },
+    "2571919": {
+      "game_version": "3.2.0",
+      "shape_revision": 2,
+      "time_updated": "1520026007"
+    },
+    "2572045": {
+      "game_version": "3.2.0",
+      "shape_revision": 2,
+      "time_updated": "1520035203"
+    },
+    "2572800": {
+      "game_version": "3.2.0",
+      "shape_revision": 2,
+      "time_updated": "1520060549"
+    },
+    "2575515": {
+      "game_version": "3.2.0",
+      "shape_revision": 2,
+      "time_updated": "1520219429"
+    },
+    "2575776": {
+      "game_version": "3.2.0",
+      "shape_revision": 2,
+      "time_updated": "1520231292"
+    },
+    "2585363": {
+      "game_version": "3.2.0b",
+      "shape_revision": 2,
+      "time_updated": "1520479213"
+    },
+    "258834": {
+      "game_version": "1.1.3b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "2588758": {
+      "game_version": "3.2.0b",
+      "shape_revision": 2,
+      "time_updated": "1520564889"
+    },
+    "2608034": {
+      "game_version": "3.2.1",
+      "shape_revision": 2,
+      "time_updated": "1521159920"
+    },
+    "2608889": {
+      "game_version": "3.2.1",
+      "shape_revision": 2,
+      "time_updated": "1521184511"
+    },
+    "2614377": {
+      "game_version": "3.2.1",
+      "shape_revision": 2,
+      "time_updated": "1521419672"
+    },
+    "2626558": {
+      "game_version": "3.2.1b",
+      "shape_revision": 2,
+      "time_updated": "1521766661"
+    },
+    "2638268": {
+      "game_version": "3.2.1c",
+      "shape_revision": 2,
+      "time_updated": "1522197838"
+    },
+    "2647321": {
+      "game_version": "3.2.2",
+      "shape_revision": 2,
+      "time_updated": "1522541856"
+    },
+    "2661244": {
+      "game_version": "3.2.2b",
+      "shape_revision": 2,
+      "time_updated": "1522967350"
+    },
+    "2694802": {
+      "game_version": "3.2.2c",
+      "shape_revision": 2,
+      "time_updated": "1524006483"
+    },
+    "2715624": {
+      "game_version": "3.2.3",
+      "shape_revision": 2,
+      "time_updated": "1524699825"
+    },
+    "2722577": {
+      "game_version": "3.2.3",
+      "shape_revision": 2,
+      "time_updated": "1524722682"
+    },
+    "2738565": {
+      "game_version": "3.2.3b",
+      "shape_revision": 2,
+      "time_updated": "1525301046"
+    },
+    "2741366": {
+      "game_version": "3.2.3b",
+      "shape_revision": 2,
+      "time_updated": "1525319556"
+    },
+    "2753828": {
+      "game_version": "3.2.3c",
+      "shape_revision": 2,
+      "time_updated": "1525753129"
+    },
+    "2761681": {
+      "game_version": "3.2.4",
+      "shape_revision": 2,
+      "time_updated": "1525985437"
+    },
+    "2763605": {
+      "game_version": "3.2.4",
+      "shape_revision": 2,
+      "time_updated": "1526003325"
+    },
+    "2771137": {
+      "game_version": "3.2.4",
+      "shape_revision": 2,
+      "time_updated": "1526348271"
+    },
+    "2783929": {
+      "game_version": "3.2.4b",
+      "shape_revision": 2,
+      "time_updated": "1526607140"
+    },
+    "2804202": {
+      "game_version": "3.2.4c",
+      "shape_revision": 2,
+      "time_updated": "1527197262"
+    },
+    "2826533": {
+      "game_version": "3.3.0",
+      "shape_revision": 2,
+      "time_updated": "1527874329"
+    },
+    "2827314": {
+      "game_version": "3.3.0",
+      "shape_revision": 2,
+      "time_updated": "1527895962"
+    },
+    "2827557": {
+      "game_version": "3.3.0",
+      "shape_revision": 2,
+      "time_updated": "1527903215"
+    },
+    "283144": {
+      "game_version": "1.1.4",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "2833723": {
+      "game_version": "3.3.0b",
+      "shape_revision": 2,
+      "time_updated": "1528178453"
+    },
+    "2843640": {
+      "game_version": "3.3.0b",
+      "shape_revision": 2,
+      "time_updated": "1528414803"
+    },
+    "2860428": {
+      "game_version": "3.3.0c",
+      "shape_revision": 2,
+      "time_updated": "1529015309"
+    },
+    "287263": {
+      "game_version": "1.1.4b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "2877638": {
+      "game_version": "3.3.0d",
+      "shape_revision": 2,
+      "time_updated": "1529532364"
+    },
+    "2910686": {
+      "game_version": "3.3.1",
+      "shape_revision": 2,
+      "time_updated": "1530570787"
+    },
+    "2913760": {
+      "game_version": "3.3.1",
+      "shape_revision": 2,
+      "time_updated": "1530595363"
+    },
+    "291381": {
+      "game_version": "1.1.4b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "2931875": {
+      "game_version": "3.3.1b",
+      "shape_revision": 2,
+      "time_updated": "1531260564"
+    },
+    "2934916": {
+      "game_version": "3.3.1b",
+      "shape_revision": 2,
+      "time_updated": "1531265320"
+    },
+    "2957528": {
+      "game_version": "3.3.1b",
+      "shape_revision": 2,
+      "time_updated": "1531965472"
+    },
+    "2961813": {
+      "game_version": "3.3.1b",
+      "shape_revision": 2,
+      "time_updated": "1532318301"
+    },
+    "297238": {
+      "game_version": "1.1.4b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "2981617": {
+      "game_version": "3.3.1c",
+      "shape_revision": 2,
+      "time_updated": "1532988849"
+    },
+    "3018702": {
+      "game_version": "3.3.2",
+      "shape_revision": 2,
+      "time_updated": "1533849221"
+    },
+    "3020860": {
+      "game_version": "3.3.2",
+      "shape_revision": 2,
+      "time_updated": "1533864117"
+    },
+    "3027113": {
+      "game_version": "3.3.2",
+      "shape_revision": 2,
+      "time_updated": "1534127883"
+    },
+    "303533": {
+      "game_version": "1.1.4c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "3049168": {
+      "game_version": "3.3.2",
+      "shape_revision": 2,
+      "time_updated": "1534815442"
+    },
+    "3081610": {
+      "game_version": "3.4.0",
+      "shape_revision": 2,
+      "time_updated": "1535736276"
+    },
+    "3083661": {
+      "game_version": "3.4.0b",
+      "shape_revision": 2,
+      "time_updated": "1535778830"
+    },
+    "3083950": {
+      "game_version": "3.4.0c",
+      "shape_revision": 2,
+      "time_updated": "1535792388"
+    },
+    "3085034": {
+      "game_version": "3.4.0d",
+      "shape_revision": 2,
+      "time_updated": "1535855496"
+    },
+    "3085147": {
+      "game_version": "3.4.0d",
+      "shape_revision": 2,
+      "time_updated": "1535855384"
+    },
+    "3086465": {
+      "game_version": "3.4.0e",
+      "shape_revision": 2,
+      "time_updated": "1535942443"
+    },
+    "3093750": {
+      "game_version": "3.4.1",
+      "shape_revision": 2,
+      "time_updated": "1536185676"
+    },
+    "3106133": {
+      "game_version": "3.4.1b",
+      "shape_revision": 2,
+      "time_updated": "1536553033"
+    },
+    "3109503": {
+      "game_version": "3.4.1b",
+      "shape_revision": 2,
+      "time_updated": "1536636422"
+    },
+    "3120124": {
+      "game_version": "3.4.2",
+      "shape_revision": 2,
+      "time_updated": "1536886519"
+    },
+    "3120520": {
+      "game_version": "3.4.2",
+      "shape_revision": 2,
+      "time_updated": "1536893073"
+    },
+    "3120933": {
+      "game_version": "3.4.2",
+      "shape_revision": 2,
+      "time_updated": "1536906783"
+    },
+    "3135368": {
+      "game_version": "3.4.2",
+      "shape_revision": 2,
+      "time_updated": "1537348148"
+    },
+    "3139952": {
+      "game_version": "3.4.3",
+      "shape_revision": 2,
+      "time_updated": "1537481634"
+    },
+    "3143486": {
+      "game_version": "3.4.3b",
+      "shape_revision": 2,
+      "time_updated": "1537514140"
+    },
+    "314889": {
+      "game_version": "1.1.5",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "3160658": {
+      "game_version": "3.4.3c",
+      "shape_revision": 2,
+      "time_updated": "1538086401"
+    },
+    "3163341": {
+      "game_version": "3.4.3c",
+      "shape_revision": 2,
+      "time_updated": "1538101187"
+    },
+    "316503": {
+      "game_version": "1.1.5b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "3177803": {
+      "game_version": "3.4.3d",
+      "shape_revision": 2,
+      "time_updated": "1538601043"
+    },
+    "3181382": {
+      "game_version": "3.4.3d",
+      "shape_revision": 2,
+      "time_updated": "1538630750"
+    },
+    "3194591": {
+      "game_version": "3.4.3e",
+      "shape_revision": 2,
+      "time_updated": "1539119383"
+    },
+    "3219482": {
+      "game_version": "3.4.3f",
+      "shape_revision": 2,
+      "time_updated": "1539810649"
+    },
+    "326881": {
+      "game_version": "1.1.5c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "3283643": {
+      "game_version": "3.4.4",
+      "shape_revision": 2,
+      "time_updated": "1541625452"
+    },
+    "3302022": {
+      "game_version": "3.4.5",
+      "shape_revision": 2,
+      "time_updated": "1542138704"
+    },
+    "3304873": {
+      "game_version": "3.4.5b",
+      "shape_revision": 2,
+      "time_updated": "1542165236"
+    },
+    "3308449": {
+      "game_version": "3.4.5b",
+      "shape_revision": 2,
+      "time_updated": "1542246594"
+    },
+    "3312045": {
+      "game_version": "3.4.5b",
+      "shape_revision": 2,
+      "time_updated": "1542333168"
+    },
+    "3338394": {
+      "game_version": "3.4.5c",
+      "shape_revision": 2,
+      "time_updated": "1543211611"
+    },
+    "3345438": {
+      "game_version": "3.4.5c",
+      "shape_revision": 2,
+      "time_updated": "1543381577"
+    },
+    "334967": {
+      "game_version": "1.1.5d",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "335010": {
+      "game_version": "1.1.5d",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "3360471": {
+      "game_version": "3.4.5d",
+      "shape_revision": 2,
+      "time_updated": "1543874356"
+    },
+    "3362939": {
+      "game_version": "3.4.5d",
+      "shape_revision": 2,
+      "time_updated": "1543875648"
+    },
+    "3376465": {
+      "game_version": "3.5.0",
+      "shape_revision": 2,
+      "time_updated": "1544199050"
+    },
+    "3377434": {
+      "game_version": "3.5.0b",
+      "shape_revision": 2,
+      "time_updated": "1544221660"
+    },
+    "3379498": {
+      "game_version": "3.5.0b",
+      "shape_revision": 2,
+      "time_updated": "1544324420"
+    },
+    "3380979": {
+      "game_version": "3.5.0b",
+      "shape_revision": 2,
+      "time_updated": "1544412499"
+    },
+    "3392072": {
+      "game_version": "3.5.0c",
+      "shape_revision": 2,
+      "time_updated": "1544669588"
+    },
+    "3410516": {
+      "game_version": "3.5.0d",
+      "shape_revision": 2,
+      "time_updated": "1545183725"
+    },
+    "3418121": {
+      "game_version": "3.5.1",
+      "shape_revision": 2,
+      "time_updated": "1545349867"
+    },
+    "341819": {
+      "game_version": "1.1.5d",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "3456494": {
+      "game_version": "3.5.1b",
+      "shape_revision": 2,
+      "time_updated": "1547154851"
+    },
+    "3465529": {
+      "game_version": "3.5.1c",
+      "shape_revision": 2,
+      "time_updated": "1547425726"
+    },
+    "3486298": {
+      "game_version": "3.5.2",
+      "shape_revision": 2,
+      "time_updated": "1548105364"
+    },
+    "3492988": {
+      "game_version": "3.5.2",
+      "shape_revision": 2,
+      "time_updated": "1548224626"
+    },
+    "350079": {
+      "game_version": "1.1.5e",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "3518185": {
+      "game_version": "3.5.3",
+      "shape_revision": 2,
+      "time_updated": "1548969389"
+    },
+    "3521677": {
+      "game_version": "3.5.3",
+      "shape_revision": 2,
+      "time_updated": "1548995616"
+    },
+    "3573603": {
+      "game_version": "3.5.4",
+      "shape_revision": 2,
+      "time_updated": "1550606630"
+    },
+    "3576155": {
+      "game_version": "3.5.4",
+      "shape_revision": 2,
+      "time_updated": "1550620156"
+    },
+    "3580479": {
+      "game_version": "3.5.4b",
+      "shape_revision": 2,
+      "time_updated": "1550785393"
+    },
+    "360780": {
+      "game_version": "1.2.0",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "362467": {
+      "game_version": "1.2.0b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "3628794": {
+      "game_version": "3.6.0",
+      "shape_revision": 2,
+      "time_updated": "1552064531"
+    },
+    "3629240": {
+      "game_version": "3.6.0",
+      "shape_revision": 2,
+      "time_updated": "1552070041"
+    },
+    "3629967": {
+      "game_version": "3.6.0",
+      "shape_revision": 2,
+      "time_updated": "1552087715"
+    },
+    "3630348": {
+      "game_version": "3.6.0",
+      "shape_revision": 2,
+      "time_updated": "1552100734"
+    },
+    "3630478": {
+      "game_version": "3.6.0",
+      "shape_revision": 2,
+      "time_updated": "1552114228"
+    },
+    "3633247": {
+      "game_version": "3.6.0b",
+      "shape_revision": 2,
+      "time_updated": "1552272020"
+    },
+    "3636498": {
+      "game_version": "3.6.0c",
+      "shape_revision": 2,
+      "time_updated": "1552359305"
+    },
+    "3644107": {
+      "game_version": "3.6.1",
+      "shape_revision": 2,
+      "time_updated": "1552599965"
+    },
+    "364997": {
+      "game_version": "1.2.0c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "3654879": {
+      "game_version": "3.6.1b",
+      "shape_revision": 2,
+      "time_updated": "1552878501"
+    },
+    "3666781": {
+      "game_version": "3.6.2",
+      "shape_revision": 2,
+      "time_updated": "1553205686"
+    },
+    "3669369": {
+      "game_version": "3.6.2",
+      "shape_revision": 2,
+      "time_updated": "1553214072"
+    },
+    "368158": {
+      "game_version": "1.2.1",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "368279": {
+      "game_version": "1.2.1",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "3683560": {
+      "game_version": "3.6.3",
+      "shape_revision": 2,
+      "time_updated": "1553722973"
+    },
+    "3686786": {
+      "game_version": "3.6.3",
+      "shape_revision": 2,
+      "time_updated": "1553745293"
+    },
+    "3707903": {
+      "game_version": "3.6.3b",
+      "shape_revision": 2,
+      "time_updated": "1554412208"
+    },
+    "371673": {
+      "game_version": "1.2.1b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "3723750": {
+      "game_version": "3.6.3c",
+      "shape_revision": 2,
+      "time_updated": "1554865689"
+    },
+    "3730579": {
+      "game_version": "3.6.3c",
+      "shape_revision": 2,
+      "time_updated": "1555036174"
+    },
+    "3743771": {
+      "game_version": "3.6.3d",
+      "shape_revision": 2,
+      "time_updated": "1555466666"
+    },
+    "3786856": {
+      "game_version": "3.6.4",
+      "shape_revision": 2,
+      "time_updated": "1556834854"
+    },
+    "380314": {
+      "game_version": "1.2.2",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "380365": {
+      "game_version": "1.2.2",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "380394": {
+      "game_version": "1.2.2",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "380461": {
+      "game_version": "1.2.2b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "380484": {
+      "game_version": "1.2.2b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "3831906": {
+      "game_version": "3.6.4",
+      "shape_revision": 2,
+      "time_updated": "1558068440"
+    },
+    "383337": {
+      "game_version": "1.2.2c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "3843066": {
+      "game_version": "3.6.5",
+      "shape_revision": 2,
+      "time_updated": "1558472933"
+    },
+    "3866395": {
+      "game_version": "3.6.6",
+      "shape_revision": 2,
+      "time_updated": "1559089217"
+    },
+    "3869947": {
+      "game_version": "3.6.6b",
+      "shape_revision": 2,
+      "time_updated": "1559171275"
+    },
+    "3881789": {
+      "game_version": "3.6.6c",
+      "shape_revision": 2,
+      "time_updated": "1559599590"
+    },
+    "3898117": {
+      "game_version": "3.7.0",
+      "shape_revision": 2,
+      "time_updated": "1559927347"
+    },
+    "3899630": {
+      "game_version": "3.7.0",
+      "shape_revision": 2,
+      "time_updated": "1559947426"
+    },
+    "3899739": {
+      "game_version": "3.7.0b",
+      "shape_revision": 2,
+      "time_updated": "1559954420"
+    },
+    "3900024": {
+      "game_version": "3.7.0c",
+      "shape_revision": 2,
+      "time_updated": "1559960553"
+    },
+    "3900167": {
+      "game_version": "3.7.0d",
+      "shape_revision": 2,
+      "time_updated": "1559965297"
+    },
+    "3900326": {
+      "game_version": "3.7.0e",
+      "shape_revision": 2,
+      "time_updated": "1559979490"
+    },
+    "3901890": {
+      "game_version": "3.7.0e",
+      "shape_revision": 2,
+      "time_updated": "1560065390"
+    },
+    "3906659": {
+      "game_version": "3.7.0f",
+      "shape_revision": 2,
+      "time_updated": "1560236005"
+    },
+    "3909762": {
+      "game_version": "3.7.0f",
+      "shape_revision": 2,
+      "time_updated": "1560297211"
+    },
+    "3914756": {
+      "game_version": "3.7.1",
+      "shape_revision": 2,
+      "time_updated": "1560463473"
+    },
+    "3916914": {
+      "game_version": "3.7.1b",
+      "shape_revision": 2,
+      "time_updated": "1560472995"
+    },
+    "3917442": {
+      "game_version": "3.7.1c",
+      "shape_revision": 2,
+      "time_updated": "1560499794"
+    },
+    "3926944": {
+      "game_version": "3.7.1d",
+      "shape_revision": 2,
+      "time_updated": "1560825278"
+    },
+    "3936594": {
+      "game_version": "3.7.2",
+      "shape_revision": 2,
+      "time_updated": "1561015654"
+    },
+    "3950939": {
+      "game_version": "3.7.2b",
+      "shape_revision": 2,
+      "time_updated": "1561435342"
+    },
+    "395541": {
+      "game_version": "1.2.3",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "395593": {
+      "game_version": "1.2.3",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "3962663": {
+      "game_version": "3.7.3",
+      "shape_revision": 2,
+      "time_updated": "1561689928"
+    },
+    "3963159": {
+      "game_version": "3.7.3",
+      "shape_revision": 2,
+      "time_updated": "1561705260"
+    },
+    "3977854": {
+      "game_version": "3.7.3b",
+      "shape_revision": 2,
+      "time_updated": "1562199095"
+    },
+    "398718": {
+      "game_version": "1.2.3b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "3990655": {
+      "game_version": "3.7.3c",
+      "shape_revision": 2,
+      "time_updated": "1562628664"
+    },
+    "4001539": {
+      "game_version": "3.7.3d",
+      "shape_revision": 2,
+      "time_updated": "1562883353"
+    },
+    "4039541": {
+      "game_version": "3.7.4",
+      "shape_revision": 2,
+      "time_updated": "1564013297"
+    },
+    "4064372": {
+      "game_version": "3.7.4b",
+      "shape_revision": 2,
+      "time_updated": "1564697417"
+    },
+    "4082221": {
+      "game_version": "3.7.4c",
+      "shape_revision": 2,
+      "time_updated": "1565215784"
+    },
+    "4103268": {
+      "game_version": "3.7.4d",
+      "shape_revision": 2,
+      "time_updated": "1565753798"
+    },
+    "4121890": {
+      "game_version": "3.7.5",
+      "shape_revision": 2,
+      "time_updated": "1566334154"
+    },
+    "4128664": {
+      "game_version": "3.7.5b",
+      "shape_revision": 2,
+      "time_updated": "1566511688"
+    },
+    "4131268": {
+      "game_version": "3.7.5b",
+      "shape_revision": 2,
+      "time_updated": "1566522359"
+    },
+    "4145175": {
+      "game_version": "3.7.5c",
+      "shape_revision": 2,
+      "time_updated": "1567030049"
+    },
+    "4158671": {
+      "game_version": "3.7.5d",
+      "shape_revision": 2,
+      "time_updated": "1567463151"
+    },
+    "4173125": {
+      "game_version": "3.8.0",
+      "shape_revision": 2,
+      "time_updated": "1567789502"
+    },
+    "4174541": {
+      "game_version": "3.8.0b",
+      "shape_revision": 2,
+      "time_updated": "1567805878"
+    },
+    "4174761": {
+      "game_version": "3.8.0c",
+      "shape_revision": 2,
+      "time_updated": "1567814287"
+    },
+    "4181195": {
+      "game_version": "3.8.0d",
+      "shape_revision": 2,
+      "time_updated": "1568087953"
+    },
+    "418369": {
+      "game_version": "1.2.4",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "4185387": {
+      "game_version": "3.8.0e",
+      "shape_revision": 2,
+      "time_updated": "1568185176"
+    },
+    "4206590": {
+      "game_version": "3.8.1",
+      "shape_revision": 2,
+      "time_updated": "1568845746"
+    },
+    "4222642": {
+      "game_version": "3.8.1b",
+      "shape_revision": 2,
+      "time_updated": "1569287075"
+    },
+    "422328": {
+      "game_version": "1.2.4",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "422395": {
+      "game_version": "1.2.4",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "4229939": {
+      "game_version": "3.8.1b",
+      "shape_revision": 2,
+      "time_updated": "1569456517"
+    },
+    "4230478": {
+      "game_version": "3.8.1c",
+      "shape_revision": 2,
+      "time_updated": "1569477023"
+    },
+    "423485": {
+      "game_version": "1.2.4b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "4240990": {
+      "game_version": "3.8.1c",
+      "shape_revision": 2,
+      "time_updated": "1569804210"
+    },
+    "4245142": {
+      "game_version": "3.8.1d",
+      "shape_revision": 2,
+      "time_updated": "1569964704"
+    },
+    "4269799": {
+      "game_version": "3.8.1e",
+      "shape_revision": 2,
+      "time_updated": "1570656501"
+    },
+    "429085": {
+      "game_version": "1.2.4b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "431140": {
+      "game_version": "1.2.4c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "4314373": {
+      "game_version": "3.8.2",
+      "shape_revision": 2,
+      "time_updated": "1571865152"
+    },
+    "4356686": {
+      "game_version": "3.8.2b",
+      "shape_revision": 2,
+      "time_updated": "1572988343"
+    },
+    "442731": {
+      "game_version": "1.2.4d",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "4433846": {
+      "game_version": "3.8.2c",
+      "shape_revision": 2,
+      "time_updated": "1574921474"
+    },
+    "4461024": {
+      "game_version": "3.8.2d",
+      "shape_revision": 2,
+      "time_updated": "1575578260"
+    },
+    "447502": {
+      "game_version": "1.2.4d",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "448790": {
+      "game_version": "1.2.4e",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "4490216": {
+      "game_version": "3.9.0",
+      "shape_revision": 2,
+      "time_updated": "1576257502"
+    },
+    "4490958": {
+      "game_version": "3.9.0",
+      "shape_revision": 2,
+      "time_updated": "1576266285"
+    },
+    "4492187": {
+      "game_version": "3.9.0",
+      "shape_revision": 2,
+      "time_updated": "1576302985"
+    },
+    "4492528": {
+      "game_version": "3.9.0c",
+      "shape_revision": 2,
+      "time_updated": "1576320566"
+    },
+    "4493962": {
+      "game_version": "3.9.0c",
+      "shape_revision": 2,
+      "time_updated": "1576366171"
+    },
+    "4494191": {
+      "game_version": "3.9.0c",
+      "shape_revision": 2,
+      "time_updated": "1576474426"
+    },
+    "4500644": {
+      "game_version": "3.9.0d",
+      "shape_revision": 2,
+      "time_updated": "1576554990"
+    },
+    "4504551": {
+      "game_version": "3.9.0e",
+      "shape_revision": 2,
+      "time_updated": "1576634976"
+    },
+    "4509116": {
+      "game_version": "3.9.0f",
+      "shape_revision": 2,
+      "time_updated": "1576724157"
+    },
+    "4514542": {
+      "game_version": "3.9.1",
+      "shape_revision": 2,
+      "time_updated": "1576836706"
+    },
+    "4515148": {
+      "game_version": "3.9.1",
+      "shape_revision": 2,
+      "time_updated": "1576843745"
+    },
+    "451965": {
+      "game_version": "1.2.4e",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "4520951": {
+      "game_version": "3.9.1b",
+      "shape_revision": 2,
+      "time_updated": "1577073369"
+    },
+    "4546200": {
+      "game_version": "3.9.1c",
+      "shape_revision": 2,
+      "time_updated": "1578362928"
+    },
+    "4553607": {
+      "game_version": "3.9.2",
+      "shape_revision": 2,
+      "time_updated": "1578604263"
+    },
+    "456072": {
+      "game_version": "1.2.4e",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "457180": {
+      "game_version": "1.2.4e",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "4575402": {
+      "game_version": "3.9.2b",
+      "shape_revision": 2,
+      "time_updated": "1579209647"
+    },
+    "4598912": {
+      "game_version": "3.9.2c",
+      "shape_revision": 2,
+      "time_updated": "1579814783"
+    },
+    "4603961": {
+      "game_version": "3.9.2c",
+      "shape_revision": 2,
+      "time_updated": "1579861959"
+    },
+    "4614281": {
+      "game_version": "3.9.2c",
+      "shape_revision": 2,
+      "time_updated": "1580190141"
+    },
+    "4638518": {
+      "game_version": "3.9.2e",
+      "shape_revision": 2,
+      "time_updated": "1580850524"
+    },
+    "4683166": {
+      "game_version": "3.9.2f",
+      "shape_revision": 2,
+      "time_updated": "1581973626"
+    },
+    "4712717": {
+      "game_version": "3.9.3",
+      "shape_revision": 2,
+      "time_updated": "1582659529"
+    },
+    "471576": {
+      "game_version": "1.3.0",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "4715789": {
+      "game_version": "3.9.3",
+      "shape_revision": 2,
+      "time_updated": "1582688572"
+    },
+    "471911": {
+      "game_version": "1.3.0b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "472712": {
+      "game_version": "1.3.0c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "4756635": {
+      "game_version": "3.9.3b",
+      "shape_revision": 2,
+      "time_updated": "1583788816"
+    },
+    "476757": {
+      "game_version": "1.3.0d",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "4774022": {
+      "game_version": "3.10.0",
+      "shape_revision": 2,
+      "time_updated": "1584119528"
+    },
+    "4776919": {
+      "game_version": "3.10.0b",
+      "shape_revision": 2,
+      "time_updated": "1584152862"
+    },
+    "4780496": {
+      "game_version": "3.10.0b",
+      "shape_revision": 2,
+      "time_updated": "1584320119"
+    },
+    "4785746": {
+      "game_version": "3.10.0c",
+      "shape_revision": 2,
+      "time_updated": "1584425256"
+    },
+    "4790336": {
+      "game_version": "3.10.0d",
+      "shape_revision": 2,
+      "time_updated": "1584574040"
+    },
+    "479121": {
+      "game_version": "1.3.0e",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "479837": {
+      "game_version": "1.3.0f",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "4799013": {
+      "game_version": "3.10.0e",
+      "shape_revision": 2,
+      "time_updated": "1584678693"
+    },
+    "480463": {
+      "game_version": "1.3.0g",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "4807279": {
+      "game_version": "3.10.0e",
+      "shape_revision": 2,
+      "time_updated": "1584931533"
+    },
+    "4807660": {
+      "game_version": "3.10.0f",
+      "shape_revision": 2,
+      "time_updated": "1584950021"
+    },
+    "482100": {
+      "game_version": "1.3.0g",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "4821868": {
+      "game_version": "3.10.1",
+      "shape_revision": 2,
+      "time_updated": "1585258052"
+    },
+    "482259": {
+      "game_version": "1.3.0g",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "482265": {
+      "game_version": "1.3.0g",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "482475": {
+      "game_version": "1.3.0h",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "4829648": {
+      "game_version": "3.10.1b",
+      "shape_revision": 2,
+      "time_updated": "1585348982"
+    },
+    "4834837": {
+      "game_version": "3.10.1b",
+      "shape_revision": 2,
+      "time_updated": "1585542845"
+    },
+    "4848259": {
+      "game_version": "3.10.1c",
+      "shape_revision": 2,
+      "time_updated": "1585796591"
+    },
+    "484895": {
+      "game_version": "1.3.0h",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "4898820": {
+      "game_version": "3.10.1d",
+      "shape_revision": 2,
+      "time_updated": "1586927305"
+    },
+    "4903718": {
+      "game_version": "3.10.1d",
+      "shape_revision": 2,
+      "time_updated": "1587010666"
+    },
+    "490548": {
+      "game_version": "1.3.0i",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "4908473": {
+      "game_version": "3.10.1d",
+      "shape_revision": 2,
+      "time_updated": "1587099473"
+    },
+    "4923427": {
+      "game_version": "3.10.1e",
+      "shape_revision": 2,
+      "time_updated": "1587441387"
+    },
+    "494543": {
+      "game_version": "1.3.0j",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "4957096": {
+      "game_version": "3.10.1f",
+      "shape_revision": 2,
+      "time_updated": "1588122291"
+    },
+    "497524": {
+      "game_version": "1.3.0k",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "4993095": {
+      "game_version": "3.10.1g",
+      "shape_revision": 2,
+      "time_updated": "1588907237"
+    },
+    "500196": {
+      "game_version": "1.3.0l",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "5087139": {
+      "game_version": "3.10.2",
+      "shape_revision": 2,
+      "time_updated": "1590632110"
+    },
+    "5087989": {
+      "game_version": "3.10.2",
+      "shape_revision": 2,
+      "time_updated": "1590643717"
+    },
+    "5093272": {
+      "game_version": "3.10.2b",
+      "shape_revision": 2,
+      "time_updated": "1590722947"
+    },
+    "5109437": {
+      "game_version": "3.10.2c",
+      "shape_revision": 2,
+      "time_updated": "1591132019"
+    },
+    "5113178": {
+      "game_version": "3.10.2c",
+      "shape_revision": 2,
+      "time_updated": "1591163585"
+    },
+    "513240": {
+      "game_version": "1.3.1",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "5133604": {
+      "game_version": "3.10.2c",
+      "shape_revision": 2,
+      "time_updated": "1591598801"
+    },
+    "5163703": {
+      "game_version": "3.10.2d",
+      "shape_revision": 2,
+      "time_updated": "1592259962"
+    },
+    "5190237": {
+      "game_version": "3.11.0",
+      "shape_revision": 2,
+      "time_updated": "1592586353"
+    },
+    "5192118": {
+      "game_version": "3.11.0b",
+      "shape_revision": 2,
+      "time_updated": "1592620974"
+    },
+    "5192443": {
+      "game_version": "3.11.0c",
+      "shape_revision": 2,
+      "time_updated": "1592630619"
+    },
+    "5192842": {
+      "game_version": "3.11.0d",
+      "shape_revision": 2,
+      "time_updated": "1592644102"
+    },
+    "5197256": {
+      "game_version": "3.11.0e",
+      "shape_revision": 2,
+      "time_updated": "1592806621"
+    },
+    "5207658": {
+      "game_version": "3.11.0f",
+      "shape_revision": 2,
+      "time_updated": "1593046724"
+    },
+    "5224208": {
+      "game_version": "3.11.0f",
+      "shape_revision": 2,
+      "time_updated": "1593307081"
+    },
+    "5241647": {
+      "game_version": "3.11.1",
+      "shape_revision": 2,
+      "time_updated": "1593728963"
+    },
+    "524362": {
+      "game_version": "1.3.1b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "5268479": {
+      "game_version": "3.11.1b",
+      "shape_revision": 2,
+      "time_updated": "1594332258"
+    },
+    "5294999": {
+      "game_version": "3.11.1c",
+      "shape_revision": 2,
+      "time_updated": "1594937302"
+    },
+    "5348677": {
+      "game_version": "3.11.1d",
+      "shape_revision": 2,
+      "time_updated": "1596074155"
+    },
+    "5354410": {
+      "game_version": "3.11.1e",
+      "shape_revision": 2,
+      "time_updated": "1596173179"
+    },
+    "536434": {
+      "game_version": "1.3.1c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "539378": {
+      "game_version": "1.3.1d",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "5424159": {
+      "game_version": "3.11.1f",
+      "shape_revision": 2,
+      "time_updated": "1597712896"
+    },
+    "5425149": {
+      "game_version": "3.11.1f",
+      "shape_revision": 2,
+      "time_updated": "1597723778"
+    },
+    "5487945": {
+      "game_version": "3.11.1g",
+      "shape_revision": 2,
+      "time_updated": "1598993133"
+    },
+    "5528345": {
+      "game_version": "3.11.2",
+      "shape_revision": 2,
+      "time_updated": "1599775147"
+    },
+    "553493": {
+      "game_version": "1.3.1d",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "5540437": {
       "game_version": "3.11.2b",
@@ -195,6 +2895,11 @@
       "shape_revision": 2,
       "time_updated": "1600669802"
     },
+    "558019": {
+      "game_version": "1.3.1e",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "5588796": {
       "game_version": "3.12.2",
       "shape_revision": 2,
@@ -210,6 +2915,11 @@
       "shape_revision": 2,
       "time_updated": "1601078680"
     },
+    "559393": {
+      "game_version": "1.3.1e",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "5598802": {
       "game_version": "3.12.2",
       "shape_revision": 2,
@@ -219,6 +2929,11 @@
       "game_version": "3.12.2b",
       "shape_revision": 2,
       "time_updated": "1601511020"
+    },
+    "563202": {
+      "game_version": "1.3.1f",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "5636778": {
       "game_version": "3.12.3",
@@ -250,10 +2965,20 @@
       "shape_revision": 2,
       "time_updated": "1603327191"
     },
+    "573347": {
+      "game_version": "1.3.1g",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "5752431": {
       "game_version": "3.12.4c 162691",
       "shape_revision": 2,
       "time_updated": "1604007250"
+    },
+    "575470": {
+      "game_version": "1.3.1g",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "5758571": {
       "game_version": "3.12.4c 162691",
@@ -285,6 +3010,11 @@
       "shape_revision": 2,
       "time_updated": "1606950521"
     },
+    "595216": {
+      "game_version": "1.3.1g",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "5980592": {
       "game_version": "3.12.5c 165897",
       "shape_revision": 2,
@@ -295,15 +3025,35 @@
       "shape_revision": 2,
       "time_updated": "1609974455"
     },
+    "605653": {
+      "game_version": "1.3.1h",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "605790": {
+      "game_version": "1.3.1h",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "6063310": {
       "game_version": "3.12.5e 166719",
       "shape_revision": 2,
       "time_updated": "1610399820"
     },
+    "607222": {
+      "game_version": "1.3.1h",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "6087811": {
       "game_version": "3.13.0 167111",
       "shape_revision": 2,
       "time_updated": "1610727149"
+    },
+    "608837": {
+      "game_version": "1.3.1h",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "6091145": {
       "game_version": "3.13.0 167184",
@@ -320,6 +3070,11 @@
       "shape_revision": 2,
       "time_updated": "1611192587"
     },
+    "614190": {
+      "game_version": "1.3.1h",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "6144262": {
       "game_version": "3.13.1 167954",
       "shape_revision": 2,
@@ -329,6 +3084,11 @@
       "game_version": "3.13.1b 168242",
       "shape_revision": 2,
       "time_updated": "1612302227"
+    },
+    "617862": {
+      "game_version": "1.3.1h",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "6179950": {
       "game_version": "3.13.1b 168292",
@@ -354,6 +3114,11 @@
       "game_version": "3.13.1d 169004",
       "shape_revision": 2,
       "time_updated": "1613513643"
+    },
+    "625951": {
+      "game_version": "1.3.1h",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "6272937": {
       "game_version": "3.13.1d 169296",
@@ -384,6 +3149,11 @@
       "game_version": "3.13.2b 172572",
       "shape_revision": 2,
       "time_updated": "1617863615"
+    },
+    "651020": {
+      "game_version": "1.3.1h",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "6525207": {
       "game_version": "3.13.2c 172852",
@@ -480,15 +3250,80 @@
       "shape_revision": 2,
       "time_updated": "1622085574"
     },
+    "678485": {
+      "game_version": "1.3.1h",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "680454": {
+      "game_version": "1.3.1h",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "6829508": {
       "game_version": "3.14.2b 176190",
       "shape_revision": 2,
       "time_updated": "1623206150"
     },
+    "690349": {
+      "game_version": "2.0.0",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "6909348": {
       "game_version": "3.14.2 176961",
       "shape_revision": 2,
       "time_updated": "1624335579"
+    },
+    "691043": {
+      "game_version": "2.0.0",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "691245": {
+      "game_version": "2.0.0b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "691484": {
+      "game_version": "2.0.0c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "692086": {
+      "game_version": "2.0.0c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "692097": {
+      "game_version": "2.0.0c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "692608": {
+      "game_version": "2.0.0d",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "694103": {
+      "game_version": "2.0.0d",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "694215": {
+      "game_version": "2.0.0d",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "696983": {
+      "game_version": "2.0.0e",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "698349": {
+      "game_version": "2.0.0e",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "6985101": {
       "game_version": "3.14.3 177959",
@@ -505,6 +3340,16 @@
       "shape_revision": 2,
       "time_updated": "1625810316"
     },
+    "700849": {
+      "game_version": "2.0.0f",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "700898": {
+      "game_version": "2.0.0f",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "7013296": {
       "game_version": "3.14.3 178340",
       "shape_revision": 2,
@@ -519,6 +3364,16 @@
       "game_version": "3.14.3c 179029",
       "shape_revision": 2,
       "time_updated": "1626735540"
+    },
+    "705166": {
+      "game_version": "2.0.0g",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "705214": {
+      "game_version": "2.0.0g",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "7077629": {
       "game_version": "3.15.0 179491",
@@ -545,6 +3400,11 @@
       "shape_revision": 2,
       "time_updated": "1627287299"
     },
+    "709387": {
+      "game_version": "2.0.0h",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "7097858": {
       "game_version": "3.15.0d 179769",
       "shape_revision": 2,
@@ -555,20 +3415,80 @@
       "shape_revision": 2,
       "time_updated": "1627533043"
     },
+    "710437": {
+      "game_version": "2.0.0h",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "710666": {
+      "game_version": "2.0.0h",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "7110486": {
       "game_version": "3.15.0f 179971",
       "shape_revision": 2,
       "time_updated": "1627615201"
+    },
+    "712020": {
+      "game_version": "2.0.0i",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "712223": {
+      "game_version": "2.0.0i",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "713571": {
+      "game_version": "2.0.0i",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "7135878": {
       "game_version": "3.15.1 180343",
       "shape_revision": 2,
       "time_updated": "1628121719"
     },
+    "715091": {
+      "game_version": "2.0.1",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "715209": {
+      "game_version": "2.0.1",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "715314": {
+      "game_version": "2.0.1",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "7164048": {
       "game_version": "3.15.1 180579",
       "shape_revision": 2,
       "time_updated": "1628565718"
+    },
+    "716511": {
+      "game_version": "2.0.1",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "716550": {
+      "game_version": "2.0.1",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "717648": {
+      "game_version": "2.0.1",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "718809": {
+      "game_version": "2.0.1b",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "7195028": {
       "game_version": "3.15.2 180970",
@@ -579,6 +3499,11 @@
       "game_version": "3.15.2b 181187",
       "shape_revision": 2,
       "time_updated": "1629338546"
+    },
+    "724017": {
+      "game_version": "2.0.1c",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "7245991": {
       "game_version": "3.15.3 181577",
@@ -595,6 +3520,31 @@
       "shape_revision": 2,
       "time_updated": "1631069667"
     },
+    "740880": {
+      "game_version": "2.0.2",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "741437": {
+      "game_version": "2.0.2b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "742898": {
+      "game_version": "2.0.2b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "749349": {
+      "game_version": "2.0.2c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "753025": {
+      "game_version": "2.0.2d",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "7531662": {
       "game_version": "3.15.3c 184222",
       "shape_revision": 2,
@@ -609,6 +3559,11 @@
       "game_version": "3.15.3d 184443",
       "shape_revision": 2,
       "time_updated": "1634590937"
+    },
+    "755816": {
+      "game_version": "2.0.2e",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "7582648": {
       "game_version": "3.16.0 184847",
@@ -635,6 +3590,16 @@
       "shape_revision": 2,
       "time_updated": "1635130299"
     },
+    "760011": {
+      "game_version": "2.0.3",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "760427": {
+      "game_version": "2.0.3",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "7605646": {
       "game_version": "3.16.0b 185102",
       "shape_revision": 2,
@@ -659,6 +3624,16 @@
       "game_version": "3.16.0d 185496",
       "shape_revision": 2,
       "time_updated": "1635907875"
+    },
+    "764774": {
+      "game_version": "2.0.3",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "768609": {
+      "game_version": "2.0.3",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "7687032": {
       "game_version": "3.16.1 185786",
@@ -695,6 +3670,16 @@
       "shape_revision": 2,
       "time_updated": "1640131356"
     },
+    "796865": {
+      "game_version": "2.0.4",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "798584": {
+      "game_version": "2.0.4",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "8072513": {
       "game_version": "3.16.3 188824",
       "shape_revision": 2,
@@ -721,94 +3706,144 @@
       "time_updated": "1643749331"
     },
     "8145220": {
-      "game_version": "3.17.0 189974",
+      "game_version": "3.16.3c 189533",
       "shape_revision": 2,
       "time_updated": "1643990582"
     },
     "8149246": {
-      "game_version": "3.17.0 190024",
+      "game_version": "3.16.3c 189533",
       "shape_revision": 2,
       "time_updated": "1644025067"
     },
     "8149550": {
-      "game_version": "3.17.0 190036",
+      "game_version": "3.16.3c 189533",
       "shape_revision": 2,
       "time_updated": "1644030395"
     },
     "8152953": {
-      "game_version": "3.17.0 190056",
+      "game_version": "3.16.3c 189533",
       "shape_revision": 2,
       "time_updated": "1644120539"
     },
     "8153415": {
-      "game_version": "3.17.0 190068",
+      "game_version": "3.16.3c 189533",
       "shape_revision": 2,
       "time_updated": "1644137070"
     },
     "8168342": {
-      "game_version": "3.17.0 190237",
+      "game_version": "3.16.3c 189533",
       "shape_revision": 2,
       "time_updated": "1644364005"
     },
+    "817448": {
+      "game_version": "2.0.4b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "817860": {
+      "game_version": "2.0.4b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "8220780": {
-      "game_version": "3.17.1 190879",
+      "game_version": "3.16.3c 189533",
       "shape_revision": 2,
       "time_updated": "1645135375"
     },
     "8227387": {
-      "game_version": "3.17.1 190935",
+      "game_version": "3.16.3c 189533",
       "shape_revision": 2,
       "time_updated": "1645162217"
     },
     "8240695": {
-      "game_version": "3.17.1 190982",
+      "game_version": "3.16.3c 189533",
       "shape_revision": 2,
       "time_updated": "1645399949"
     },
     "8241450": {
-      "game_version": "3.17.1 191014",
+      "game_version": "3.16.3c 189533",
       "shape_revision": 2,
       "time_updated": "1645415401"
     },
     "8255983": {
-      "game_version": "3.17.1b 191144",
+      "game_version": "3.16.3c 189533",
       "shape_revision": 2,
       "time_updated": "1645586166"
     },
     "8257281": {
-      "game_version": "3.17.1b 191187",
+      "game_version": "3.16.3c 189533",
       "shape_revision": 2,
       "time_updated": "1645663945"
     },
+    "825922": {
+      "game_version": "2.0.4c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "8265134": {
-      "game_version": "3.17.1b 191242",
+      "game_version": "3.16.3c 189533",
       "shape_revision": 2,
       "time_updated": "1645677502"
     },
+    "827732": {
+      "game_version": "2.0.4c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "8300544": {
-      "game_version": "3.17.2 191517",
+      "game_version": "3.16.3c 189533",
       "shape_revision": 2,
       "time_updated": "1646265917"
     },
     "8373009": {
-      "game_version": "3.17.3 192193",
+      "game_version": "3.16.3c 189533",
       "shape_revision": 2,
       "time_updated": "1647388971"
     },
+    "840589": {
+      "game_version": "2.0.5",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "8419286": {
-      "game_version": "3.17.3b 192532",
+      "game_version": "3.16.3c 189533",
       "shape_revision": 2,
       "time_updated": "1648002500"
     },
     "8420928": {
-      "game_version": "3.17.3b 192622",
+      "game_version": "3.16.3c 189533",
       "shape_revision": 2,
       "time_updated": "1648010938"
+    },
+    "843835": {
+      "game_version": "2.0.5",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "8491193": {
       "game_version": "3.17.3b 193088",
       "shape_revision": 2,
       "time_updated": "1649048259"
+    },
+    "850662": {
+      "game_version": "2.0.5b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "853529": {
+      "game_version": "2.0.5b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "856562": {
+      "game_version": "2.0.5b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "856704": {
+      "game_version": "2.0.5b",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "8587706": {
       "game_version": "3.17.4 193782",
@@ -820,10 +3855,25 @@
       "shape_revision": 2,
       "time_updated": "1650520625"
     },
+    "859523": {
+      "game_version": "2.0.5b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "8602019": {
       "game_version": "3.17.4 193893",
       "shape_revision": 2,
       "time_updated": "1650598546"
+    },
+    "862812": {
+      "game_version": "2.0.5b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "866273": {
+      "game_version": "2.0.5b",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "8683241": {
       "game_version": "3.17.4b 194770",
@@ -860,6 +3910,11 @@
       "shape_revision": 2,
       "time_updated": "1652840356"
     },
+    "875282": {
+      "game_version": "2.0.5c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "8766987": {
       "game_version": "3.18.0c 195858",
       "shape_revision": 2,
@@ -875,6 +3930,16 @@
       "shape_revision": 2,
       "time_updated": "1653960565"
     },
+    "884912": {
+      "game_version": "2.0.5d",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "885072": {
+      "game_version": "2.0.5d",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "8855727": {
       "game_version": "3.18.0e 196649",
       "shape_revision": 2,
@@ -885,10 +3950,55 @@
       "shape_revision": 2,
       "time_updated": "1655251431"
     },
+    "895165": {
+      "game_version": "2.1.0",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "895586": {
+      "game_version": "2.1.0",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "895794": {
+      "game_version": "2.1.0b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "895949": {
+      "game_version": "2.1.0b",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "896612": {
+      "game_version": "2.1.0c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "897287": {
+      "game_version": "2.1.0c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "8978045": {
       "game_version": "3.18.1b 197536",
       "shape_revision": 2,
       "time_updated": "1655857829"
+    },
+    "898847": {
+      "game_version": "2.1.0c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "900610": {
+      "game_version": "2.1.0c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "902623": {
+      "game_version": "2.1.0d",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "9032574": {
       "game_version": "3.18.1c 197906",
@@ -900,25 +4010,60 @@
       "shape_revision": 2,
       "time_updated": "1656637596"
     },
+    "904636": {
+      "game_version": "2.1.1",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "904743": {
+      "game_version": "2.1.1",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "9053958": {
       "game_version": "3.18.1c 198061",
       "shape_revision": 2,
       "time_updated": "1656898822"
+    },
+    "907899": {
+      "game_version": "2.1.1",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "910995": {
+      "game_version": "2.1.1b",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "9111077": {
       "game_version": "3.18.1d 198636",
       "shape_revision": 2,
       "time_updated": "1657756994"
     },
+    "915754": {
+      "game_version": "2.1.1c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "9227494": {
       "game_version": "3.18.1d 199539",
       "shape_revision": 2,
       "time_updated": "1659404671"
     },
+    "922971": {
+      "game_version": "2.1.1c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "9293636": {
       "game_version": "3.18.1e 200221",
       "shape_revision": 2,
       "time_updated": "1660244660"
+    },
+    "930566": {
+      "game_version": "2.1.1d",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "9321401": {
       "game_version": "3.18.1f 200478",
@@ -950,6 +4095,11 @@
       "shape_revision": 2,
       "time_updated": "1661410008"
     },
+    "940329": {
+      "game_version": "2.1.2",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "9405889": {
       "game_version": "3.19.0f 201482",
       "shape_revision": 2,
@@ -975,10 +4125,20 @@
       "shape_revision": 2,
       "time_updated": "1662595346"
     },
+    "946679": {
+      "game_version": "2.1.2",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "9511661": {
       "game_version": "3.19.1b 202260",
       "shape_revision": 2,
       "time_updated": "1663130668"
+    },
+    "951986": {
+      "game_version": "2.1.2b",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "9565532": {
       "game_version": "3.19.1c 202616",
@@ -1000,10 +4160,25 @@
       "shape_revision": 2,
       "time_updated": "1665625541"
     },
+    "978427": {
+      "game_version": "2.1.2c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
+    "984057": {
+      "game_version": "2.1.2c",
+      "shape_revision": 2,
+      "time_updated": ""
+    },
     "9851101": {
       "game_version": "3.19.2 204757",
       "shape_revision": 2,
       "time_updated": "1667430438"
+    },
+    "991577": {
+      "game_version": "2.1.2c",
+      "shape_revision": 2,
+      "time_updated": ""
     },
     "9981348": {
       "game_version": "3.19.2 205776",
