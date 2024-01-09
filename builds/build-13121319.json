@@ -1,0 +1,6430 @@
+{
+  "files": {
+    "data/abyssbosslifescalingperlevel.dat64": {
+      "fixed_size": 184,
+      "row_count": 23,
+      "row_width": 8,
+      "var_offset": 188,
+      "var_size": 8
+    },
+    "data/abyssobjects.dat64": {
+      "fixed_size": 12543,
+      "row_count": 111,
+      "row_width": 113,
+      "var_offset": 12547,
+      "var_size": 6518
+    },
+    "data/abyssregions.dat64": {
+      "fixed_size": 0,
+      "row_count": 5,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/abysstheme.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/accountquestflags.dat64": {
+      "fixed_size": 0,
+      "row_count": 57,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/achievementitemrewards.dat64": {
+      "fixed_size": 96,
+      "row_count": 2,
+      "row_width": 48,
+      "var_offset": 100,
+      "var_size": 224
+    },
+    "data/achievementitems.dat64": {
+      "fixed_size": 485088,
+      "row_count": 10106,
+      "row_width": 48,
+      "var_offset": 485092,
+      "var_size": 879854
+    },
+    "data/achievements.dat64": {
+      "fixed_size": 86760,
+      "row_count": 1446,
+      "row_width": 60,
+      "var_offset": 86764,
+      "var_size": 245784
+    },
+    "data/achievementsetrewards.dat64": {
+      "fixed_size": 14520,
+      "row_count": 242,
+      "row_width": 60,
+      "var_offset": 14524,
+      "var_size": 41390
+    },
+    "data/achievementsets.dat64": {
+      "fixed_size": 0,
+      "row_count": 60,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/achievementsetsdisplay.dat64": {
+      "fixed_size": 708,
+      "row_count": 59,
+      "row_width": 12,
+      "var_offset": 712,
+      "var_size": 96
+    },
+    "data/actiontypes.dat64": {
+      "fixed_size": 17696,
+      "row_count": 1264,
+      "row_width": 14,
+      "var_offset": 17700,
+      "var_size": 44458
+    },
+    "data/activesettings.dat64": {
+      "fixed_size": 252,
+      "row_count": 3,
+      "row_width": 84,
+      "var_offset": 256,
+      "var_size": 68
+    },
+    "data/activeskills.dat64": {
+      "fixed_size": 447951,
+      "row_count": 1799,
+      "row_width": 249,
+      "var_offset": 447955,
+      "var_size": 1075002
+    },
+    "data/activeskilltargettypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 24,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/activeskilltype.dat64": {
+      "fixed_size": 2880,
+      "row_count": 120,
+      "row_width": 24,
+      "var_offset": 2884,
+      "var_size": 3482
+    },
+    "data/acts.dat64": {
+      "fixed_size": 828,
+      "row_count": 12,
+      "row_width": 69,
+      "var_offset": 832,
+      "var_size": 1742
+    },
+    "data/addbufftotargetvarieties.dat64": {
+      "fixed_size": 7084,
+      "row_count": 77,
+      "row_width": 92,
+      "var_offset": 7088,
+      "var_size": 2608
+    },
+    "data/additionallifescaling.dat64": {
+      "fixed_size": 420,
+      "row_count": 20,
+      "row_width": 21,
+      "var_offset": 424,
+      "var_size": 2840
+    },
+    "data/additionallifescalingperlevel.dat64": {
+      "fixed_size": 0,
+      "row_count": 0,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/additionalmonsterpacksfromstats.dat64": {
+      "fixed_size": 2808,
+      "row_count": 26,
+      "row_width": 108,
+      "var_offset": 2812,
+      "var_size": 1532
+    },
+    "data/additionalmonsterpacksstatmode.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/additionalmonstersfrommapstats.dat64": {
+      "fixed_size": 533,
+      "row_count": 13,
+      "row_width": 41,
+      "var_offset": 537,
+      "var_size": 1048
+    },
+    "data/advancedskillstutorial.dat64": {
+      "fixed_size": 3168,
+      "row_count": 33,
+      "row_width": 96,
+      "var_offset": 3172,
+      "var_size": 26486
+    },
+    "data/aegisvariations.dat64": {
+      "fixed_size": 558,
+      "row_count": 6,
+      "row_width": 93,
+      "var_offset": 562,
+      "var_size": 128
+    },
+    "data/afflictionbalanceperlevel.dat64": {
+      "fixed_size": 600,
+      "row_count": 10,
+      "row_width": 60,
+      "var_offset": 604,
+      "var_size": 8
+    },
+    "data/afflictiondustedmonstercurrencydropweightingbyitemrarity.dat64": {
+      "fixed_size": 80,
+      "row_count": 4,
+      "row_width": 20,
+      "var_offset": 84,
+      "var_size": 8
+    },
+    "data/afflictionendgamewavemods.dat64": {
+      "fixed_size": 2828,
+      "row_count": 101,
+      "row_width": 28,
+      "var_offset": 2832,
+      "var_size": 8
+    },
+    "data/afflictionfixedmods.dat64": {
+      "fixed_size": 144,
+      "row_count": 4,
+      "row_width": 36,
+      "var_offset": 148,
+      "var_size": 8
+    },
+    "data/afflictionrandommodcategories.dat64": {
+      "fixed_size": 72,
+      "row_count": 8,
+      "row_width": 9,
+      "var_offset": 76,
+      "var_size": 378
+    },
+    "data/afflictionrewardmapmods.dat64": {
+      "fixed_size": 153,
+      "row_count": 9,
+      "row_width": 17,
+      "var_offset": 157,
+      "var_size": 8
+    },
+    "data/afflictionrewardtypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 33,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/afflictionrewardtypevisuals.dat64": {
+      "fixed_size": 640,
+      "row_count": 32,
+      "row_width": 20,
+      "var_offset": 644,
+      "var_size": 1608
+    },
+    "data/afflictionsplitdemons.dat64": {
+      "fixed_size": 864,
+      "row_count": 24,
+      "row_width": 36,
+      "var_offset": 868,
+      "var_size": 8
+    },
+    "data/afflictionstartdialogue.dat64": {
+      "fixed_size": 3456,
+      "row_count": 72,
+      "row_width": 48,
+      "var_offset": 3460,
+      "var_size": 216
+    },
+    "data/alternatebehaviourtypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/alternatepassiveadditions.dat64": {
+      "fixed_size": 8272,
+      "row_count": 94,
+      "row_width": 88,
+      "var_offset": 8276,
+      "var_size": 7680
+    },
+    "data/alternatepassiveskills.dat64": {
+      "fixed_size": 26040,
+      "row_count": 155,
+      "row_width": 168,
+      "var_offset": 26044,
+      "var_size": 23340
+    },
+    "data/alternatequalitytypes.dat64": {
+      "fixed_size": 560,
+      "row_count": 10,
+      "row_width": 56,
+      "var_offset": 564,
+      "var_size": 658
+    },
+    "data/alternateskilltargetingbehaviours.dat64": {
+      "fixed_size": 448,
+      "row_count": 8,
+      "row_width": 56,
+      "var_offset": 452,
+      "var_size": 530
+    },
+    "data/alternatetreeart.dat64": {
+      "fixed_size": 240,
+      "row_count": 6,
+      "row_width": 40,
+      "var_offset": 244,
+      "var_size": 2238
+    },
+    "data/alternatetreepassivesizes.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/alternatetreeversions.dat64": {
+      "fixed_size": 228,
+      "row_count": 6,
+      "row_width": 38,
+      "var_offset": 232,
+      "var_size": 102
+    },
+    "data/ancestralembracevariations.dat64": {
+      "fixed_size": 400,
+      "row_count": 10,
+      "row_width": 40,
+      "var_offset": 404,
+      "var_size": 174
+    },
+    "data/ancestrallifescalingperlevel.dat64": {
+      "fixed_size": 800,
+      "row_count": 100,
+      "row_width": 8,
+      "var_offset": 804,
+      "var_size": 8
+    },
+    "data/ancestraltrialchieftains.dat64": {
+      "fixed_size": 320,
+      "row_count": 10,
+      "row_width": 32,
+      "var_offset": 324,
+      "var_size": 8
+    },
+    "data/ancestraltrialdialogue.dat64": {
+      "fixed_size": 79310,
+      "row_count": 770,
+      "row_width": 103,
+      "var_offset": 79314,
+      "var_size": 12328
+    },
+    "data/ancestraltrialdialogueevents.dat64": {
+      "fixed_size": 180,
+      "row_count": 15,
+      "row_width": 12,
+      "var_offset": 184,
+      "var_size": 622
+    },
+    "data/ancestraltrialfielditems.dat64": {
+      "fixed_size": 2484,
+      "row_count": 27,
+      "row_width": 92,
+      "var_offset": 2488,
+      "var_size": 4174
+    },
+    "data/ancestraltrialitems.dat64": {
+      "fixed_size": 5580,
+      "row_count": 45,
+      "row_width": 124,
+      "var_offset": 5584,
+      "var_size": 15464
+    },
+    "data/ancestraltrialmonsterranks.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/ancestraltrialmonsters.dat64": {
+      "fixed_size": 3384,
+      "row_count": 47,
+      "row_width": 72,
+      "var_offset": 3388,
+      "var_size": 536
+    },
+    "data/ancestraltrialopiniontypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/ancestraltrialpositiontype.dat64": {
+      "fixed_size": 192,
+      "row_count": 4,
+      "row_width": 48,
+      "var_offset": 196,
+      "var_size": 2690
+    },
+    "data/ancestraltrialshopslotentries.dat64": {
+      "fixed_size": 133,
+      "row_count": 7,
+      "row_width": 19,
+      "var_offset": 137,
+      "var_size": 8
+    },
+    "data/ancestraltrialshopslots.dat64": {
+      "fixed_size": 0,
+      "row_count": 5,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/ancestraltrialtribeopinions.dat64": {
+      "fixed_size": 3240,
+      "row_count": 90,
+      "row_width": 36,
+      "var_offset": 3244,
+      "var_size": 8
+    },
+    "data/ancestraltrialtribes.dat64": {
+      "fixed_size": 2464,
+      "row_count": 11,
+      "row_width": 224,
+      "var_offset": 2468,
+      "var_size": 6018
+    },
+    "data/ancestraltrialunitpositions.dat64": {
+      "fixed_size": 240,
+      "row_count": 10,
+      "row_width": 24,
+      "var_offset": 244,
+      "var_size": 248
+    },
+    "data/ancestraltrialunits.dat64": {
+      "fixed_size": 6512,
+      "row_count": 74,
+      "row_width": 88,
+      "var_offset": 6516,
+      "var_size": 40566
+    },
+    "data/ancestraltrialunittypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 2,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/animatedobjectflags.dat64": {
+      "fixed_size": 378,
+      "row_count": 27,
+      "row_width": 14,
+      "var_offset": 382,
+      "var_size": 4436
+    },
+    "data/animateweaponuniques.dat64": {
+      "fixed_size": 5632,
+      "row_count": 128,
+      "row_width": 44,
+      "var_offset": 5636,
+      "var_size": 4430
+    },
+    "data/animation.dat64": {
+      "fixed_size": 6908,
+      "row_count": 157,
+      "row_width": 44,
+      "var_offset": 6912,
+      "var_size": 4696
+    },
+    "data/applydamagefunctions.dat64": {
+      "fixed_size": 300,
+      "row_count": 12,
+      "row_width": 25,
+      "var_offset": 304,
+      "var_size": 728
+    },
+    "data/archetyperewards.dat64": {
+      "fixed_size": 40896,
+      "row_count": 639,
+      "row_width": 64,
+      "var_offset": 40900,
+      "var_size": 33624
+    },
+    "data/archetypes.dat64": {
+      "fixed_size": 7584,
+      "row_count": 79,
+      "row_width": 96,
+      "var_offset": 7588,
+      "var_size": 103916
+    },
+    "data/architectlifescalingperlevel.dat64": {
+      "fixed_size": 344,
+      "row_count": 43,
+      "row_width": 8,
+      "var_offset": 348,
+      "var_size": 8
+    },
+    "data/archnemesismetarewards.dat64": {
+      "fixed_size": 396,
+      "row_count": 11,
+      "row_width": 36,
+      "var_offset": 400,
+      "var_size": 1658
+    },
+    "data/archnemesismodcomboachievements.dat64": {
+      "fixed_size": 192,
+      "row_count": 6,
+      "row_width": 32,
+      "var_offset": 196,
+      "var_size": 392
+    },
+    "data/archnemesismods.dat64": {
+      "fixed_size": 11542,
+      "row_count": 199,
+      "row_width": 58,
+      "var_offset": 11546,
+      "var_size": 9148
+    },
+    "data/archnemesismodvisuals.dat64": {
+      "fixed_size": 7680,
+      "row_count": 64,
+      "row_width": 120,
+      "var_offset": 7684,
+      "var_size": 1856
+    },
+    "data/archnemesisrecipes.dat64": {
+      "fixed_size": 1296,
+      "row_count": 36,
+      "row_width": 36,
+      "var_offset": 1300,
+      "var_size": 1496
+    },
+    "data/areainfluencedoodads.dat64": {
+      "fixed_size": 414,
+      "row_count": 6,
+      "row_width": 69,
+      "var_offset": 418,
+      "var_size": 10886
+    },
+    "data/areatransitionanimations.dat64": {
+      "fixed_size": 112,
+      "row_count": 7,
+      "row_width": 16,
+      "var_offset": 116,
+      "var_size": 282
+    },
+    "data/areatransitionanimationtypes.dat64": {
+      "fixed_size": 16,
+      "row_count": 2,
+      "row_width": 8,
+      "var_offset": 20,
+      "var_size": 34
+    },
+    "data/areatransitioninfo.dat64": {
+      "fixed_size": 212,
+      "row_count": 1,
+      "row_width": 212,
+      "var_offset": 216,
+      "var_size": 40
+    },
+    "data/areatype.dat64": {
+      "fixed_size": 0,
+      "row_count": 47,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/armourclasses.dat64": {
+      "fixed_size": 0,
+      "row_count": 5,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/armoursurfacetypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 12,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/armourtypes.dat64": {
+      "fixed_size": 25260,
+      "row_count": 421,
+      "row_width": 60,
+      "var_offset": 25264,
+      "var_size": 8
+    },
+    "data/ascendancy.dat64": {
+      "fixed_size": 1748,
+      "row_count": 19,
+      "row_width": 92,
+      "var_offset": 1752,
+      "var_size": 11770
+    },
+    "data/atlasentities.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/atlasexilebossarenas.dat64": {
+      "fixed_size": 128,
+      "row_count": 4,
+      "row_width": 32,
+      "var_offset": 132,
+      "var_size": 8
+    },
+    "data/atlasexileinfluence.dat64": {
+      "fixed_size": 128,
+      "row_count": 4,
+      "row_width": 32,
+      "var_offset": 132,
+      "var_size": 264
+    },
+    "data/atlasexiles.dat64": {
+      "fixed_size": 176,
+      "row_count": 4,
+      "row_width": 44,
+      "var_offset": 180,
+      "var_size": 804
+    },
+    "data/atlasfavouredmapslots.dat64": {
+      "fixed_size": 192,
+      "row_count": 12,
+      "row_width": 16,
+      "var_offset": 196,
+      "var_size": 702
+    },
+    "data/atlasfog.dat64": {
+      "fixed_size": 160,
+      "row_count": 10,
+      "row_width": 16,
+      "var_offset": 164,
+      "var_size": 8
+    },
+    "data/atlasinfluencedata.dat64": {
+      "fixed_size": 6160,
+      "row_count": 44,
+      "row_width": 140,
+      "var_offset": 6164,
+      "var_size": 1040
+    },
+    "data/atlasinfluenceoutcomes.dat64": {
+      "fixed_size": 720,
+      "row_count": 45,
+      "row_width": 16,
+      "var_offset": 724,
+      "var_size": 1688
+    },
+    "data/atlasinfluenceoutcometypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 5,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/atlasinfluencesets.dat64": {
+      "fixed_size": 864,
+      "row_count": 36,
+      "row_width": 24,
+      "var_offset": 868,
+      "var_size": 1528
+    },
+    "data/atlasmemoryline.dat64": {
+      "fixed_size": 912,
+      "row_count": 19,
+      "row_width": 48,
+      "var_offset": 916,
+      "var_size": 8732
+    },
+    "data/atlasmods.dat64": {
+      "fixed_size": 2820,
+      "row_count": 141,
+      "row_width": 20,
+      "var_offset": 2824,
+      "var_size": 8
+    },
+    "data/atlasmodtiers.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/atlasnode.dat64": {
+      "fixed_size": 17934,
+      "row_count": 122,
+      "row_width": 147,
+      "var_offset": 17938,
+      "var_size": 4930
+    },
+    "data/atlasnodedefinition.dat64": {
+      "fixed_size": 7728,
+      "row_count": 168,
+      "row_width": 46,
+      "var_offset": 7732,
+      "var_size": 8
+    },
+    "data/atlaspassiveskilltreegrouptype.dat64": {
+      "fixed_size": 296,
+      "row_count": 37,
+      "row_width": 8,
+      "var_offset": 300,
+      "var_size": 690
+    },
+    "data/atlaspositions.dat64": {
+      "fixed_size": 448,
+      "row_count": 28,
+      "row_width": 16,
+      "var_offset": 452,
+      "var_size": 8
+    },
+    "data/atlasprimordialaltarchoices.dat64": {
+      "fixed_size": 10329,
+      "row_count": 313,
+      "row_width": 33,
+      "var_offset": 10333,
+      "var_size": 8
+    },
+    "data/atlasprimordialaltarchoicetypes.dat64": {
+      "fixed_size": 144,
+      "row_count": 3,
+      "row_width": 48,
+      "var_offset": 148,
+      "var_size": 1798
+    },
+    "data/atlasprimordialbosses.dat64": {
+      "fixed_size": 336,
+      "row_count": 2,
+      "row_width": 168,
+      "var_offset": 340,
+      "var_size": 54
+    },
+    "data/atlasprimordialbossinfluence.dat64": {
+      "fixed_size": 1224,
+      "row_count": 18,
+      "row_width": 68,
+      "var_offset": 1228,
+      "var_size": 8
+    },
+    "data/atlasprimordialbossoptions.dat64": {
+      "fixed_size": 312,
+      "row_count": 3,
+      "row_width": 104,
+      "var_offset": 316,
+      "var_size": 2430
+    },
+    "data/atlasupgradesinventorylayout.dat64": {
+      "fixed_size": 288,
+      "row_count": 4,
+      "row_width": 72,
+      "var_offset": 292,
+      "var_size": 264
+    },
+    "data/attributes.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/audiocharacterclass.dat64": {
+      "fixed_size": 0,
+      "row_count": 7,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/awarddisplay.dat64": {
+      "fixed_size": 4656,
+      "row_count": 48,
+      "row_width": 97,
+      "var_offset": 4660,
+      "var_size": 7794
+    },
+    "data/azmericounterquests.dat64": {
+      "fixed_size": 180,
+      "row_count": 3,
+      "row_width": 60,
+      "var_offset": 184,
+      "var_size": 136
+    },
+    "data/azmeriencounterthemes.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/azmerifeaturerooms.dat64": {
+      "fixed_size": 2091,
+      "row_count": 51,
+      "row_width": 41,
+      "var_offset": 2095,
+      "var_size": 9038
+    },
+    "data/azmerilifescalingperlevel.dat64": {
+      "fixed_size": 800,
+      "row_count": 100,
+      "row_width": 8,
+      "var_offset": 804,
+      "var_size": 8
+    },
+    "data/azmeriwoodsdusttype.dat64": {
+      "fixed_size": 384,
+      "row_count": 3,
+      "row_width": 128,
+      "var_offset": 388,
+      "var_size": 1676
+    },
+    "data/backenderrors.dat64": {
+      "fixed_size": 9760,
+      "row_count": 610,
+      "row_width": 16,
+      "var_offset": 9764,
+      "var_size": 94980
+    },
+    "data/baseitemtypes.dat64": {
+      "fixed_size": 3376776,
+      "row_count": 10823,
+      "row_width": 312,
+      "var_offset": 3376780,
+      "var_size": 1902192
+    },
+    "data/battlepasses.dat64": {
+      "fixed_size": 287,
+      "row_count": 7,
+      "row_width": 41,
+      "var_offset": 291,
+      "var_size": 1976
+    },
+    "data/battlepassrewards.dat64": {
+      "fixed_size": 12780,
+      "row_count": 90,
+      "row_width": 142,
+      "var_offset": 12784,
+      "var_size": 12222
+    },
+    "data/battlepassrewardtypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/battlepasstracks.dat64": {
+      "fixed_size": 48,
+      "row_count": 3,
+      "row_width": 16,
+      "var_offset": 52,
+      "var_size": 110
+    },
+    "data/bestiarycapturablemonsters.dat64": {
+      "fixed_size": 57480,
+      "row_count": 479,
+      "row_width": 120,
+      "var_offset": 57484,
+      "var_size": 31856
+    },
+    "data/bestiaryencounters.dat64": {
+      "fixed_size": 2544,
+      "row_count": 53,
+      "row_width": 48,
+      "var_offset": 2548,
+      "var_size": 7794
+    },
+    "data/bestiaryfamilies.dat64": {
+      "fixed_size": 545,
+      "row_count": 5,
+      "row_width": 109,
+      "var_offset": 549,
+      "var_size": 3104
+    },
+    "data/bestiarygenus.dat64": {
+      "fixed_size": 2016,
+      "row_count": 42,
+      "row_width": 48,
+      "var_offset": 2020,
+      "var_size": 4250
+    },
+    "data/bestiarygroups.dat64": {
+      "fixed_size": 960,
+      "row_count": 12,
+      "row_width": 80,
+      "var_offset": 964,
+      "var_size": 9550
+    },
+    "data/bestiarynets.dat64": {
+      "fixed_size": 451,
+      "row_count": 11,
+      "row_width": 41,
+      "var_offset": 455,
+      "var_size": 8
+    },
+    "data/bestiaryrecipecategories.dat64": {
+      "fixed_size": 272,
+      "row_count": 17,
+      "row_width": 16,
+      "var_offset": 276,
+      "var_size": 1298
+    },
+    "data/bestiaryrecipecomponent.dat64": {
+      "fixed_size": 20952,
+      "row_count": 194,
+      "row_width": 108,
+      "var_offset": 20956,
+      "var_size": 9704
+    },
+    "data/bestiaryrecipes.dat64": {
+      "fixed_size": 12954,
+      "row_count": 127,
+      "row_width": 102,
+      "var_offset": 12958,
+      "var_size": 16462
+    },
+    "data/betrayalchoiceactions.dat64": {
+      "fixed_size": 920,
+      "row_count": 23,
+      "row_width": 40,
+      "var_offset": 924,
+      "var_size": 828
+    },
+    "data/betrayalchoices.dat64": {
+      "fixed_size": 180,
+      "row_count": 5,
+      "row_width": 36,
+      "var_offset": 184,
+      "var_size": 120
+    },
+    "data/betrayaldialogue.dat64": {
+      "fixed_size": 410020,
+      "row_count": 2158,
+      "row_width": 190,
+      "var_offset": 410024,
+      "var_size": 41448
+    },
+    "data/betrayaldialoguecue.dat64": {
+      "fixed_size": 0,
+      "row_count": 15,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/betrayalflags.dat64": {
+      "fixed_size": 0,
+      "row_count": 1,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/betrayalforts.dat64": {
+      "fixed_size": 108,
+      "row_count": 3,
+      "row_width": 36,
+      "var_offset": 112,
+      "var_size": 82
+    },
+    "data/betrayaljobs.dat64": {
+      "fixed_size": 560,
+      "row_count": 5,
+      "row_width": 112,
+      "var_offset": 564,
+      "var_size": 774
+    },
+    "data/betrayalranks.dat64": {
+      "fixed_size": 112,
+      "row_count": 4,
+      "row_width": 28,
+      "var_offset": 116,
+      "var_size": 434
+    },
+    "data/betrayalrelationshipstate.dat64": {
+      "fixed_size": 48,
+      "row_count": 3,
+      "row_width": 16,
+      "var_offset": 52,
+      "var_size": 60
+    },
+    "data/betrayaltargetflags.dat64": {
+      "fixed_size": 0,
+      "row_count": 10,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/betrayaltargetjobachievements.dat64": {
+      "fixed_size": 960,
+      "row_count": 20,
+      "row_width": 48,
+      "var_offset": 964,
+      "var_size": 8
+    },
+    "data/betrayaltargetlifescalingperlevel.dat64": {
+      "fixed_size": 440,
+      "row_count": 55,
+      "row_width": 8,
+      "var_offset": 444,
+      "var_size": 8
+    },
+    "data/betrayaltargets.dat64": {
+      "fixed_size": 3186,
+      "row_count": 18,
+      "row_width": 177,
+      "var_offset": 3190,
+      "var_size": 6152
+    },
+    "data/betrayaltraitorrewards.dat64": {
+      "fixed_size": 13056,
+      "row_count": 204,
+      "row_width": 64,
+      "var_offset": 13060,
+      "var_size": 7190
+    },
+    "data/betrayalupgrades.dat64": {
+      "fixed_size": 6800,
+      "row_count": 50,
+      "row_width": 136,
+      "var_offset": 6804,
+      "var_size": 12394
+    },
+    "data/betrayalupgradeslots.dat64": {
+      "fixed_size": 0,
+      "row_count": 5,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/betrayalwalllifescalingperlevel.dat64": {
+      "fixed_size": 440,
+      "row_count": 55,
+      "row_width": 8,
+      "var_offset": 444,
+      "var_size": 8
+    },
+    "data/beyondfactions.dat64": {
+      "fixed_size": 120,
+      "row_count": 3,
+      "row_width": 40,
+      "var_offset": 124,
+      "var_size": 48
+    },
+    "data/bindablevirtualkeys.dat64": {
+      "fixed_size": 1840,
+      "row_count": 92,
+      "row_width": 20,
+      "var_offset": 1844,
+      "var_size": 1236
+    },
+    "data/blightbalanceperlevel.dat64": {
+      "fixed_size": 1440,
+      "row_count": 30,
+      "row_width": 48,
+      "var_offset": 1444,
+      "var_size": 24
+    },
+    "data/blightbosslifescalingperlevel.dat64": {
+      "fixed_size": 672,
+      "row_count": 84,
+      "row_width": 8,
+      "var_offset": 676,
+      "var_size": 8
+    },
+    "data/blightchesttypes.dat64": {
+      "fixed_size": 2400,
+      "row_count": 150,
+      "row_width": 16,
+      "var_offset": 2404,
+      "var_size": 8
+    },
+    "data/blightcraftingitems.dat64": {
+      "fixed_size": 720,
+      "row_count": 15,
+      "row_width": 48,
+      "var_offset": 724,
+      "var_size": 480
+    },
+    "data/blightcraftingrecipes.dat64": {
+      "fixed_size": 29624,
+      "row_count": 529,
+      "row_width": 56,
+      "var_offset": 29628,
+      "var_size": 46584
+    },
+    "data/blightcraftingresults.dat64": {
+      "fixed_size": 21160,
+      "row_count": 529,
+      "row_width": 40,
+      "var_offset": 21164,
+      "var_size": 23064
+    },
+    "data/blightcraftingtypes.dat64": {
+      "fixed_size": 39,
+      "row_count": 3,
+      "row_width": 13,
+      "var_offset": 43,
+      "var_size": 78
+    },
+    "data/blightcraftinguniques.dat64": {
+      "fixed_size": 112,
+      "row_count": 7,
+      "row_width": 16,
+      "var_offset": 116,
+      "var_size": 8
+    },
+    "data/blightedsporeauras.dat64": {
+      "fixed_size": 504,
+      "row_count": 9,
+      "row_width": 56,
+      "var_offset": 508,
+      "var_size": 88
+    },
+    "data/blightencountertypes.dat64": {
+      "fixed_size": 441,
+      "row_count": 21,
+      "row_width": 21,
+      "var_offset": 445,
+      "var_size": 1244
+    },
+    "data/blightencounterwaves.dat64": {
+      "fixed_size": 6600,
+      "row_count": 165,
+      "row_width": 40,
+      "var_offset": 6604,
+      "var_size": 25156
+    },
+    "data/blightrewardtypes.dat64": {
+      "fixed_size": 480,
+      "row_count": 30,
+      "row_width": 16,
+      "var_offset": 484,
+      "var_size": 3278
+    },
+    "data/blightstashtablayout.dat64": {
+      "fixed_size": 1144,
+      "row_count": 22,
+      "row_width": 52,
+      "var_offset": 1148,
+      "var_size": 1386
+    },
+    "data/blighttopologies.dat64": {
+      "fixed_size": 3588,
+      "row_count": 69,
+      "row_width": 52,
+      "var_offset": 3592,
+      "var_size": 2614
+    },
+    "data/blighttopologynodes.dat64": {
+      "fixed_size": 20196,
+      "row_count": 153,
+      "row_width": 132,
+      "var_offset": 20200,
+      "var_size": 10302
+    },
+    "data/blighttowerauras.dat64": {
+      "fixed_size": 360,
+      "row_count": 9,
+      "row_width": 40,
+      "var_offset": 364,
+      "var_size": 8
+    },
+    "data/blighttowers.dat64": {
+      "fixed_size": 4123,
+      "row_count": 31,
+      "row_width": 133,
+      "var_offset": 4127,
+      "var_size": 15586
+    },
+    "data/blighttowersperlevel.dat64": {
+      "fixed_size": 1364,
+      "row_count": 31,
+      "row_width": 44,
+      "var_offset": 1368,
+      "var_size": 8
+    },
+    "data/bloodtypes.dat64": {
+      "fixed_size": 4216,
+      "row_count": 17,
+      "row_width": 248,
+      "var_offset": 4220,
+      "var_size": 918
+    },
+    "data/breachartvariations.dat64": {
+      "fixed_size": 304,
+      "row_count": 2,
+      "row_width": 152,
+      "var_offset": 308,
+      "var_size": 138
+    },
+    "data/breachbosslifescalingperlevel.dat64": {
+      "fixed_size": 184,
+      "row_count": 23,
+      "row_width": 8,
+      "var_offset": 188,
+      "var_size": 8
+    },
+    "data/breachelement.dat64": {
+      "fixed_size": 360,
+      "row_count": 5,
+      "row_width": 72,
+      "var_offset": 364,
+      "var_size": 88
+    },
+    "data/breachstones.dat64": {
+      "fixed_size": 560,
+      "row_count": 10,
+      "row_width": 56,
+      "var_offset": 564,
+      "var_size": 8
+    },
+    "data/buffcategories.dat64": {
+      "fixed_size": 0,
+      "row_count": 16,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/buffdefinitions.dat64": {
+      "fixed_size": 741040,
+      "row_count": 2360,
+      "row_width": 314,
+      "var_offset": 741044,
+      "var_size": 424340
+    },
+    "data/buffgroups.dat64": {
+      "fixed_size": 0,
+      "row_count": 29,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/buffmergemodes.dat64": {
+      "fixed_size": 0,
+      "row_count": 13,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/buffstackuimodes.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/bufftemplates.dat64": {
+      "fixed_size": 80592,
+      "row_count": 584,
+      "row_width": 138,
+      "var_offset": 80596,
+      "var_size": 44822
+    },
+    "data/buffvisualorbart.dat64": {
+      "fixed_size": 27209,
+      "row_count": 169,
+      "row_width": 161,
+      "var_offset": 27213,
+      "var_size": 7978
+    },
+    "data/buffvisualorbs.dat64": {
+      "fixed_size": 11160,
+      "row_count": 155,
+      "row_width": 72,
+      "var_offset": 11164,
+      "var_size": 9136
+    },
+    "data/buffvisualorbtypes.dat64": {
+      "fixed_size": 1806,
+      "row_count": 21,
+      "row_width": 86,
+      "var_offset": 1810,
+      "var_size": 586
+    },
+    "data/buffvisuals.dat64": {
+      "fixed_size": 438480,
+      "row_count": 2088,
+      "row_width": 210,
+      "var_offset": 438484,
+      "var_size": 432170
+    },
+    "data/buffvisualsartvariations.dat64": {
+      "fixed_size": 16100,
+      "row_count": 575,
+      "row_width": 28,
+      "var_offset": 16104,
+      "var_size": 13646
+    },
+    "data/buffvisualsetentries.dat64": {
+      "fixed_size": 1088,
+      "row_count": 34,
+      "row_width": 32,
+      "var_offset": 1092,
+      "var_size": 1128
+    },
+    "data/buffvisualsets.dat64": {
+      "fixed_size": 0,
+      "row_count": 2,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/characteraudioevents.dat64": {
+      "fixed_size": 19140,
+      "row_count": 290,
+      "row_width": 66,
+      "var_offset": 19144,
+      "var_size": 11358
+    },
+    "data/charactereventtextaudio.dat64": {
+      "fixed_size": 32688,
+      "row_count": 681,
+      "row_width": 48,
+      "var_offset": 32692,
+      "var_size": 12328
+    },
+    "data/characterpaneldescriptionmodes.dat64": {
+      "fixed_size": 384,
+      "row_count": 12,
+      "row_width": 32,
+      "var_offset": 388,
+      "var_size": 834
+    },
+    "data/characterpanelstatcontexts.dat64": {
+      "fixed_size": 0,
+      "row_count": 2,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/characterpanelstats.dat64": {
+      "fixed_size": 44460,
+      "row_count": 380,
+      "row_width": 117,
+      "var_offset": 44464,
+      "var_size": 53402
+    },
+    "data/characterpaneltabs.dat64": {
+      "fixed_size": 144,
+      "row_count": 6,
+      "row_width": 24,
+      "var_offset": 148,
+      "var_size": 158
+    },
+    "data/characters.dat64": {
+      "fixed_size": 4032,
+      "row_count": 7,
+      "row_width": 576,
+      "var_offset": 4036,
+      "var_size": 13068
+    },
+    "data/characterstartqueststate.dat64": {
+      "fixed_size": 1976,
+      "row_count": 19,
+      "row_width": 104,
+      "var_offset": 1980,
+      "var_size": 85892
+    },
+    "data/characterstartstates.dat64": {
+      "fixed_size": 12125,
+      "row_count": 97,
+      "row_width": 125,
+      "var_offset": 12129,
+      "var_size": 22602
+    },
+    "data/characterstartstateset.dat64": {
+      "fixed_size": 112,
+      "row_count": 14,
+      "row_width": 8,
+      "var_offset": 116,
+      "var_size": 396
+    },
+    "data/charactertextaudio.dat64": {
+      "fixed_size": 33984,
+      "row_count": 944,
+      "row_width": 36,
+      "var_offset": 33988,
+      "var_size": 247020
+    },
+    "data/chaticons.dat64": {
+      "fixed_size": 128,
+      "row_count": 8,
+      "row_width": 16,
+      "var_offset": 132,
+      "var_size": 832
+    },
+    "data/chestclusters.dat64": {
+      "fixed_size": 2860,
+      "row_count": 55,
+      "row_width": 52,
+      "var_offset": 2864,
+      "var_size": 5830
+    },
+    "data/chesteffects.dat64": {
+      "fixed_size": 6136,
+      "row_count": 59,
+      "row_width": 104,
+      "var_offset": 6140,
+      "var_size": 18840
+    },
+    "data/chests.dat64": {
+      "fixed_size": 781536,
+      "row_count": 2326,
+      "row_width": 336,
+      "var_offset": 781540,
+      "var_size": 403528
+    },
+    "data/chieftainlifescalingperlevel.dat64": {
+      "fixed_size": 800,
+      "row_count": 100,
+      "row_width": 8,
+      "var_offset": 804,
+      "var_size": 8
+    },
+    "data/clientlakedifficulty.dat64": {
+      "fixed_size": 288,
+      "row_count": 18,
+      "row_width": 16,
+      "var_offset": 292,
+      "var_size": 8
+    },
+    "data/clientleagueaction.dat64": {
+      "fixed_size": 972,
+      "row_count": 27,
+      "row_width": 36,
+      "var_offset": 976,
+      "var_size": 3804
+    },
+    "data/clientstrings.dat64": {
+      "fixed_size": 312312,
+      "row_count": 7098,
+      "row_width": 44,
+      "var_offset": 312316,
+      "var_size": 1139132
+    },
+    "data/clientuiscreens.dat64": {
+      "fixed_size": 0,
+      "row_count": 78,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/cloneshot.dat64": {
+      "fixed_size": 1292,
+      "row_count": 19,
+      "row_width": 68,
+      "var_offset": 1296,
+      "var_size": 8
+    },
+    "data/colours.dat64": {
+      "fixed_size": 1176,
+      "row_count": 42,
+      "row_width": 28,
+      "var_offset": 1180,
+      "var_size": 2604
+    },
+    "data/commands.dat64": {
+      "fixed_size": 2074,
+      "row_count": 61,
+      "row_width": 34,
+      "var_offset": 2078,
+      "var_size": 6638
+    },
+    "data/componentattributerequirements.dat64": {
+      "fixed_size": 15960,
+      "row_count": 798,
+      "row_width": 20,
+      "var_offset": 15964,
+      "var_size": 83642
+    },
+    "data/componentcharges.dat64": {
+      "fixed_size": 1224,
+      "row_count": 51,
+      "row_width": 24,
+      "var_offset": 1228,
+      "var_size": 3674
+    },
+    "data/conditionalachievements.dat64": {
+      "fixed_size": 240,
+      "row_count": 10,
+      "row_width": 24,
+      "var_offset": 244,
+      "var_size": 8
+    },
+    "data/cooldownbypasstypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/cooldowngroups.dat64": {
+      "fixed_size": 0,
+      "row_count": 34,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/coreleagues.dat64": {
+      "fixed_size": 4248,
+      "row_count": 24,
+      "row_width": 177,
+      "var_offset": 4252,
+      "var_size": 1226
+    },
+    "data/corpsesinkvariations.dat64": {
+      "fixed_size": 432,
+      "row_count": 8,
+      "row_width": 54,
+      "var_offset": 436,
+      "var_size": 1882
+    },
+    "data/corpsetypetags.dat64": {
+      "fixed_size": 312,
+      "row_count": 6,
+      "row_width": 52,
+      "var_offset": 316,
+      "var_size": 750
+    },
+    "data/cosmeticsequippanelmode.dat64": {
+      "fixed_size": 48,
+      "row_count": 2,
+      "row_width": 24,
+      "var_offset": 52,
+      "var_size": 324
+    },
+    "data/costtypes.dat64": {
+      "fixed_size": 468,
+      "row_count": 13,
+      "row_width": 36,
+      "var_offset": 472,
+      "var_size": 858
+    },
+    "data/craftingbenchcustomactions.dat64": {
+      "fixed_size": 0,
+      "row_count": 7,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/craftingbenchoptions.dat64": {
+      "fixed_size": 312960,
+      "row_count": 815,
+      "row_width": 384,
+      "var_offset": 312964,
+      "var_size": 72294
+    },
+    "data/craftingbenchsortcategories.dat64": {
+      "fixed_size": 200,
+      "row_count": 8,
+      "row_width": 25,
+      "var_offset": 204,
+      "var_size": 192
+    },
+    "data/craftingbenchspecificoptionid.dat64": {
+      "fixed_size": 72,
+      "row_count": 3,
+      "row_width": 24,
+      "var_offset": 76,
+      "var_size": 134
+    },
+    "data/craftingbenchunlockcategories.dat64": {
+      "fixed_size": 7680,
+      "row_count": 128,
+      "row_width": 60,
+      "var_offset": 7684,
+      "var_size": 29214
+    },
+    "data/craftingitemclasscategories.dat64": {
+      "fixed_size": 720,
+      "row_count": 18,
+      "row_width": 40,
+      "var_offset": 724,
+      "var_size": 1218
+    },
+    "data/crucibledifficulty.dat64": {
+      "fixed_size": 160,
+      "row_count": 5,
+      "row_width": 32,
+      "var_offset": 164,
+      "var_size": 114
+    },
+    "data/crucibleendgamemonsterpacks.dat64": {
+      "fixed_size": 264,
+      "row_count": 8,
+      "row_width": 33,
+      "var_offset": 268,
+      "var_size": 316
+    },
+    "data/cruciblelifescalingperlevel.dat64": {
+      "fixed_size": 800,
+      "row_count": 100,
+      "row_width": 8,
+      "var_offset": 804,
+      "var_size": 8
+    },
+    "data/crucibleplayerclassoffsets.dat64": {
+      "fixed_size": 168,
+      "row_count": 7,
+      "row_width": 24,
+      "var_offset": 172,
+      "var_size": 8
+    },
+    "data/crucibletags.dat64": {
+      "fixed_size": 54,
+      "row_count": 6,
+      "row_width": 9,
+      "var_offset": 58,
+      "var_size": 102
+    },
+    "data/currencyitems.dat64": {
+      "fixed_size": 2166435,
+      "row_count": 7765,
+      "row_width": 279,
+      "var_offset": 2166439,
+      "var_size": 813054
+    },
+    "data/currencystashtablayout.dat64": {
+      "fixed_size": 5096,
+      "row_count": 104,
+      "row_width": 49,
+      "var_offset": 5100,
+      "var_size": 9120
+    },
+    "data/currencyuseeffects.dat64": {
+      "fixed_size": 858,
+      "row_count": 13,
+      "row_width": 66,
+      "var_offset": 862,
+      "var_size": 382
+    },
+    "data/currencyusetypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 8,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/customleaguetemplate.dat64": {
+      "fixed_size": 0,
+      "row_count": 108,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/daemonspawningdata.dat64": {
+      "fixed_size": 2600,
+      "row_count": 65,
+      "row_width": 40,
+      "var_offset": 2604,
+      "var_size": 5042
+    },
+    "data/damageeffectvariations.dat64": {
+      "fixed_size": 14208,
+      "row_count": 148,
+      "row_width": 96,
+      "var_offset": 14212,
+      "var_size": 17088
+    },
+    "data/damagehiteffects.dat64": {
+      "fixed_size": 3828,
+      "row_count": 87,
+      "row_width": 44,
+      "var_offset": 3832,
+      "var_size": 1480
+    },
+    "data/damagehittypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/damageparticleeffects.dat64": {
+      "fixed_size": 1404,
+      "row_count": 27,
+      "row_width": 52,
+      "var_offset": 1408,
+      "var_size": 3264
+    },
+    "data/damageparticleeffecttypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 6,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/damagewhenhiteffects.dat64": {
+      "fixed_size": 264,
+      "row_count": 8,
+      "row_width": 33,
+      "var_offset": 268,
+      "var_size": 8
+    },
+    "data/dances.dat64": {
+      "fixed_size": 224,
+      "row_count": 7,
+      "row_width": 32,
+      "var_offset": 228,
+      "var_size": 8
+    },
+    "data/daressopitfights.dat64": {
+      "fixed_size": 1180,
+      "row_count": 20,
+      "row_width": 59,
+      "var_offset": 1184,
+      "var_size": 532
+    },
+    "data/default.dat64": {
+      "fixed_size": 0,
+      "row_count": 0,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/defaultmonsterstats.dat64": {
+      "fixed_size": 6800,
+      "row_count": 100,
+      "row_width": 68,
+      "var_offset": 6804,
+      "var_size": 792
+    },
+    "data/deliriumstashtablayout.dat64": {
+      "fixed_size": 1421,
+      "row_count": 29,
+      "row_width": 49,
+      "var_offset": 1425,
+      "var_size": 2788
+    },
+    "data/delveazuriteshop.dat64": {
+      "fixed_size": 1147,
+      "row_count": 31,
+      "row_width": 37,
+      "var_offset": 1151,
+      "var_size": 8
+    },
+    "data/delvebiomes.dat64": {
+      "fixed_size": 1450,
+      "row_count": 10,
+      "row_width": 145,
+      "var_offset": 1454,
+      "var_size": 3820
+    },
+    "data/delvecatchupdepths.dat64": {
+      "fixed_size": 800,
+      "row_count": 100,
+      "row_width": 8,
+      "var_offset": 804,
+      "var_size": 8
+    },
+    "data/delvecraftingmodifierdescriptions.dat64": {
+      "fixed_size": 1280,
+      "row_count": 80,
+      "row_width": 16,
+      "var_offset": 1284,
+      "var_size": 6542
+    },
+    "data/delvecraftingmodifiers.dat64": {
+      "fixed_size": 104130,
+      "row_count": 445,
+      "row_width": 234,
+      "var_offset": 104134,
+      "var_size": 43812
+    },
+    "data/delvecraftingtags.dat64": {
+      "fixed_size": 384,
+      "row_count": 16,
+      "row_width": 24,
+      "var_offset": 388,
+      "var_size": 318
+    },
+    "data/delvedynamite.dat64": {
+      "fixed_size": 400,
+      "row_count": 4,
+      "row_width": 100,
+      "var_offset": 404,
+      "var_size": 8
+    },
+    "data/delvefeatures.dat64": {
+      "fixed_size": 44280,
+      "row_count": 246,
+      "row_width": 180,
+      "var_offset": 44284,
+      "var_size": 18226
+    },
+    "data/delveflares.dat64": {
+      "fixed_size": 128,
+      "row_count": 2,
+      "row_width": 64,
+      "var_offset": 132,
+      "var_size": 8
+    },
+    "data/delvelevelscaling.dat64": {
+      "fixed_size": 360000,
+      "row_count": 6000,
+      "row_width": 60,
+      "var_offset": 360004,
+      "var_size": 8
+    },
+    "data/delvemonsterspawners.dat64": {
+      "fixed_size": 88569,
+      "row_count": 757,
+      "row_width": 117,
+      "var_offset": 88573,
+      "var_size": 53430
+    },
+    "data/delveresourceperlevel.dat64": {
+      "fixed_size": 792,
+      "row_count": 99,
+      "row_width": 8,
+      "var_offset": 796,
+      "var_size": 8
+    },
+    "data/delverewardtierconstants.dat64": {
+      "fixed_size": 100,
+      "row_count": 5,
+      "row_width": 20,
+      "var_offset": 104,
+      "var_size": 8
+    },
+    "data/delverobotvariations.dat64": {
+      "fixed_size": 128,
+      "row_count": 2,
+      "row_width": 64,
+      "var_offset": 132,
+      "var_size": 306
+    },
+    "data/delverooms.dat64": {
+      "fixed_size": 16360,
+      "row_count": 409,
+      "row_width": 40,
+      "var_offset": 16364,
+      "var_size": 37464
+    },
+    "data/delvestashtablayout.dat64": {
+      "fixed_size": 1995,
+      "row_count": 35,
+      "row_width": 57,
+      "var_offset": 1999,
+      "var_size": 4342
+    },
+    "data/delveupgrades.dat64": {
+      "fixed_size": 26316,
+      "row_count": 387,
+      "row_width": 68,
+      "var_offset": 26320,
+      "var_size": 6856
+    },
+    "data/delveupgradetype.dat64": {
+      "fixed_size": 0,
+      "row_count": 10,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/descendancy.dat64": {
+      "fixed_size": 352,
+      "row_count": 4,
+      "row_width": 88,
+      "var_offset": 356,
+      "var_size": 1724
+    },
+    "data/descentexiles.dat64": {
+      "fixed_size": 2820,
+      "row_count": 47,
+      "row_width": 60,
+      "var_offset": 2824,
+      "var_size": 1116
+    },
+    "data/descentrewardchests.dat64": {
+      "fixed_size": 8184,
+      "row_count": 33,
+      "row_width": 248,
+      "var_offset": 8188,
+      "var_size": 60090
+    },
+    "data/descentstarterchest.dat64": {
+      "fixed_size": 10368,
+      "row_count": 162,
+      "row_width": 64,
+      "var_offset": 10372,
+      "var_size": 3262
+    },
+    "data/dialogueevent.dat64": {
+      "fixed_size": 528,
+      "row_count": 44,
+      "row_width": 12,
+      "var_offset": 532,
+      "var_size": 1886
+    },
+    "data/directions.dat64": {
+      "fixed_size": 0,
+      "row_count": 12,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/displayminionmonstertype.dat64": {
+      "fixed_size": 540,
+      "row_count": 27,
+      "row_width": 20,
+      "var_offset": 544,
+      "var_size": 8
+    },
+    "data/divinationcardart.dat64": {
+      "fixed_size": 17800,
+      "row_count": 445,
+      "row_width": 40,
+      "var_offset": 17804,
+      "var_size": 39934
+    },
+    "data/divinationcardstashtablayout.dat64": {
+      "fixed_size": 8010,
+      "row_count": 445,
+      "row_width": 18,
+      "var_offset": 8014,
+      "var_size": 8
+    },
+    "data/divinationwindowvisuals.dat64": {
+      "fixed_size": 48,
+      "row_count": 2,
+      "row_width": 24,
+      "var_offset": 52,
+      "var_size": 540
+    },
+    "data/doors.dat64": {
+      "fixed_size": 81,
+      "row_count": 9,
+      "row_width": 9,
+      "var_offset": 85,
+      "var_size": 912
+    },
+    "data/dronebasetypes.dat64": {
+      "fixed_size": 2106,
+      "row_count": 26,
+      "row_width": 81,
+      "var_offset": 2110,
+      "var_size": 8
+    },
+    "data/dronetypes.dat64": {
+      "fixed_size": 264,
+      "row_count": 3,
+      "row_width": 88,
+      "var_offset": 268,
+      "var_size": 916
+    },
+    "data/dropeffects.dat64": {
+      "fixed_size": 176,
+      "row_count": 11,
+      "row_width": 16,
+      "var_offset": 180,
+      "var_size": 1282
+    },
+    "data/droppool.dat64": {
+      "fixed_size": 1760,
+      "row_count": 55,
+      "row_width": 32,
+      "var_offset": 1764,
+      "var_size": 1446
+    },
+    "data/dropreplacementcustomreplacements.dat64": {
+      "fixed_size": 0,
+      "row_count": 14,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/dropreplacementcustomtargets.dat64": {
+      "fixed_size": 0,
+      "row_count": 2,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/duplicategrantedeffect.dat64": {
+      "fixed_size": 0,
+      "row_count": 1,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/eclipsemods.dat64": {
+      "fixed_size": 5005,
+      "row_count": 77,
+      "row_width": 65,
+      "var_offset": 5009,
+      "var_size": 3674
+    },
+    "data/effectdrivenskill.dat64": {
+      "fixed_size": 8092,
+      "row_count": 68,
+      "row_width": 119,
+      "var_offset": 8096,
+      "var_size": 1240
+    },
+    "data/effectiveness.dat64": {
+      "fixed_size": 0,
+      "row_count": 38,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/effectivenesscostconstants.dat64": {
+      "fixed_size": 36,
+      "row_count": 3,
+      "row_width": 12,
+      "var_offset": 40,
+      "var_size": 98
+    },
+    "data/einharmissions.dat64": {
+      "fixed_size": 432,
+      "row_count": 12,
+      "row_width": 36,
+      "var_offset": 436,
+      "var_size": 88
+    },
+    "data/einharpackfallback.dat64": {
+      "fixed_size": 704,
+      "row_count": 22,
+      "row_width": 32,
+      "var_offset": 708,
+      "var_size": 1336
+    },
+    "data/elderbossarenas.dat64": {
+      "fixed_size": 432,
+      "row_count": 12,
+      "row_width": 36,
+      "var_offset": 436,
+      "var_size": 8
+    },
+    "data/elderguardians.dat64": {
+      "fixed_size": 64,
+      "row_count": 4,
+      "row_width": 16,
+      "var_offset": 68,
+      "var_size": 486
+    },
+    "data/eldermapbossoverride.dat64": {
+      "fixed_size": 6120,
+      "row_count": 153,
+      "row_width": 40,
+      "var_offset": 6124,
+      "var_size": 4202
+    },
+    "data/endlessledgechests.dat64": {
+      "fixed_size": 1824,
+      "row_count": 38,
+      "row_width": 48,
+      "var_offset": 1828,
+      "var_size": 1528
+    },
+    "data/entityinfobarstyle.dat64": {
+      "fixed_size": 1088,
+      "row_count": 8,
+      "row_width": 136,
+      "var_offset": 1092,
+      "var_size": 10634
+    },
+    "data/environments.dat64": {
+      "fixed_size": 134056,
+      "row_count": 1289,
+      "row_width": 104,
+      "var_offset": 134060,
+      "var_size": 173738
+    },
+    "data/environmenttransitions.dat64": {
+      "fixed_size": 80,
+      "row_count": 2,
+      "row_width": 40,
+      "var_offset": 84,
+      "var_size": 544
+    },
+    "data/essences.dat64": {
+      "fixed_size": 99645,
+      "row_count": 105,
+      "row_width": 949,
+      "var_offset": 99649,
+      "var_size": 5576
+    },
+    "data/essencestashtablayout.dat64": {
+      "fixed_size": 4905,
+      "row_count": 109,
+      "row_width": 45,
+      "var_offset": 4909,
+      "var_size": 10128
+    },
+    "data/essencetype.dat64": {
+      "fixed_size": 725,
+      "row_count": 25,
+      "row_width": 29,
+      "var_offset": 729,
+      "var_size": 410
+    },
+    "data/evergreenachievements.dat64": {
+      "fixed_size": 1008,
+      "row_count": 42,
+      "row_width": 24,
+      "var_offset": 1012,
+      "var_size": 440
+    },
+    "data/evergreenachievementtypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 28,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/executegeal.dat64": {
+      "fixed_size": 32112,
+      "row_count": 144,
+      "row_width": 223,
+      "var_offset": 32116,
+      "var_size": 36784
+    },
+    "data/expandingpulse.dat64": {
+      "fixed_size": 1311,
+      "row_count": 19,
+      "row_width": 69,
+      "var_offset": 1315,
+      "var_size": 3434
+    },
+    "data/expeditionareas.dat64": {
+      "fixed_size": 1424,
+      "row_count": 16,
+      "row_width": 89,
+      "var_offset": 1428,
+      "var_size": 996
+    },
+    "data/expeditionbalanceperlevel.dat64": {
+      "fixed_size": 9462,
+      "row_count": 166,
+      "row_width": 57,
+      "var_offset": 9466,
+      "var_size": 8
+    },
+    "data/expeditioncurrency.dat64": {
+      "fixed_size": 832,
+      "row_count": 16,
+      "row_width": 52,
+      "var_offset": 836,
+      "var_size": 8
+    },
+    "data/expeditiondealfamilies.dat64": {
+      "fixed_size": 0,
+      "row_count": 22,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/expeditiondeals.dat64": {
+      "fixed_size": 6560,
+      "row_count": 82,
+      "row_width": 80,
+      "var_offset": 6564,
+      "var_size": 10402
+    },
+    "data/expeditionfactions.dat64": {
+      "fixed_size": 464,
+      "row_count": 4,
+      "row_width": 116,
+      "var_offset": 468,
+      "var_size": 1370
+    },
+    "data/expeditionmarkerscommon.dat64": {
+      "fixed_size": 400,
+      "row_count": 25,
+      "row_width": 16,
+      "var_offset": 404,
+      "var_size": 4324
+    },
+    "data/expeditionnpcs.dat64": {
+      "fixed_size": 800,
+      "row_count": 4,
+      "row_width": 200,
+      "var_offset": 804,
+      "var_size": 264
+    },
+    "data/expeditionrelicmodcategories.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/expeditionrelicmods.dat64": {
+      "fixed_size": 7248,
+      "row_count": 151,
+      "row_width": 48,
+      "var_offset": 7252,
+      "var_size": 1108
+    },
+    "data/expeditionrelics.dat64": {
+      "fixed_size": 672,
+      "row_count": 14,
+      "row_width": 48,
+      "var_offset": 676,
+      "var_size": 3280
+    },
+    "data/expeditionstoragelayout.dat64": {
+      "fixed_size": 1449,
+      "row_count": 21,
+      "row_width": 69,
+      "var_offset": 1453,
+      "var_size": 2456
+    },
+    "data/expeditionterrainfeatures.dat64": {
+      "fixed_size": 1470,
+      "row_count": 14,
+      "row_width": 105,
+      "var_offset": 1474,
+      "var_size": 1452
+    },
+    "data/experiencelevels.dat64": {
+      "fixed_size": 1600,
+      "row_count": 100,
+      "row_width": 16,
+      "var_offset": 1604,
+      "var_size": 1008
+    },
+    "data/explodingstormbuffs.dat64": {
+      "fixed_size": 10244,
+      "row_count": 52,
+      "row_width": 197,
+      "var_offset": 10248,
+      "var_size": 2978
+    },
+    "data/extraterrainfeatures.dat64": {
+      "fixed_size": 4692,
+      "row_count": 46,
+      "row_width": 102,
+      "var_offset": 4696,
+      "var_size": 8910
+    },
+    "data/fixedhideoutdoodadtypes.dat64": {
+      "fixed_size": 680,
+      "row_count": 8,
+      "row_width": 85,
+      "var_offset": 684,
+      "var_size": 1360
+    },
+    "data/fixedmissions.dat64": {
+      "fixed_size": 828,
+      "row_count": 9,
+      "row_width": 92,
+      "var_offset": 832,
+      "var_size": 12
+    },
+    "data/flasks.dat64": {
+      "fixed_size": 4692,
+      "row_count": 51,
+      "row_width": 92,
+      "var_offset": 4696,
+      "var_size": 1776
+    },
+    "data/flaskstashbasetypeordering.dat64": {
+      "fixed_size": 1020,
+      "row_count": 51,
+      "row_width": 20,
+      "var_offset": 1024,
+      "var_size": 8
+    },
+    "data/flasktype.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/flavourtext.dat64": {
+      "fixed_size": 48880,
+      "row_count": 2444,
+      "row_width": 20,
+      "var_offset": 48884,
+      "var_size": 586282
+    },
+    "data/flavourtextimages.dat64": {
+      "fixed_size": 0,
+      "row_count": 37,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/footprints.dat64": {
+      "fixed_size": 10580,
+      "row_count": 115,
+      "row_width": 92,
+      "var_offset": 10584,
+      "var_size": 65656
+    },
+    "data/footstepaudio.dat64": {
+      "fixed_size": 84,
+      "row_count": 7,
+      "row_width": 12,
+      "var_offset": 88,
+      "var_size": 142
+    },
+    "data/fragmentstashtablayout.dat64": {
+      "fixed_size": 10934,
+      "row_count": 154,
+      "row_width": 71,
+      "var_offset": 10938,
+      "var_size": 22840
+    },
+    "data/gameconstants.dat64": {
+      "fixed_size": 304,
+      "row_count": 19,
+      "row_width": 16,
+      "var_offset": 308,
+      "var_size": 1180
+    },
+    "data/gamelogos.dat64": {
+      "fixed_size": 672,
+      "row_count": 28,
+      "row_width": 24,
+      "var_offset": 676,
+      "var_size": 4712
+    },
+    "data/gameobjecttasks.dat64": {
+      "fixed_size": 1080,
+      "row_count": 90,
+      "row_width": 12,
+      "var_offset": 1084,
+      "var_size": 5102
+    },
+    "data/gameobjecttasksfromstats.dat64": {
+      "fixed_size": 1400,
+      "row_count": 35,
+      "row_width": 40,
+      "var_offset": 1404,
+      "var_size": 8
+    },
+    "data/gamepadbutton.dat64": {
+      "fixed_size": 840,
+      "row_count": 21,
+      "row_width": 40,
+      "var_offset": 844,
+      "var_size": 1234
+    },
+    "data/gamepadbuttoncombination.dat64": {
+      "fixed_size": 2376,
+      "row_count": 54,
+      "row_width": 44,
+      "var_offset": 2380,
+      "var_size": 1424
+    },
+    "data/gamepadthumbstick.dat64": {
+      "fixed_size": 32,
+      "row_count": 2,
+      "row_width": 16,
+      "var_offset": 36,
+      "var_size": 80
+    },
+    "data/gamepadtype.dat64": {
+      "fixed_size": 96,
+      "row_count": 4,
+      "row_width": 24,
+      "var_offset": 100,
+      "var_size": 462
+    },
+    "data/gamestats.dat64": {
+      "fixed_size": 64,
+      "row_count": 4,
+      "row_width": 16,
+      "var_offset": 68,
+      "var_size": 246
+    },
+    "data/gemeffects.dat64": {
+      "fixed_size": 157080,
+      "row_count": 1190,
+      "row_width": 132,
+      "var_offset": 157084,
+      "var_size": 208050
+    },
+    "data/gemitemvisualeffect.dat64": {
+      "fixed_size": 0,
+      "row_count": 2,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/gemtags.dat64": {
+      "fixed_size": 4160,
+      "row_count": 52,
+      "row_width": 80,
+      "var_offset": 4164,
+      "var_size": 1606
+    },
+    "data/gemtypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/genericbuffauras.dat64": {
+      "fixed_size": 176,
+      "row_count": 22,
+      "row_width": 8,
+      "var_offset": 180,
+      "var_size": 556
+    },
+    "data/genericleaguerewardtypes.dat64": {
+      "fixed_size": 384,
+      "row_count": 24,
+      "row_width": 16,
+      "var_offset": 388,
+      "var_size": 460
+    },
+    "data/genericleaguerewardtypevisuals.dat64": {
+      "fixed_size": 1632,
+      "row_count": 24,
+      "row_width": 68,
+      "var_offset": 1636,
+      "var_size": 3644
+    },
+    "data/geometryattack.dat64": {
+      "fixed_size": 327437,
+      "row_count": 1133,
+      "row_width": 289,
+      "var_offset": 327441,
+      "var_size": 14504
+    },
+    "data/geometrychannel.dat64": {
+      "fixed_size": 4160,
+      "row_count": 32,
+      "row_width": 130,
+      "var_offset": 4164,
+      "var_size": 2622
+    },
+    "data/geometryprojectiles.dat64": {
+      "fixed_size": 9900,
+      "row_count": 99,
+      "row_width": 100,
+      "var_offset": 9904,
+      "var_size": 8
+    },
+    "data/geometrytrigger.dat64": {
+      "fixed_size": 95172,
+      "row_count": 412,
+      "row_width": 231,
+      "var_offset": 95176,
+      "var_size": 452
+    },
+    "data/giftwrapartvariations.dat64": {
+      "fixed_size": 1260,
+      "row_count": 45,
+      "row_width": 28,
+      "var_offset": 1264,
+      "var_size": 8
+    },
+    "data/globalaudioconfig.dat64": {
+      "fixed_size": 104,
+      "row_count": 8,
+      "row_width": 13,
+      "var_offset": 108,
+      "var_size": 298
+    },
+    "data/goldactscaling.dat64": {
+      "fixed_size": 240,
+      "row_count": 12,
+      "row_width": 20,
+      "var_offset": 244,
+      "var_size": 158
+    },
+    "data/goldconstants.dat64": {
+      "fixed_size": 12,
+      "row_count": 1,
+      "row_width": 12,
+      "var_offset": 16,
+      "var_size": 58
+    },
+    "data/grandmasters.dat64": {
+      "fixed_size": 30330,
+      "row_count": 674,
+      "row_width": 45,
+      "var_offset": 30334,
+      "var_size": 165780
+    },
+    "data/grantedeffectgroups.dat64": {
+      "fixed_size": 0,
+      "row_count": 1,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/grantedeffectqualitystats.dat64": {
+      "fixed_size": 73520,
+      "row_count": 919,
+      "row_width": 80,
+      "var_offset": 73524,
+      "var_size": 15104
+    },
+    "data/grantedeffects.dat64": {
+      "fixed_size": 2653385,
+      "row_count": 11291,
+      "row_width": 235,
+      "var_offset": 2653389,
+      "var_size": 629808
+    },
+    "data/grantedeffectsperlevel.dat64": {
+      "fixed_size": 7714800,
+      "row_count": 64290,
+      "row_width": 120,
+      "var_offset": 7714804,
+      "var_size": 456812
+    },
+    "data/grantedeffectstatsets.dat64": {
+      "fixed_size": 763504,
+      "row_count": 11228,
+      "row_width": 68,
+      "var_offset": 763508,
+      "var_size": 1338782
+    },
+    "data/grantedeffectstatsetsperlevel.dat64": {
+      "fixed_size": 11824760,
+      "row_count": 64265,
+      "row_width": 184,
+      "var_offset": 11824764,
+      "var_size": 5049236
+    },
+    "data/groundeffecteffecttypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 2,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/groundeffects.dat64": {
+      "fixed_size": 38763,
+      "row_count": 177,
+      "row_width": 219,
+      "var_offset": 38767,
+      "var_size": 47822
+    },
+    "data/groundeffecttypes.dat64": {
+      "fixed_size": 2432,
+      "row_count": 38,
+      "row_width": 64,
+      "var_offset": 2436,
+      "var_size": 930
+    },
+    "data/harbingers.dat64": {
+      "fixed_size": 896,
+      "row_count": 28,
+      "row_width": 32,
+      "var_offset": 900,
+      "var_size": 8
+    },
+    "data/hardmodeextracontentchances.dat64": {
+      "fixed_size": 1148,
+      "row_count": 28,
+      "row_width": 41,
+      "var_offset": 1152,
+      "var_size": 3956
+    },
+    "data/hardmodeextracontentchancespermaptier.dat64": {
+      "fixed_size": 320,
+      "row_count": 16,
+      "row_width": 20,
+      "var_offset": 324,
+      "var_size": 8
+    },
+    "data/harvestcolours.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/harvestcraftcostscalingbybasetype.dat64": {
+      "fixed_size": 540,
+      "row_count": 15,
+      "row_width": 36,
+      "var_offset": 544,
+      "var_size": 8
+    },
+    "data/harvestcraftfilters.dat64": {
+      "fixed_size": 128,
+      "row_count": 4,
+      "row_width": 32,
+      "var_offset": 132,
+      "var_size": 340
+    },
+    "data/harvestcraftoptionicons.dat64": {
+      "fixed_size": 240,
+      "row_count": 15,
+      "row_width": 16,
+      "var_offset": 244,
+      "var_size": 1688
+    },
+    "data/harvestcraftoptions.dat64": {
+      "fixed_size": 7590,
+      "row_count": 69,
+      "row_width": 110,
+      "var_offset": 7594,
+      "var_size": 45474
+    },
+    "data/harvestcrafttiers.dat64": {
+      "fixed_size": 96,
+      "row_count": 4,
+      "row_width": 24,
+      "var_offset": 100,
+      "var_size": 1088
+    },
+    "data/harvestinfrastructure.dat64": {
+      "fixed_size": 112,
+      "row_count": 4,
+      "row_width": 28,
+      "var_offset": 116,
+      "var_size": 394
+    },
+    "data/harvestlifescalingperlevel.dat64": {
+      "fixed_size": 800,
+      "row_count": 100,
+      "row_width": 8,
+      "var_offset": 804,
+      "var_size": 8
+    },
+    "data/harvestperlevelvalues.dat64": {
+      "fixed_size": 4800,
+      "row_count": 100,
+      "row_width": 48,
+      "var_offset": 4804,
+      "var_size": 8
+    },
+    "data/harvestseeditems.dat64": {
+      "fixed_size": 108,
+      "row_count": 3,
+      "row_width": 36,
+      "var_offset": 112,
+      "var_size": 8
+    },
+    "data/harvestseeds.dat64": {
+      "fixed_size": 4224,
+      "row_count": 48,
+      "row_width": 88,
+      "var_offset": 4228,
+      "var_size": 6428
+    },
+    "data/heistareaformationlayout.dat64": {
+      "fixed_size": 1830,
+      "row_count": 30,
+      "row_width": 61,
+      "var_offset": 1834,
+      "var_size": 8
+    },
+    "data/heistareas.dat64": {
+      "fixed_size": 1926,
+      "row_count": 9,
+      "row_width": 214,
+      "var_offset": 1930,
+      "var_size": 4312
+    },
+    "data/heistbalanceperlevel.dat64": {
+      "fixed_size": 13944,
+      "row_count": 83,
+      "row_width": 168,
+      "var_offset": 13948,
+      "var_size": 8
+    },
+    "data/heistblueprintwindowtypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/heistchestrewardtypes.dat64": {
+      "fixed_size": 2352,
+      "row_count": 28,
+      "row_width": 84,
+      "var_offset": 2356,
+      "var_size": 5928
+    },
+    "data/heistchests.dat64": {
+      "fixed_size": 19080,
+      "row_count": 477,
+      "row_width": 40,
+      "var_offset": 19084,
+      "var_size": 17288
+    },
+    "data/heistchesttypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/heistchokepointformation.dat64": {
+      "fixed_size": 6230,
+      "row_count": 70,
+      "row_width": 89,
+      "var_offset": 6234,
+      "var_size": 1580
+    },
+    "data/heistconstants.dat64": {
+      "fixed_size": 72,
+      "row_count": 6,
+      "row_width": 12,
+      "var_offset": 76,
+      "var_size": 406
+    },
+    "data/heistcontracts.dat64": {
+      "fixed_size": 1548,
+      "row_count": 43,
+      "row_width": 36,
+      "var_offset": 1552,
+      "var_size": 8
+    },
+    "data/heistdoodadnpcs.dat64": {
+      "fixed_size": 2116,
+      "row_count": 23,
+      "row_width": 92,
+      "var_offset": 2120,
+      "var_size": 3060
+    },
+    "data/heistdoors.dat64": {
+      "fixed_size": 2160,
+      "row_count": 20,
+      "row_width": 108,
+      "var_offset": 2164,
+      "var_size": 1442
+    },
+    "data/heistequipment.dat64": {
+      "fixed_size": 2160,
+      "row_count": 60,
+      "row_width": 36,
+      "var_offset": 2164,
+      "var_size": 8
+    },
+    "data/heistformationmarkertype.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/heistgeneration.dat64": {
+      "fixed_size": 13944,
+      "row_count": 166,
+      "row_width": 84,
+      "var_offset": 13948,
+      "var_size": 8
+    },
+    "data/heistintroareas.dat64": {
+      "fixed_size": 16104,
+      "row_count": 264,
+      "row_width": 61,
+      "var_offset": 16108,
+      "var_size": 50320
+    },
+    "data/heistjobs.dat64": {
+      "fixed_size": 1296,
+      "row_count": 9,
+      "row_width": 144,
+      "var_offset": 1300,
+      "var_size": 6154
+    },
+    "data/heistjobsexperienceperlevel.dat64": {
+      "fixed_size": 1980,
+      "row_count": 45,
+      "row_width": 44,
+      "var_offset": 1984,
+      "var_size": 440
+    },
+    "data/heistlocktype.dat64": {
+      "fixed_size": 512,
+      "row_count": 16,
+      "row_width": 32,
+      "var_offset": 516,
+      "var_size": 734
+    },
+    "data/heistnpcauras.dat64": {
+      "fixed_size": 416,
+      "row_count": 13,
+      "row_width": 32,
+      "var_offset": 420,
+      "var_size": 8
+    },
+    "data/heistnpcblueprinttypes.dat64": {
+      "fixed_size": 100,
+      "row_count": 5,
+      "row_width": 20,
+      "var_offset": 104,
+      "var_size": 8
+    },
+    "data/heistnpcdialogue.dat64": {
+      "fixed_size": 10540,
+      "row_count": 155,
+      "row_width": 68,
+      "var_offset": 10544,
+      "var_size": 18696
+    },
+    "data/heistnpcs.dat64": {
+      "fixed_size": 2596,
+      "row_count": 11,
+      "row_width": 236,
+      "var_offset": 2600,
+      "var_size": 7000
+    },
+    "data/heistnpcstats.dat64": {
+      "fixed_size": 2700,
+      "row_count": 135,
+      "row_width": 20,
+      "var_offset": 2704,
+      "var_size": 8
+    },
+    "data/heistobjectives.dat64": {
+      "fixed_size": 2240,
+      "row_count": 80,
+      "row_width": 28,
+      "var_offset": 2244,
+      "var_size": 716
+    },
+    "data/heistobjectivevaluedescriptions.dat64": {
+      "fixed_size": 80,
+      "row_count": 5,
+      "row_width": 16,
+      "var_offset": 84,
+      "var_size": 110
+    },
+    "data/heistpatrolpacks.dat64": {
+      "fixed_size": 1110,
+      "row_count": 30,
+      "row_width": 37,
+      "var_offset": 1114,
+      "var_size": 8
+    },
+    "data/heistquestcontracts.dat64": {
+      "fixed_size": 8772,
+      "row_count": 34,
+      "row_width": 258,
+      "var_offset": 8776,
+      "var_size": 1026
+    },
+    "data/heistrevealingnpcs.dat64": {
+      "fixed_size": 132,
+      "row_count": 3,
+      "row_width": 44,
+      "var_offset": 136,
+      "var_size": 480
+    },
+    "data/heistrooms.dat64": {
+      "fixed_size": 35948,
+      "row_count": 418,
+      "row_width": 86,
+      "var_offset": 35952,
+      "var_size": 62630
+    },
+    "data/heistroomtypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 6,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/heiststoragelayout.dat64": {
+      "fixed_size": 1767,
+      "row_count": 19,
+      "row_width": 93,
+      "var_offset": 1771,
+      "var_size": 2820
+    },
+    "data/heistvaluescaling.dat64": {
+      "fixed_size": 112,
+      "row_count": 7,
+      "row_width": 16,
+      "var_offset": 116,
+      "var_size": 540
+    },
+    "data/hellscapeaoreplacements.dat64": {
+      "fixed_size": 3420,
+      "row_count": 171,
+      "row_width": 20,
+      "var_offset": 3424,
+      "var_size": 42118
+    },
+    "data/hellscapeareapacks.dat64": {
+      "fixed_size": 5720,
+      "row_count": 143,
+      "row_width": 40,
+      "var_offset": 5724,
+      "var_size": 8984
+    },
+    "data/hellscapeexperiencelevels.dat64": {
+      "fixed_size": 504,
+      "row_count": 63,
+      "row_width": 8,
+      "var_offset": 508,
+      "var_size": 8
+    },
+    "data/hellscapefactions.dat64": {
+      "fixed_size": 300,
+      "row_count": 3,
+      "row_width": 100,
+      "var_offset": 304,
+      "var_size": 568
+    },
+    "data/hellscapeimmunemonsters.dat64": {
+      "fixed_size": 16464,
+      "row_count": 1029,
+      "row_width": 16,
+      "var_offset": 16468,
+      "var_size": 8
+    },
+    "data/hellscapeitemmodificationtiers.dat64": {
+      "fixed_size": 169,
+      "row_count": 13,
+      "row_width": 13,
+      "var_offset": 173,
+      "var_size": 8
+    },
+    "data/hellscapelifescalingperlevel.dat64": {
+      "fixed_size": 800,
+      "row_count": 100,
+      "row_width": 8,
+      "var_offset": 804,
+      "var_size": 8
+    },
+    "data/hellscapemodificationinventorylayout.dat64": {
+      "fixed_size": 405,
+      "row_count": 5,
+      "row_width": 81,
+      "var_offset": 409,
+      "var_size": 122
+    },
+    "data/hellscapemods.dat64": {
+      "fixed_size": 82688,
+      "row_count": 1292,
+      "row_width": 64,
+      "var_offset": 82692,
+      "var_size": 18584
+    },
+    "data/hellscapemonsterpacks.dat64": {
+      "fixed_size": 1950,
+      "row_count": 39,
+      "row_width": 50,
+      "var_offset": 1954,
+      "var_size": 300
+    },
+    "data/hellscapepassives.dat64": {
+      "fixed_size": 1620,
+      "row_count": 15,
+      "row_width": 108,
+      "var_offset": 1624,
+      "var_size": 5422
+    },
+    "data/hellscapepassivetree.dat64": {
+      "fixed_size": 140,
+      "row_count": 5,
+      "row_width": 28,
+      "var_offset": 144,
+      "var_size": 308
+    },
+    "data/hideoutcraftingbenchdoodads.dat64": {
+      "fixed_size": 128,
+      "row_count": 4,
+      "row_width": 32,
+      "var_offset": 132,
+      "var_size": 8
+    },
+    "data/hideoutcraftingbenchinterfacevisuals.dat64": {
+      "fixed_size": 192,
+      "row_count": 4,
+      "row_width": 48,
+      "var_offset": 196,
+      "var_size": 2402
+    },
+    "data/hideoutdoodadcategory.dat64": {
+      "fixed_size": 2000,
+      "row_count": 125,
+      "row_width": 16,
+      "var_offset": 2004,
+      "var_size": 2958
+    },
+    "data/hideoutdoodads.dat64": {
+      "fixed_size": 217152,
+      "row_count": 1392,
+      "row_width": 156,
+      "var_offset": 217156,
+      "var_size": 1276706
+    },
+    "data/hideoutdoodadtags.dat64": {
+      "fixed_size": 1632,
+      "row_count": 34,
+      "row_width": 48,
+      "var_offset": 1636,
+      "var_size": 622
+    },
+    "data/hideoutnpcs.dat64": {
+      "fixed_size": 1625,
+      "row_count": 13,
+      "row_width": 125,
+      "var_offset": 1629,
+      "var_size": 360
+    },
+    "data/hideoutrarity.dat64": {
+      "fixed_size": 80,
+      "row_count": 5,
+      "row_width": 16,
+      "var_offset": 84,
+      "var_size": 142
+    },
+    "data/hideouts.dat64": {
+      "fixed_size": 10318,
+      "row_count": 77,
+      "row_width": 134,
+      "var_offset": 10322,
+      "var_size": 26790
+    },
+    "data/hideoutstashdoodads.dat64": {
+      "fixed_size": 532,
+      "row_count": 28,
+      "row_width": 19,
+      "var_offset": 536,
+      "var_size": 8
+    },
+    "data/hideoutwaypointdoodads.dat64": {
+      "fixed_size": 192,
+      "row_count": 6,
+      "row_width": 32,
+      "var_offset": 196,
+      "var_size": 58
+    },
+    "data/hudenergyshieldvisuals.dat64": {
+      "fixed_size": 219,
+      "row_count": 3,
+      "row_width": 73,
+      "var_offset": 223,
+      "var_size": 1744
+    },
+    "data/hudlifevisuals.dat64": {
+      "fixed_size": 324,
+      "row_count": 3,
+      "row_width": 108,
+      "var_offset": 328,
+      "var_size": 3620
+    },
+    "data/hudvisualsfromstat.dat64": {
+      "fixed_size": 256,
+      "row_count": 4,
+      "row_width": 64,
+      "var_offset": 260,
+      "var_size": 8
+    },
+    "data/impactsounddata.dat64": {
+      "fixed_size": 736,
+      "row_count": 23,
+      "row_width": 32,
+      "var_offset": 740,
+      "var_size": 2094
+    },
+    "data/incubators.dat64": {
+      "fixed_size": 2880,
+      "row_count": 60,
+      "row_width": 48,
+      "var_offset": 2884,
+      "var_size": 1052
+    },
+    "data/incursionarchitect.dat64": {
+      "fixed_size": 500,
+      "row_count": 25,
+      "row_width": 20,
+      "var_offset": 504,
+      "var_size": 8
+    },
+    "data/incursionbrackets.dat64": {
+      "fixed_size": 600,
+      "row_count": 10,
+      "row_width": 60,
+      "var_offset": 604,
+      "var_size": 120
+    },
+    "data/incursionchestrewards.dat64": {
+      "fixed_size": 2736,
+      "row_count": 36,
+      "row_width": 76,
+      "var_offset": 2740,
+      "var_size": 6626
+    },
+    "data/incursionchests.dat64": {
+      "fixed_size": 8624,
+      "row_count": 154,
+      "row_width": 56,
+      "var_offset": 8628,
+      "var_size": 4922
+    },
+    "data/incursionroombossfightevents.dat64": {
+      "fixed_size": 648,
+      "row_count": 9,
+      "row_width": 72,
+      "var_offset": 652,
+      "var_size": 1654
+    },
+    "data/incursionrooms.dat64": {
+      "fixed_size": 18424,
+      "row_count": 98,
+      "row_width": 188,
+      "var_offset": 18428,
+      "var_size": 59120
+    },
+    "data/incursionuniqueupgradecomponents.dat64": {
+      "fixed_size": 352,
+      "row_count": 11,
+      "row_width": 32,
+      "var_offset": 356,
+      "var_size": 8
+    },
+    "data/indexableskillgems.dat64": {
+      "fixed_size": 16320,
+      "row_count": 272,
+      "row_width": 60,
+      "var_offset": 16324,
+      "var_size": 17940
+    },
+    "data/indexablesupportgems.dat64": {
+      "fixed_size": 4536,
+      "row_count": 162,
+      "row_width": 28,
+      "var_offset": 4540,
+      "var_size": 4934
+    },
+    "data/influenceambushvariations.dat64": {
+      "fixed_size": 900,
+      "row_count": 15,
+      "row_width": 60,
+      "var_offset": 904,
+      "var_size": 424
+    },
+    "data/influenceexalts.dat64": {
+      "fixed_size": 120,
+      "row_count": 6,
+      "row_width": 20,
+      "var_offset": 124,
+      "var_size": 8
+    },
+    "data/influencemodupgrades.dat64": {
+      "fixed_size": 23562,
+      "row_count": 714,
+      "row_width": 33,
+      "var_offset": 23566,
+      "var_size": 8
+    },
+    "data/influencetags.dat64": {
+      "fixed_size": 5184,
+      "row_count": 144,
+      "row_width": 36,
+      "var_offset": 5188,
+      "var_size": 8
+    },
+    "data/influencetypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 6,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/invasionmonstergroups.dat64": {
+      "fixed_size": 0,
+      "row_count": 99,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/invasionmonsterrestrictions.dat64": {
+      "fixed_size": 14168,
+      "row_count": 253,
+      "row_width": 56,
+      "var_offset": 14172,
+      "var_size": 22132
+    },
+    "data/invasionmonsterroles.dat64": {
+      "fixed_size": 0,
+      "row_count": 5,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/invasionmonstersperarea.dat64": {
+      "fixed_size": 56028,
+      "row_count": 667,
+      "row_width": 84,
+      "var_offset": 56032,
+      "var_size": 112772
+    },
+    "data/inventories.dat64": {
+      "fixed_size": 2295,
+      "row_count": 85,
+      "row_width": 27,
+      "var_offset": 2299,
+      "var_size": 2716
+    },
+    "data/inventorytype.dat64": {
+      "fixed_size": 0,
+      "row_count": 56,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/itemclasscategories.dat64": {
+      "fixed_size": 1920,
+      "row_count": 60,
+      "row_width": 32,
+      "var_offset": 1924,
+      "var_size": 2314
+    },
+    "data/itemclasses.dat64": {
+      "fixed_size": 16928,
+      "row_count": 92,
+      "row_width": 184,
+      "var_offset": 16932,
+      "var_size": 5612
+    },
+    "data/itemclassflags.dat64": {
+      "fixed_size": 0,
+      "row_count": 8,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/itemclasspickupeffect.dat64": {
+      "fixed_size": 52,
+      "row_count": 1,
+      "row_width": 52,
+      "var_offset": 56,
+      "var_size": 8
+    },
+    "data/itemclassvisualreplacement.dat64": {
+      "fixed_size": 156,
+      "row_count": 3,
+      "row_width": 52,
+      "var_offset": 160,
+      "var_size": 8
+    },
+    "data/itemcostperlevel.dat64": {
+      "fixed_size": 76232,
+      "row_count": 1466,
+      "row_width": 52,
+      "var_offset": 76236,
+      "var_size": 8
+    },
+    "data/itemcosts.dat64": {
+      "fixed_size": 21128,
+      "row_count": 139,
+      "row_width": 152,
+      "var_offset": 21132,
+      "var_size": 17264
+    },
+    "data/itemcreationtemplatecustomaction.dat64": {
+      "fixed_size": 0,
+      "row_count": 0,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/itemexperienceperlevel.dat64": {
+      "fixed_size": 7704,
+      "row_count": 321,
+      "row_width": 24,
+      "var_offset": 7708,
+      "var_size": 8
+    },
+    "data/itemexperiencetypes.dat64": {
+      "fixed_size": 216,
+      "row_count": 27,
+      "row_width": 8,
+      "var_offset": 220,
+      "var_size": 1148
+    },
+    "data/itemframetype.dat64": {
+      "fixed_size": 1177,
+      "row_count": 11,
+      "row_width": 107,
+      "var_offset": 1181,
+      "var_size": 3286
+    },
+    "data/itemisedcorpse.dat64": {
+      "fixed_size": 5880,
+      "row_count": 105,
+      "row_width": 56,
+      "var_offset": 5884,
+      "var_size": 17248
+    },
+    "data/itemisedvisualeffect.dat64": {
+      "fixed_size": 872300,
+      "row_count": 3575,
+      "row_width": 244,
+      "var_offset": 872304,
+      "var_size": 223116
+    },
+    "data/itemnotecode.dat64": {
+      "fixed_size": 1089,
+      "row_count": 33,
+      "row_width": 33,
+      "var_offset": 1093,
+      "var_size": 622
+    },
+    "data/itempickupeffect.dat64": {
+      "fixed_size": 104,
+      "row_count": 2,
+      "row_width": 52,
+      "var_offset": 108,
+      "var_size": 8
+    },
+    "data/itemsetnames.dat64": {
+      "fixed_size": 0,
+      "row_count": 237,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/itemstances.dat64": {
+      "fixed_size": 88,
+      "row_count": 11,
+      "row_width": 8,
+      "var_offset": 92,
+      "var_size": 232
+    },
+    "data/itemvisualeffect.dat64": {
+      "fixed_size": 33524,
+      "row_count": 289,
+      "row_width": 116,
+      "var_offset": 33528,
+      "var_size": 326420
+    },
+    "data/itemvisualheldbodymodel.dat64": {
+      "fixed_size": 1280,
+      "row_count": 10,
+      "row_width": 128,
+      "var_offset": 1284,
+      "var_size": 8112
+    },
+    "data/itemvisualidentity.dat64": {
+      "fixed_size": 7395375,
+      "row_count": 13875,
+      "row_width": 533,
+      "var_offset": 7395379,
+      "var_size": 4512978
+    },
+    "data/itemvisualreplacement.dat64": {
+      "fixed_size": 18616,
+      "row_count": 358,
+      "row_width": 52,
+      "var_offset": 18620,
+      "var_size": 8
+    },
+    "data/jobassassinationspawnergroups.dat64": {
+      "fixed_size": 32,
+      "row_count": 1,
+      "row_width": 32,
+      "var_offset": 36,
+      "var_size": 8
+    },
+    "data/jobraidbrackets.dat64": {
+      "fixed_size": 400,
+      "row_count": 10,
+      "row_width": 40,
+      "var_offset": 404,
+      "var_size": 8
+    },
+    "data/killstreakthresholds.dat64": {
+      "fixed_size": 468,
+      "row_count": 13,
+      "row_width": 36,
+      "var_offset": 472,
+      "var_size": 8
+    },
+    "data/kiraclevels.dat64": {
+      "fixed_size": 128,
+      "row_count": 16,
+      "row_width": 8,
+      "var_offset": 132,
+      "var_size": 8
+    },
+    "data/labyrinthareas.dat64": {
+      "fixed_size": 2508,
+      "row_count": 33,
+      "row_width": 76,
+      "var_offset": 2512,
+      "var_size": 5524
+    },
+    "data/labyrinthbonusitems.dat64": {
+      "fixed_size": 84,
+      "row_count": 3,
+      "row_width": 28,
+      "var_offset": 88,
+      "var_size": 200
+    },
+    "data/labyrinthcraftoptionfamily.dat64": {
+      "fixed_size": 0,
+      "row_count": 14,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/labyrinthcraftoptions.dat64": {
+      "fixed_size": 5795,
+      "row_count": 61,
+      "row_width": 95,
+      "var_offset": 5799,
+      "var_size": 11284
+    },
+    "data/labyrinthcraftoptiontiers.dat64": {
+      "fixed_size": 48,
+      "row_count": 3,
+      "row_width": 16,
+      "var_offset": 52,
+      "var_size": 402
+    },
+    "data/labyrinthexclusiongroups.dat64": {
+      "fixed_size": 8,
+      "row_count": 1,
+      "row_width": 8,
+      "var_offset": 12,
+      "var_size": 46
+    },
+    "data/labyrinthizarochests.dat64": {
+      "fixed_size": 3880,
+      "row_count": 97,
+      "row_width": 40,
+      "var_offset": 3884,
+      "var_size": 7120
+    },
+    "data/labyrinthnodeoverrides.dat64": {
+      "fixed_size": 672,
+      "row_count": 14,
+      "row_width": 48,
+      "var_offset": 676,
+      "var_size": 1354
+    },
+    "data/labyrinthrewardtypes.dat64": {
+      "fixed_size": 112,
+      "row_count": 7,
+      "row_width": 16,
+      "var_offset": 116,
+      "var_size": 978
+    },
+    "data/labyrinths.dat64": {
+      "fixed_size": 576,
+      "row_count": 4,
+      "row_width": 144,
+      "var_offset": 580,
+      "var_size": 488
+    },
+    "data/labyrinthsecreteffects.dat64": {
+      "fixed_size": 9920,
+      "row_count": 124,
+      "row_width": 80,
+      "var_offset": 9924,
+      "var_size": 9072
+    },
+    "data/labyrinthsecretlocations.dat64": {
+      "fixed_size": 0,
+      "row_count": 6,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/labyrinthsecrets.dat64": {
+      "fixed_size": 8700,
+      "row_count": 58,
+      "row_width": 150,
+      "var_offset": 8704,
+      "var_size": 5538
+    },
+    "data/labyrinthsection.dat64": {
+      "fixed_size": 1880,
+      "row_count": 47,
+      "row_width": 40,
+      "var_offset": 1884,
+      "var_size": 1322
+    },
+    "data/labyrinthsectionlayout.dat64": {
+      "fixed_size": 24084,
+      "row_count": 223,
+      "row_width": 108,
+      "var_offset": 24088,
+      "var_size": 6168
+    },
+    "data/labyrinthtrials.dat64": {
+      "fixed_size": 1368,
+      "row_count": 18,
+      "row_width": 76,
+      "var_offset": 1372,
+      "var_size": 92
+    },
+    "data/labyrinthtrinkets.dat64": {
+      "fixed_size": 512,
+      "row_count": 8,
+      "row_width": 64,
+      "var_offset": 516,
+      "var_size": 332
+    },
+    "data/lakebosslifescalingperlevel.dat64": {
+      "fixed_size": 800,
+      "row_count": 100,
+      "row_width": 8,
+      "var_offset": 804,
+      "var_size": 8
+    },
+    "data/lakemetaoptions.dat64": {
+      "fixed_size": 72,
+      "row_count": 3,
+      "row_width": 24,
+      "var_offset": 76,
+      "var_size": 88
+    },
+    "data/lakemetaoptionsunlocktext.dat64": {
+      "fixed_size": 72,
+      "row_count": 6,
+      "row_width": 12,
+      "var_offset": 76,
+      "var_size": 960
+    },
+    "data/lakeroomcompletion.dat64": {
+      "fixed_size": 37924,
+      "row_count": 499,
+      "row_width": 76,
+      "var_offset": 37928,
+      "var_size": 4488
+    },
+    "data/lakerooms.dat64": {
+      "fixed_size": 21090,
+      "row_count": 95,
+      "row_width": 222,
+      "var_offset": 21094,
+      "var_size": 26520
+    },
+    "data/leaguecategory.dat64": {
+      "fixed_size": 0,
+      "row_count": 51,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/leagueflag.dat64": {
+      "fixed_size": 4104,
+      "row_count": 152,
+      "row_width": 27,
+      "var_offset": 4108,
+      "var_size": 31608
+    },
+    "data/leagueinfo.dat64": {
+      "fixed_size": 29853,
+      "row_count": 279,
+      "row_width": 107,
+      "var_offset": 29857,
+      "var_size": 344256
+    },
+    "data/leagueinfopanelversions.dat64": {
+      "fixed_size": 160,
+      "row_count": 20,
+      "row_width": 8,
+      "var_offset": 164,
+      "var_size": 380
+    },
+    "data/leagueprogressquestflags.dat64": {
+      "fixed_size": 1640,
+      "row_count": 40,
+      "row_width": 41,
+      "var_offset": 1644,
+      "var_size": 910
+    },
+    "data/leaguequestflags.dat64": {
+      "fixed_size": 0,
+      "row_count": 1322,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/leaguestaticrewards.dat64": {
+      "fixed_size": 901,
+      "row_count": 17,
+      "row_width": 53,
+      "var_offset": 905,
+      "var_size": 8
+    },
+    "data/legacyatlasinfluenceoutcomes.dat64": {
+      "fixed_size": 3360,
+      "row_count": 60,
+      "row_width": 56,
+      "var_offset": 3364,
+      "var_size": 5472
+    },
+    "data/legionbalanceperlevel.dat64": {
+      "fixed_size": 1792,
+      "row_count": 28,
+      "row_width": 64,
+      "var_offset": 1796,
+      "var_size": 8
+    },
+    "data/legionchestcounts.dat64": {
+      "fixed_size": 7840,
+      "row_count": 140,
+      "row_width": 56,
+      "var_offset": 7844,
+      "var_size": 8
+    },
+    "data/legionchesttypes.dat64": {
+      "fixed_size": 680,
+      "row_count": 10,
+      "row_width": 68,
+      "var_offset": 684,
+      "var_size": 8
+    },
+    "data/legionfactions.dat64": {
+      "fixed_size": 1020,
+      "row_count": 5,
+      "row_width": 204,
+      "var_offset": 1024,
+      "var_size": 888
+    },
+    "data/legionmonstercounts.dat64": {
+      "fixed_size": 14560,
+      "row_count": 260,
+      "row_width": 56,
+      "var_offset": 14564,
+      "var_size": 8
+    },
+    "data/legionmonstertypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 6,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/legionmonstervarieties.dat64": {
+      "fixed_size": 15052,
+      "row_count": 71,
+      "row_width": 212,
+      "var_offset": 15056,
+      "var_size": 568
+    },
+    "data/legionranks.dat64": {
+      "fixed_size": 2880,
+      "row_count": 60,
+      "row_width": 48,
+      "var_offset": 2884,
+      "var_size": 8
+    },
+    "data/legionranktypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/legionrewardtypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 23,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/legionrewardtypevisuals.dat64": {
+      "fixed_size": 1288,
+      "row_count": 23,
+      "row_width": 56,
+      "var_offset": 1292,
+      "var_size": 776
+    },
+    "data/levelrelativeplayerscaling.dat64": {
+      "fixed_size": 3200,
+      "row_count": 100,
+      "row_width": 32,
+      "var_offset": 3204,
+      "var_size": 8
+    },
+    "data/magicmonsterlifescalingperlevel.dat64": {
+      "fixed_size": 800,
+      "row_count": 100,
+      "row_width": 8,
+      "var_offset": 804,
+      "var_size": 8
+    },
+    "data/mapcompletionachievements.dat64": {
+      "fixed_size": 22890,
+      "row_count": 218,
+      "row_width": 105,
+      "var_offset": 22894,
+      "var_size": 25080
+    },
+    "data/mapconnections.dat64": {
+      "fixed_size": 15960,
+      "row_count": 133,
+      "row_width": 120,
+      "var_offset": 15964,
+      "var_size": 1760
+    },
+    "data/mapcreationinformation.dat64": {
+      "fixed_size": 3120,
+      "row_count": 156,
+      "row_width": 20,
+      "var_offset": 3124,
+      "var_size": 8
+    },
+    "data/mapdevicecustomeffects.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/mapdeviceportalformation.dat64": {
+      "fixed_size": 0,
+      "row_count": 2,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/mapdevicerecipes.dat64": {
+      "fixed_size": 7500,
+      "row_count": 75,
+      "row_width": 100,
+      "var_offset": 7504,
+      "var_size": 5026
+    },
+    "data/mapdevices.dat64": {
+      "fixed_size": 2632,
+      "row_count": 28,
+      "row_width": 94,
+      "var_offset": 2636,
+      "var_size": 5816
+    },
+    "data/mapfragmentfamilies.dat64": {
+      "fixed_size": 0,
+      "row_count": 20,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/mapfragmentmods.dat64": {
+      "fixed_size": 6844,
+      "row_count": 118,
+      "row_width": 58,
+      "var_offset": 6848,
+      "var_size": 3448
+    },
+    "data/mapinhabitants.dat64": {
+      "fixed_size": 800,
+      "row_count": 25,
+      "row_width": 32,
+      "var_offset": 804,
+      "var_size": 3240
+    },
+    "data/mappins.dat64": {
+      "fixed_size": 19600,
+      "row_count": 140,
+      "row_width": 140,
+      "var_offset": 19604,
+      "var_size": 27786
+    },
+    "data/mappurchasecosts.dat64": {
+      "fixed_size": 576,
+      "row_count": 16,
+      "row_width": 36,
+      "var_offset": 580,
+      "var_size": 8
+    },
+    "data/maps.dat64": {
+      "fixed_size": 76797,
+      "row_count": 483,
+      "row_width": 159,
+      "var_offset": 76801,
+      "var_size": 21772
+    },
+    "data/mapseries.dat64": {
+      "fixed_size": 1584,
+      "row_count": 22,
+      "row_width": 72,
+      "var_offset": 1588,
+      "var_size": 9764
+    },
+    "data/mapseriestiers.dat64": {
+      "fixed_size": 14444,
+      "row_count": 157,
+      "row_width": 92,
+      "var_offset": 14448,
+      "var_size": 8
+    },
+    "data/mapstashspecialtypeentries.dat64": {
+      "fixed_size": 1170,
+      "row_count": 13,
+      "row_width": 90,
+      "var_offset": 1174,
+      "var_size": 902
+    },
+    "data/mapstashsubstashgroup.dat64": {
+      "fixed_size": 864,
+      "row_count": 18,
+      "row_width": 48,
+      "var_offset": 868,
+      "var_size": 1020
+    },
+    "data/mapstashuniquemapinfo.dat64": {
+      "fixed_size": 1056,
+      "row_count": 33,
+      "row_width": 32,
+      "var_offset": 1060,
+      "var_size": 8
+    },
+    "data/mapstatconditions.dat64": {
+      "fixed_size": 4284,
+      "row_count": 126,
+      "row_width": 34,
+      "var_offset": 4288,
+      "var_size": 5276
+    },
+    "data/maptierachievements.dat64": {
+      "fixed_size": 1160,
+      "row_count": 29,
+      "row_width": 40,
+      "var_offset": 1164,
+      "var_size": 9074
+    },
+    "data/maptiers.dat64": {
+      "fixed_size": 204,
+      "row_count": 17,
+      "row_width": 12,
+      "var_offset": 208,
+      "var_size": 8
+    },
+    "data/mavendialog.dat64": {
+      "fixed_size": 5670,
+      "row_count": 54,
+      "row_width": 105,
+      "var_offset": 5674,
+      "var_size": 2576
+    },
+    "data/mavenfights.dat64": {
+      "fixed_size": 1683,
+      "row_count": 11,
+      "row_width": 153,
+      "var_offset": 1687,
+      "var_size": 764
+    },
+    "data/mavenjewelradiuskeystones.dat64": {
+      "fixed_size": 688,
+      "row_count": 43,
+      "row_width": 16,
+      "var_offset": 692,
+      "var_size": 8
+    },
+    "data/melee.dat64": {
+      "fixed_size": 35638,
+      "row_count": 206,
+      "row_width": 173,
+      "var_offset": 35642,
+      "var_size": 2848
+    },
+    "data/meleetrails.dat64": {
+      "fixed_size": 8700,
+      "row_count": 174,
+      "row_width": 50,
+      "var_offset": 8704,
+      "var_size": 31808
+    },
+    "data/memorylinetype.dat64": {
+      "fixed_size": 2240,
+      "row_count": 20,
+      "row_width": 112,
+      "var_offset": 2244,
+      "var_size": 2316
+    },
+    "data/metamorphosisstashtablayout.dat64": {
+      "fixed_size": 624,
+      "row_count": 13,
+      "row_width": 48,
+      "var_offset": 628,
+      "var_size": 1384
+    },
+    "data/micromigrationdata.dat64": {
+      "fixed_size": 17680,
+      "row_count": 340,
+      "row_width": 52,
+      "var_offset": 17684,
+      "var_size": 8
+    },
+    "data/microtransactionappliedinventoryitemartvariations.dat64": {
+      "fixed_size": 240,
+      "row_count": 3,
+      "row_width": 80,
+      "var_offset": 244,
+      "var_size": 1904
+    },
+    "data/microtransactioncategory.dat64": {
+      "fixed_size": 384,
+      "row_count": 32,
+      "row_width": 12,
+      "var_offset": 388,
+      "var_size": 908
+    },
+    "data/microtransactioncategoryid.dat64": {
+      "fixed_size": 0,
+      "row_count": 32,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/microtransactioncharacterportraitvariations.dat64": {
+      "fixed_size": 144,
+      "row_count": 9,
+      "row_width": 16,
+      "var_offset": 148,
+      "var_size": 8
+    },
+    "data/microtransactionchargevariations.dat64": {
+      "fixed_size": 384,
+      "row_count": 6,
+      "row_width": 64,
+      "var_offset": 388,
+      "var_size": 8
+    },
+    "data/microtransactioncombineformula.dat64": {
+      "fixed_size": 22425,
+      "row_count": 325,
+      "row_width": 69,
+      "var_offset": 22429,
+      "var_size": 33244
+    },
+    "data/microtransactionconditionalapparitionevents.dat64": {
+      "fixed_size": 3827,
+      "row_count": 43,
+      "row_width": 89,
+      "var_offset": 3831,
+      "var_size": 8
+    },
+    "data/microtransactionconditionalapparitioneventtype.dat64": {
+      "fixed_size": 0,
+      "row_count": 17,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/microtransactionconditionalapparitionorientation.dat64": {
+      "fixed_size": 0,
+      "row_count": 2,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/microtransactionconditionalapparitionposition.dat64": {
+      "fixed_size": 0,
+      "row_count": 6,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/microtransactionconditionalapparitions.dat64": {
+      "fixed_size": 902,
+      "row_count": 11,
+      "row_width": 82,
+      "var_offset": 906,
+      "var_size": 772
+    },
+    "data/microtransactioncursorvariations.dat64": {
+      "fixed_size": 216,
+      "row_count": 6,
+      "row_width": 36,
+      "var_offset": 220,
+      "var_size": 8
+    },
+    "data/microtransactionequippediconvariations.dat64": {
+      "fixed_size": 48,
+      "row_count": 1,
+      "row_width": 48,
+      "var_offset": 52,
+      "var_size": 246
+    },
+    "data/microtransactionfireworksvariations.dat64": {
+      "fixed_size": 275,
+      "row_count": 11,
+      "row_width": 25,
+      "var_offset": 279,
+      "var_size": 1558
+    },
+    "data/microtransactionjewelvariations.dat64": {
+      "fixed_size": 1098,
+      "row_count": 9,
+      "row_width": 122,
+      "var_offset": 1102,
+      "var_size": 2916
+    },
+    "data/microtransactionobjecteffects.dat64": {
+      "fixed_size": 3536,
+      "row_count": 26,
+      "row_width": 136,
+      "var_offset": 3540,
+      "var_size": 5900
+    },
+    "data/microtransactiononkillbeams.dat64": {
+      "fixed_size": 130,
+      "row_count": 2,
+      "row_width": 65,
+      "var_offset": 134,
+      "var_size": 154
+    },
+    "data/microtransactiononkillconditions.dat64": {
+      "fixed_size": 1140,
+      "row_count": 10,
+      "row_width": 114,
+      "var_offset": 1144,
+      "var_size": 938
+    },
+    "data/microtransactiononkilleffects.dat64": {
+      "fixed_size": 2592,
+      "row_count": 27,
+      "row_width": 96,
+      "var_offset": 2596,
+      "var_size": 1988
+    },
+    "data/microtransactionperiodiccharactereffectvariations.dat64": {
+      "fixed_size": 7200,
+      "row_count": 200,
+      "row_width": 36,
+      "var_offset": 7204,
+      "var_size": 37040
+    },
+    "data/microtransactionportalvariations.dat64": {
+      "fixed_size": 23500,
+      "row_count": 235,
+      "row_width": 100,
+      "var_offset": 23504,
+      "var_size": 82106
+    },
+    "data/microtransactionraritydisplay.dat64": {
+      "fixed_size": 200,
+      "row_count": 5,
+      "row_width": 40,
+      "var_offset": 204,
+      "var_size": 1318
+    },
+    "data/microtransactionrecyclecategories.dat64": {
+      "fixed_size": 0,
+      "row_count": 5,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/microtransactionrecycleoutcomes.dat64": {
+      "fixed_size": 8440,
+      "row_count": 422,
+      "row_width": 20,
+      "var_offset": 8444,
+      "var_size": 8
+    },
+    "data/microtransactionrecyclesalvagevalues.dat64": {
+      "fixed_size": 86352,
+      "row_count": 3598,
+      "row_width": 24,
+      "var_offset": 86356,
+      "var_size": 8
+    },
+    "data/microtransactionskillgemeffectslottypes.dat64": {
+      "fixed_size": 40,
+      "row_count": 2,
+      "row_width": 20,
+      "var_offset": 44,
+      "var_size": 122
+    },
+    "data/microtransactionslot.dat64": {
+      "fixed_size": 2146,
+      "row_count": 37,
+      "row_width": 58,
+      "var_offset": 2150,
+      "var_size": 744
+    },
+    "data/microtransactionslotadditionaldefaultoptions.dat64": {
+      "fixed_size": 48,
+      "row_count": 2,
+      "row_width": 24,
+      "var_offset": 52,
+      "var_size": 352
+    },
+    "data/microtransactionslotid.dat64": {
+      "fixed_size": 0,
+      "row_count": 37,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/microtransactionsocialframevariations.dat64": {
+      "fixed_size": 9744,
+      "row_count": 348,
+      "row_width": 28,
+      "var_offset": 9748,
+      "var_size": 760
+    },
+    "data/microtransactiontrackedstatistics.dat64": {
+      "fixed_size": 0,
+      "row_count": 20,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/minimapicons.dat64": {
+      "fixed_size": 17118,
+      "row_count": 634,
+      "row_width": 27,
+      "var_offset": 17122,
+      "var_size": 31934
+    },
+    "data/miniontype.dat64": {
+      "fixed_size": 3380,
+      "row_count": 65,
+      "row_width": 52,
+      "var_offset": 3384,
+      "var_size": 2492
+    },
+    "data/miniqueststates.dat64": {
+      "fixed_size": 40,
+      "row_count": 1,
+      "row_width": 40,
+      "var_offset": 44,
+      "var_size": 24
+    },
+    "data/miscanimated.dat64": {
+      "fixed_size": 325512,
+      "row_count": 7398,
+      "row_width": 44,
+      "var_offset": 325516,
+      "var_size": 1545166
+    },
+    "data/miscanimatedartvariations.dat64": {
+      "fixed_size": 88656,
+      "row_count": 1847,
+      "row_width": 48,
+      "var_offset": 88660,
+      "var_size": 57804
+    },
+    "data/miscbeams.dat64": {
+      "fixed_size": 28416,
+      "row_count": 592,
+      "row_width": 48,
+      "var_offset": 28420,
+      "var_size": 31102
+    },
+    "data/miscbeamsartvariations.dat64": {
+      "fixed_size": 5616,
+      "row_count": 117,
+      "row_width": 48,
+      "var_offset": 5620,
+      "var_size": 3652
+    },
+    "data/misceffectpacks.dat64": {
+      "fixed_size": 36288,
+      "row_count": 672,
+      "row_width": 54,
+      "var_offset": 36292,
+      "var_size": 144254
+    },
+    "data/misceffectpacksartvariations.dat64": {
+      "fixed_size": 6356,
+      "row_count": 227,
+      "row_width": 28,
+      "var_offset": 6360,
+      "var_size": 7616
+    },
+    "data/miscobjects.dat64": {
+      "fixed_size": 61424,
+      "row_count": 1396,
+      "row_width": 44,
+      "var_offset": 61428,
+      "var_size": 243622
+    },
+    "data/miscobjectsartvariations.dat64": {
+      "fixed_size": 864,
+      "row_count": 18,
+      "row_width": 48,
+      "var_offset": 868,
+      "var_size": 564
+    },
+    "data/missiontilemap.dat64": {
+      "fixed_size": 0,
+      "row_count": 0,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/missiontimertypes.dat64": {
+      "fixed_size": 1232,
+      "row_count": 14,
+      "row_width": 88,
+      "var_offset": 1236,
+      "var_size": 2378
+    },
+    "data/missiontransitiontiles.dat64": {
+      "fixed_size": 644,
+      "row_count": 23,
+      "row_width": 28,
+      "var_offset": 648,
+      "var_size": 3616
+    },
+    "data/modauraflags.dat64": {
+      "fixed_size": 0,
+      "row_count": 25,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/moddomains.dat64": {
+      "fixed_size": 0,
+      "row_count": 35,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/modeffectstats.dat64": {
+      "fixed_size": 1400,
+      "row_count": 35,
+      "row_width": 40,
+      "var_offset": 1404,
+      "var_size": 536
+    },
+    "data/modequivalencies.dat64": {
+      "fixed_size": 2793,
+      "row_count": 49,
+      "row_width": 57,
+      "var_offset": 2797,
+      "var_size": 970
+    },
+    "data/modfamily.dat64": {
+      "fixed_size": 51024,
+      "row_count": 6378,
+      "row_width": 8,
+      "var_offset": 51028,
+      "var_size": 395626
+    },
+    "data/modgenerationtype.dat64": {
+      "fixed_size": 0,
+      "row_count": 33,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/mods.dat64": {
+      "fixed_size": 23257085,
+      "row_count": 35507,
+      "row_width": 655,
+      "var_offset": 23257089,
+      "var_size": 5866084
+    },
+    "data/modsellpricetypes.dat64": {
+      "fixed_size": 528,
+      "row_count": 66,
+      "row_width": 8,
+      "var_offset": 532,
+      "var_size": 2752
+    },
+    "data/modsetnames.dat64": {
+      "fixed_size": 0,
+      "row_count": 53,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/modtype.dat64": {
+      "fixed_size": 306150,
+      "row_count": 12246,
+      "row_width": 25,
+      "var_offset": 306154,
+      "var_size": 913648
+    },
+    "data/monsterarmours.dat64": {
+      "fixed_size": 3424,
+      "row_count": 214,
+      "row_width": 16,
+      "var_offset": 3428,
+      "var_size": 194724
+    },
+    "data/monsterbehavior.dat64": {
+      "fixed_size": 0,
+      "row_count": 31,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/monsterbonuses.dat64": {
+      "fixed_size": 2668,
+      "row_count": 29,
+      "row_width": 92,
+      "var_offset": 2672,
+      "var_size": 3100
+    },
+    "data/monsterconditionaleffectpacks.dat64": {
+      "fixed_size": 684,
+      "row_count": 9,
+      "row_width": 76,
+      "var_offset": 688,
+      "var_size": 708
+    },
+    "data/monsterconditions.dat64": {
+      "fixed_size": 10980,
+      "row_count": 90,
+      "row_width": 122,
+      "var_offset": 10984,
+      "var_size": 4078
+    },
+    "data/monsterdeathachievements.dat64": {
+      "fixed_size": 130872,
+      "row_count": 492,
+      "row_width": 266,
+      "var_offset": 130876,
+      "var_size": 73192
+    },
+    "data/monsterdeathconditions.dat64": {
+      "fixed_size": 10360,
+      "row_count": 70,
+      "row_width": 148,
+      "var_offset": 10364,
+      "var_size": 4164
+    },
+    "data/monsterfleeconditions.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/monstergroupentries.dat64": {
+      "fixed_size": 20608,
+      "row_count": 736,
+      "row_width": 28,
+      "var_offset": 20612,
+      "var_size": 13578
+    },
+    "data/monstergroupnames.dat64": {
+      "fixed_size": 0,
+      "row_count": 139,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/monsterheightbrackets.dat64": {
+      "fixed_size": 756,
+      "row_count": 9,
+      "row_width": 84,
+      "var_offset": 760,
+      "var_size": 210
+    },
+    "data/monsterheights.dat64": {
+      "fixed_size": 423280,
+      "row_count": 9620,
+      "row_width": 44,
+      "var_offset": 423284,
+      "var_size": 8
+    },
+    "data/monstermapbossdifficulty.dat64": {
+      "fixed_size": 9360,
+      "row_count": 90,
+      "row_width": 104,
+      "var_offset": 9364,
+      "var_size": 8
+    },
+    "data/monstermapdifficulty.dat64": {
+      "fixed_size": 2100,
+      "row_count": 25,
+      "row_width": 84,
+      "var_offset": 2104,
+      "var_size": 8
+    },
+    "data/monstermortar.dat64": {
+      "fixed_size": 29648,
+      "row_count": 218,
+      "row_width": 136,
+      "var_offset": 29652,
+      "var_size": 12
+    },
+    "data/monsterpackcounts.dat64": {
+      "fixed_size": 1802,
+      "row_count": 34,
+      "row_width": 53,
+      "var_offset": 1806,
+      "var_size": 1112
+    },
+    "data/monsterpackentries.dat64": {
+      "fixed_size": 266590,
+      "row_count": 5030,
+      "row_width": 53,
+      "var_offset": 266594,
+      "var_size": 124468
+    },
+    "data/monsterpacks.dat64": {
+      "fixed_size": 409222,
+      "row_count": 2299,
+      "row_width": 178,
+      "var_offset": 409226,
+      "var_size": 274040
+    },
+    "data/monsterprojectileattack.dat64": {
+      "fixed_size": 4752,
+      "row_count": 176,
+      "row_width": 27,
+      "var_offset": 4756,
+      "var_size": 8
+    },
+    "data/monsterprojectilespell.dat64": {
+      "fixed_size": 10750,
+      "row_count": 250,
+      "row_width": 43,
+      "var_offset": 10754,
+      "var_size": 8
+    },
+    "data/monsterpushtypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/monsterresistances.dat64": {
+      "fixed_size": 2800,
+      "row_count": 50,
+      "row_width": 56,
+      "var_offset": 2804,
+      "var_size": 1268
+    },
+    "data/monsterscalingbylevel.dat64": {
+      "fixed_size": 0,
+      "row_count": 11,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/monstersegments.dat64": {
+      "fixed_size": 976,
+      "row_count": 61,
+      "row_width": 16,
+      "var_offset": 980,
+      "var_size": 19182
+    },
+    "data/monstersize.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/monsterskillsalivedead.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/monsterskillsattackspell.dat64": {
+      "fixed_size": 0,
+      "row_count": 2,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/monsterskillsclientinstance.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/monsterskillshull.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/monsterskillsorientation.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/monsterskillsplacement.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/monsterskillsreference.dat64": {
+      "fixed_size": 0,
+      "row_count": 12,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/monsterskillssequencemode.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/monsterskillsshape.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/monsterskillstargets.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/monsterskillswavedirection.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/monsterspawnergroups.dat64": {
+      "fixed_size": 120,
+      "row_count": 15,
+      "row_width": 8,
+      "var_offset": 124,
+      "var_size": 2262
+    },
+    "data/monsterspawnergroupsperlevel.dat64": {
+      "fixed_size": 2368,
+      "row_count": 74,
+      "row_width": 32,
+      "var_offset": 2372,
+      "var_size": 8
+    },
+    "data/monsterspawneroverrides.dat64": {
+      "fixed_size": 384,
+      "row_count": 8,
+      "row_width": 48,
+      "var_offset": 388,
+      "var_size": 8
+    },
+    "data/monsterstatueoverrides.dat64": {
+      "fixed_size": 2112,
+      "row_count": 22,
+      "row_width": 96,
+      "var_offset": 2116,
+      "var_size": 8
+    },
+    "data/monstertypes.dat64": {
+      "fixed_size": 153648,
+      "row_count": 3201,
+      "row_width": 48,
+      "var_offset": 153652,
+      "var_size": 135494
+    },
+    "data/monstervarieties.dat64": {
+      "fixed_size": 7489806,
+      "row_count": 9627,
+      "row_width": 778,
+      "var_offset": 7489810,
+      "var_size": 5313142
+    },
+    "data/monstervarietiesartvariations.dat64": {
+      "fixed_size": 3192,
+      "row_count": 114,
+      "row_width": 28,
+      "var_offset": 3196,
+      "var_size": 2756
+    },
+    "data/mousecursorsizesettings.dat64": {
+      "fixed_size": 60,
+      "row_count": 3,
+      "row_width": 20,
+      "var_offset": 64,
+      "var_size": 52
+    },
+    "data/movedaemon.dat64": {
+      "fixed_size": 11938,
+      "row_count": 94,
+      "row_width": 127,
+      "var_offset": 11942,
+      "var_size": 170
+    },
+    "data/mtxsetbonus.dat64": {
+      "fixed_size": 528,
+      "row_count": 6,
+      "row_width": 88,
+      "var_offset": 532,
+      "var_size": 802
+    },
+    "data/multipartachievementareas.dat64": {
+      "fixed_size": 684,
+      "row_count": 19,
+      "row_width": 36,
+      "var_offset": 688,
+      "var_size": 312
+    },
+    "data/multipartachievementconditions.dat64": {
+      "fixed_size": 7056,
+      "row_count": 147,
+      "row_width": 48,
+      "var_offset": 7060,
+      "var_size": 13486
+    },
+    "data/multipartachievements.dat64": {
+      "fixed_size": 8246,
+      "row_count": 217,
+      "row_width": 38,
+      "var_offset": 8250,
+      "var_size": 18850
+    },
+    "data/music.dat64": {
+      "fixed_size": 21780,
+      "row_count": 330,
+      "row_width": 66,
+      "var_offset": 21784,
+      "var_size": 40022
+    },
+    "data/musiccategories.dat64": {
+      "fixed_size": 357,
+      "row_count": 17,
+      "row_width": 21,
+      "var_offset": 361,
+      "var_size": 482
+    },
+    "data/mysteryboxes.dat64": {
+      "fixed_size": 3403,
+      "row_count": 83,
+      "row_width": 41,
+      "var_offset": 3407,
+      "var_size": 11172
+    },
+    "data/nearbymonsterconditions.dat64": {
+      "fixed_size": 754,
+      "row_count": 13,
+      "row_width": 58,
+      "var_offset": 758,
+      "var_size": 1036
+    },
+    "data/nettiers.dat64": {
+      "fixed_size": 200,
+      "row_count": 10,
+      "row_width": 20,
+      "var_offset": 204,
+      "var_size": 8
+    },
+    "data/notifications.dat64": {
+      "fixed_size": 1312,
+      "row_count": 41,
+      "row_width": 32,
+      "var_offset": 1316,
+      "var_size": 3834
+    },
+    "data/npcaudio.dat64": {
+      "fixed_size": 16212,
+      "row_count": 193,
+      "row_width": 84,
+      "var_offset": 16216,
+      "var_size": 282258
+    },
+    "data/npcconversations.dat64": {
+      "fixed_size": 18540,
+      "row_count": 309,
+      "row_width": 60,
+      "var_offset": 18544,
+      "var_size": 39404
+    },
+    "data/npcdialoguestyles.dat64": {
+      "fixed_size": 1232,
+      "row_count": 7,
+      "row_width": 176,
+      "var_offset": 1236,
+      "var_size": 7126
+    },
+    "data/npcfollowervariations.dat64": {
+      "fixed_size": 3300,
+      "row_count": 30,
+      "row_width": 110,
+      "var_offset": 3304,
+      "var_size": 8
+    },
+    "data/npcmaster.dat64": {
+      "fixed_size": 1540,
+      "row_count": 7,
+      "row_width": 220,
+      "var_offset": 1544,
+      "var_size": 1378
+    },
+    "data/npcportraits.dat64": {
+      "fixed_size": 672,
+      "row_count": 28,
+      "row_width": 24,
+      "var_offset": 676,
+      "var_size": 3606
+    },
+    "data/npcs.dat64": {
+      "fixed_size": 109650,
+      "row_count": 645,
+      "row_width": 170,
+      "var_offset": 109654,
+      "var_size": 76260
+    },
+    "data/npcshop.dat64": {
+      "fixed_size": 16000,
+      "row_count": 100,
+      "row_width": 160,
+      "var_offset": 16004,
+      "var_size": 26610
+    },
+    "data/npcshops.dat64": {
+      "fixed_size": 3060,
+      "row_count": 51,
+      "row_width": 60,
+      "var_offset": 3064,
+      "var_size": 1320
+    },
+    "data/npcshopsellpricetype.dat64": {
+      "fixed_size": 0,
+      "row_count": 358,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/npctalk.dat64": {
+      "fixed_size": 1146768,
+      "row_count": 3413,
+      "row_width": 336,
+      "var_offset": 1146772,
+      "var_size": 207440
+    },
+    "data/npctalkcategory.dat64": {
+      "fixed_size": 405,
+      "row_count": 45,
+      "row_width": 9,
+      "var_offset": 409,
+      "var_size": 1448
+    },
+    "data/npctalkconsolequickactions.dat64": {
+      "fixed_size": 336,
+      "row_count": 14,
+      "row_width": 24,
+      "var_offset": 340,
+      "var_size": 858
+    },
+    "data/npctalkquickactions.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/npctextaudio.dat64": {
+      "fixed_size": 1712580,
+      "row_count": 16790,
+      "row_width": 102,
+      "var_offset": 1712584,
+      "var_size": 6016484
+    },
+    "data/npctextaudiointerruptrules.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/onhiteffecttarget.dat64": {
+      "fixed_size": 0,
+      "row_count": 2,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/onkillachievements.dat64": {
+      "fixed_size": 416,
+      "row_count": 13,
+      "row_width": 32,
+      "var_offset": 420,
+      "var_size": 8
+    },
+    "data/orientations.dat64": {
+      "fixed_size": 0,
+      "row_count": 9,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/packformation.dat64": {
+      "fixed_size": 308,
+      "row_count": 11,
+      "row_width": 28,
+      "var_offset": 312,
+      "var_size": 470
+    },
+    "data/pantheonmapbossselection.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/pantheonpanellayout.dat64": {
+      "fixed_size": 4384,
+      "row_count": 16,
+      "row_width": 274,
+      "var_offset": 4388,
+      "var_size": 3256
+    },
+    "data/pantheonsouls.dat64": {
+      "fixed_size": 1760,
+      "row_count": 20,
+      "row_width": 88,
+      "var_offset": 1764,
+      "var_size": 332
+    },
+    "data/passivejewelart.dat64": {
+      "fixed_size": 720,
+      "row_count": 15,
+      "row_width": 48,
+      "var_offset": 724,
+      "var_size": 2460
+    },
+    "data/passivejewelradii.dat64": {
+      "fixed_size": 100,
+      "row_count": 5,
+      "row_width": 20,
+      "var_offset": 104,
+      "var_size": 92
+    },
+    "data/passivejewelslots.dat64": {
+      "fixed_size": 4620,
+      "row_count": 60,
+      "row_width": 77,
+      "var_offset": 4624,
+      "var_size": 168
+    },
+    "data/passiveoverridelimits.dat64": {
+      "fixed_size": 112,
+      "row_count": 7,
+      "row_width": 16,
+      "var_offset": 116,
+      "var_size": 512
+    },
+    "data/passiveskillfiltercatagories.dat64": {
+      "fixed_size": 48,
+      "row_count": 3,
+      "row_width": 16,
+      "var_offset": 52,
+      "var_size": 186
+    },
+    "data/passiveskillfilteroptions.dat64": {
+      "fixed_size": 160,
+      "row_count": 4,
+      "row_width": 40,
+      "var_offset": 164,
+      "var_size": 172
+    },
+    "data/passiveskillmasteryeffects.dat64": {
+      "fixed_size": 18648,
+      "row_count": 333,
+      "row_width": 56,
+      "var_offset": 18652,
+      "var_size": 12692
+    },
+    "data/passiveskillmasterygroups.dat64": {
+      "fixed_size": 4617,
+      "row_count": 57,
+      "row_width": 81,
+      "var_offset": 4621,
+      "var_size": 35930
+    },
+    "data/passiveskilloverrides.dat64": {
+      "fixed_size": 19040,
+      "row_count": 136,
+      "row_width": 140,
+      "var_offset": 19044,
+      "var_size": 21068
+    },
+    "data/passiveskilloverridetypes.dat64": {
+      "fixed_size": 400,
+      "row_count": 16,
+      "row_width": 25,
+      "var_offset": 404,
+      "var_size": 516
+    },
+    "data/passiveskills.dat64": {
+      "fixed_size": 1508304,
+      "row_count": 4489,
+      "row_width": 336,
+      "var_offset": 1508308,
+      "var_size": 596566
+    },
+    "data/passiveskillstatcategories.dat64": {
+      "fixed_size": 320,
+      "row_count": 20,
+      "row_width": 16,
+      "var_offset": 324,
+      "var_size": 486
+    },
+    "data/passiveskilltattoos.dat64": {
+      "fixed_size": 6324,
+      "row_count": 93,
+      "row_width": 68,
+      "var_offset": 6328,
+      "var_size": 8
+    },
+    "data/passiveskilltattootargets.dat64": {
+      "fixed_size": 0,
+      "row_count": 7,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/passiveskilltattootargetsets.dat64": {
+      "fixed_size": 320,
+      "row_count": 8,
+      "row_width": 40,
+      "var_offset": 324,
+      "var_size": 568
+    },
+    "data/passiveskilltrees.dat64": {
+      "fixed_size": 225,
+      "row_count": 3,
+      "row_width": 75,
+      "var_offset": 229,
+      "var_size": 308
+    },
+    "data/passiveskilltreetutorial.dat64": {
+      "fixed_size": 840,
+      "row_count": 7,
+      "row_width": 120,
+      "var_offset": 844,
+      "var_size": 5512
+    },
+    "data/passiveskilltreeuiart.dat64": {
+      "fixed_size": 274,
+      "row_count": 2,
+      "row_width": 137,
+      "var_offset": 278,
+      "var_size": 4386
+    },
+    "data/passiveskilltypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 2,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/passivetattoovendorgroups.dat64": {
+      "fixed_size": 0,
+      "row_count": 10,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/passivetreeexpansionjewels.dat64": {
+      "fixed_size": 276,
+      "row_count": 3,
+      "row_width": 92,
+      "var_offset": 280,
+      "var_size": 148
+    },
+    "data/passivetreeexpansionjewelsizes.dat64": {
+      "fixed_size": 24,
+      "row_count": 3,
+      "row_width": 8,
+      "var_offset": 28,
+      "var_size": 52
+    },
+    "data/passivetreeexpansionskills.dat64": {
+      "fixed_size": 3520,
+      "row_count": 55,
+      "row_width": 64,
+      "var_offset": 3524,
+      "var_size": 8
+    },
+    "data/passivetreeexpansionspecialskills.dat64": {
+      "fixed_size": 9824,
+      "row_count": 307,
+      "row_width": 32,
+      "var_offset": 9828,
+      "var_size": 8
+    },
+    "data/pcbangrewardmicros.dat64": {
+      "fixed_size": 100,
+      "row_count": 5,
+      "row_width": 20,
+      "var_offset": 104,
+      "var_size": 8
+    },
+    "data/perlevelvalues.dat64": {
+      "fixed_size": 0,
+      "row_count": 100,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/pet.dat64": {
+      "fixed_size": 45360,
+      "row_count": 420,
+      "row_width": 108,
+      "var_offset": 45364,
+      "var_size": 40832
+    },
+    "data/playerconditions.dat64": {
+      "fixed_size": 6142,
+      "row_count": 74,
+      "row_width": 83,
+      "var_offset": 6146,
+      "var_size": 4050
+    },
+    "data/playertradewhisperformats.dat64": {
+      "fixed_size": 72,
+      "row_count": 4,
+      "row_width": 18,
+      "var_offset": 76,
+      "var_size": 928
+    },
+    "data/portalaudio.dat64": {
+      "fixed_size": 832,
+      "row_count": 16,
+      "row_width": 52,
+      "var_offset": 836,
+      "var_size": 8
+    },
+    "data/portalaudioevents.dat64": {
+      "fixed_size": 132,
+      "row_count": 11,
+      "row_width": 12,
+      "var_offset": 136,
+      "var_size": 354
+    },
+    "data/preloadfromstats.dat64": {
+      "fixed_size": 2100,
+      "row_count": 25,
+      "row_width": 84,
+      "var_offset": 2104,
+      "var_size": 552
+    },
+    "data/preloadgroups.dat64": {
+      "fixed_size": 560,
+      "row_count": 70,
+      "row_width": 8,
+      "var_offset": 564,
+      "var_size": 1440
+    },
+    "data/preloadpriorities.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/primordialbosslifescalingperlevel.dat64": {
+      "fixed_size": 32,
+      "row_count": 4,
+      "row_width": 8,
+      "var_offset": 36,
+      "var_size": 8
+    },
+    "data/projectilecollisiontypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/projectiles.dat64": {
+      "fixed_size": 303264,
+      "row_count": 1296,
+      "row_width": 234,
+      "var_offset": 303268,
+      "var_size": 393210
+    },
+    "data/projectilesartvariations.dat64": {
+      "fixed_size": 13056,
+      "row_count": 272,
+      "row_width": 48,
+      "var_offset": 13060,
+      "var_size": 6472
+    },
+    "data/pvptypes.dat64": {
+      "fixed_size": 96,
+      "row_count": 4,
+      "row_width": 24,
+      "var_offset": 100,
+      "var_size": 80
+    },
+    "data/quest.dat64": {
+      "fixed_size": 19890,
+      "row_count": 195,
+      "row_width": 102,
+      "var_offset": 19894,
+      "var_size": 21448
+    },
+    "data/questachievements.dat64": {
+      "fixed_size": 10220,
+      "row_count": 140,
+      "row_width": 73,
+      "var_offset": 10224,
+      "var_size": 14858
+    },
+    "data/questflags.dat64": {
+      "fixed_size": 47988,
+      "row_count": 3999,
+      "row_width": 12,
+      "var_offset": 47992,
+      "var_size": 179068
+    },
+    "data/questitems.dat64": {
+      "fixed_size": 3212,
+      "row_count": 22,
+      "row_width": 146,
+      "var_offset": 3216,
+      "var_size": 78
+    },
+    "data/questrewardoffers.dat64": {
+      "fixed_size": 11662,
+      "row_count": 119,
+      "row_width": 98,
+      "var_offset": 11666,
+      "var_size": 2880
+    },
+    "data/questrewards.dat64": {
+      "fixed_size": 242916,
+      "row_count": 1306,
+      "row_width": 186,
+      "var_offset": 242920,
+      "var_size": 17874
+    },
+    "data/queststatecalculation.dat64": {
+      "fixed_size": 0,
+      "row_count": 11,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/queststates.dat64": {
+      "fixed_size": 351648,
+      "row_count": 1776,
+      "row_width": 198,
+      "var_offset": 351652,
+      "var_size": 332286
+    },
+    "data/queststaticrewards.dat64": {
+      "fixed_size": 9520,
+      "row_count": 68,
+      "row_width": 140,
+      "var_offset": 9524,
+      "var_size": 388
+    },
+    "data/questtrackergroup.dat64": {
+      "fixed_size": 64,
+      "row_count": 2,
+      "row_width": 32,
+      "var_offset": 68,
+      "var_size": 106
+    },
+    "data/questtype.dat64": {
+      "fixed_size": 144,
+      "row_count": 6,
+      "row_width": 24,
+      "var_offset": 148,
+      "var_size": 176
+    },
+    "data/races.dat64": {
+      "fixed_size": 1111,
+      "row_count": 11,
+      "row_width": 101,
+      "var_offset": 1115,
+      "var_size": 75048
+    },
+    "data/racetimes.dat64": {
+      "fixed_size": 20776,
+      "row_count": 742,
+      "row_width": 28,
+      "var_offset": 20780,
+      "var_size": 8
+    },
+    "data/raremonsterlifescalingperlevel.dat64": {
+      "fixed_size": 800,
+      "row_count": 100,
+      "row_width": 8,
+      "var_offset": 804,
+      "var_size": 8
+    },
+    "data/rarity.dat64": {
+      "fixed_size": 160,
+      "row_count": 4,
+      "row_width": 40,
+      "var_offset": 164,
+      "var_size": 162
+    },
+    "data/raritymask.dat64": {
+      "fixed_size": 0,
+      "row_count": 16,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/realms.dat64": {
+      "fixed_size": 3060,
+      "row_count": 30,
+      "row_width": 102,
+      "var_offset": 3064,
+      "var_size": 4892
+    },
+    "data/recipeunlockdisplay.dat64": {
+      "fixed_size": 4872,
+      "row_count": 87,
+      "row_width": 56,
+      "var_offset": 4876,
+      "var_size": 15202
+    },
+    "data/recipeunlockobjects.dat64": {
+      "fixed_size": 2688,
+      "row_count": 96,
+      "row_width": 28,
+      "var_offset": 2692,
+      "var_size": 1722
+    },
+    "data/relativeimportanceconstants.dat64": {
+      "fixed_size": 0,
+      "row_count": 2,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/relicinventorylayout.dat64": {
+      "fixed_size": 360,
+      "row_count": 18,
+      "row_width": 20,
+      "var_offset": 364,
+      "var_size": 718
+    },
+    "data/relicitemeffectvariations.dat64": {
+      "fixed_size": 364,
+      "row_count": 13,
+      "row_width": 28,
+      "var_offset": 368,
+      "var_size": 1512
+    },
+    "data/remindertext.dat64": {
+      "fixed_size": 8136,
+      "row_count": 339,
+      "row_width": 24,
+      "var_offset": 8140,
+      "var_size": 86190
+    },
+    "data/ritualbalanceperlevel.dat64": {
+      "fixed_size": 4648,
+      "row_count": 83,
+      "row_width": 56,
+      "var_offset": 4652,
+      "var_size": 8
+    },
+    "data/ritualconstants.dat64": {
+      "fixed_size": 168,
+      "row_count": 14,
+      "row_width": 12,
+      "var_offset": 172,
+      "var_size": 850
+    },
+    "data/ritualrunetypes.dat64": {
+      "fixed_size": 17143,
+      "row_count": 79,
+      "row_width": 217,
+      "var_offset": 17147,
+      "var_size": 8368
+    },
+    "data/ritualsetkillachievements.dat64": {
+      "fixed_size": 160,
+      "row_count": 5,
+      "row_width": 32,
+      "var_offset": 164,
+      "var_size": 328
+    },
+    "data/ritualspawnpatterns.dat64": {
+      "fixed_size": 145,
+      "row_count": 5,
+      "row_width": 29,
+      "var_offset": 149,
+      "var_size": 246
+    },
+    "data/rogueexilelifescalingperlevel.dat64": {
+      "fixed_size": 800,
+      "row_count": 100,
+      "row_width": 8,
+      "var_offset": 804,
+      "var_size": 8
+    },
+    "data/rogueexiles.dat64": {
+      "fixed_size": 1914,
+      "row_count": 58,
+      "row_width": 33,
+      "var_offset": 1918,
+      "var_size": 8
+    },
+    "data/rulesets.dat64": {
+      "fixed_size": 3648,
+      "row_count": 152,
+      "row_width": 24,
+      "var_offset": 3652,
+      "var_size": 6088
+    },
+    "data/runiccircles.dat64": {
+      "fixed_size": 32,
+      "row_count": 1,
+      "row_width": 32,
+      "var_offset": 36,
+      "var_size": 52
+    },
+    "data/safehousebyocrafting.dat64": {
+      "fixed_size": 5040,
+      "row_count": 60,
+      "row_width": 84,
+      "var_offset": 5044,
+      "var_size": 9716
+    },
+    "data/safehousecraftingspreecurrencies.dat64": {
+      "fixed_size": 325,
+      "row_count": 13,
+      "row_width": 25,
+      "var_offset": 329,
+      "var_size": 252
+    },
+    "data/safehousecraftingspreetype.dat64": {
+      "fixed_size": 966,
+      "row_count": 14,
+      "row_width": 69,
+      "var_offset": 970,
+      "var_size": 3398
+    },
+    "data/salvageboxes.dat64": {
+      "fixed_size": 32,
+      "row_count": 1,
+      "row_width": 32,
+      "var_offset": 36,
+      "var_size": 58
+    },
+    "data/sanctumairlocks.dat64": {
+      "fixed_size": 816,
+      "row_count": 12,
+      "row_width": 68,
+      "var_offset": 820,
+      "var_size": 44
+    },
+    "data/sanctumdefenceicons.dat64": {
+      "fixed_size": 192,
+      "row_count": 3,
+      "row_width": 64,
+      "var_offset": 196,
+      "var_size": 1384
+    },
+    "data/sanctumdeferredrewardcategories.dat64": {
+      "fixed_size": 1056,
+      "row_count": 33,
+      "row_width": 32,
+      "var_offset": 1060,
+      "var_size": 1832
+    },
+    "data/sanctumdeferredrewards.dat64": {
+      "fixed_size": 11752,
+      "row_count": 226,
+      "row_width": 52,
+      "var_offset": 11756,
+      "var_size": 19386
+    },
+    "data/sanctumeffecttriggers.dat64": {
+      "fixed_size": 0,
+      "row_count": 11,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/sanctumfloors.dat64": {
+      "fixed_size": 384,
+      "row_count": 4,
+      "row_width": 96,
+      "var_offset": 388,
+      "var_size": 1128
+    },
+    "data/sanctumfodderlifescalingperlevel.dat64": {
+      "fixed_size": 728,
+      "row_count": 91,
+      "row_width": 8,
+      "var_offset": 732,
+      "var_size": 8
+    },
+    "data/sanctumimmediateeffecttype.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/sanctumlifescalingperlevel.dat64": {
+      "fixed_size": 440,
+      "row_count": 55,
+      "row_width": 8,
+      "var_offset": 444,
+      "var_size": 8
+    },
+    "data/sanctumpersistenteffectcategories.dat64": {
+      "fixed_size": 408,
+      "row_count": 8,
+      "row_width": 51,
+      "var_offset": 412,
+      "var_size": 2688
+    },
+    "data/sanctumpersistenteffectfamily.dat64": {
+      "fixed_size": 0,
+      "row_count": 0,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/sanctumpersistenteffects.dat64": {
+      "fixed_size": 22188,
+      "row_count": 129,
+      "row_width": 172,
+      "var_offset": 22192,
+      "var_size": 57640
+    },
+    "data/sanctumrooms.dat64": {
+      "fixed_size": 5616,
+      "row_count": 78,
+      "row_width": 72,
+      "var_offset": 5620,
+      "var_size": 15692
+    },
+    "data/sanctumroomtypes.dat64": {
+      "fixed_size": 1919,
+      "row_count": 19,
+      "row_width": 101,
+      "var_offset": 1923,
+      "var_size": 3900
+    },
+    "data/sanctumselectiondisplayoverride.dat64": {
+      "fixed_size": 8092,
+      "row_count": 119,
+      "row_width": 68,
+      "var_offset": 8096,
+      "var_size": 9942
+    },
+    "data/scarabs.dat64": {
+      "fixed_size": 1536,
+      "row_count": 64,
+      "row_width": 24,
+      "var_offset": 1540,
+      "var_size": 8
+    },
+    "data/scarabtypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 16,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/scoutingreports.dat64": {
+      "fixed_size": 252,
+      "row_count": 9,
+      "row_width": 28,
+      "var_offset": 256,
+      "var_size": 260
+    },
+    "data/sentinelcraftingcurrency.dat64": {
+      "fixed_size": 140,
+      "row_count": 7,
+      "row_width": 20,
+      "var_offset": 144,
+      "var_size": 8
+    },
+    "data/sentineldroneinventorylayout.dat64": {
+      "fixed_size": 96,
+      "row_count": 3,
+      "row_width": 32,
+      "var_offset": 100,
+      "var_size": 8
+    },
+    "data/sentinelpassives.dat64": {
+      "fixed_size": 6336,
+      "row_count": 72,
+      "row_width": 88,
+      "var_offset": 6340,
+      "var_size": 1768
+    },
+    "data/sentinelpassivestats.dat64": {
+      "fixed_size": 1692,
+      "row_count": 47,
+      "row_width": 36,
+      "var_offset": 1696,
+      "var_size": 8
+    },
+    "data/sentinelpassivetypes.dat64": {
+      "fixed_size": 748,
+      "row_count": 17,
+      "row_width": 44,
+      "var_offset": 752,
+      "var_size": 4704
+    },
+    "data/sentinelpowerexplevels.dat64": {
+      "fixed_size": 240,
+      "row_count": 30,
+      "row_width": 8,
+      "var_offset": 244,
+      "var_size": 8
+    },
+    "data/sentinelstoragelayout.dat64": {
+      "fixed_size": 651,
+      "row_count": 7,
+      "row_width": 93,
+      "var_offset": 655,
+      "var_size": 770
+    },
+    "data/sentineltaggedmonsterstats.dat64": {
+      "fixed_size": 3200,
+      "row_count": 40,
+      "row_width": 80,
+      "var_offset": 3204,
+      "var_size": 40
+    },
+    "data/sessionquestflags.dat64": {
+      "fixed_size": 4048,
+      "row_count": 253,
+      "row_width": 16,
+      "var_offset": 4052,
+      "var_size": 8
+    },
+    "data/shaperguardians.dat64": {
+      "fixed_size": 96,
+      "row_count": 4,
+      "row_width": 24,
+      "var_offset": 100,
+      "var_size": 78
+    },
+    "data/shieldtypes.dat64": {
+      "fixed_size": 1960,
+      "row_count": 98,
+      "row_width": 20,
+      "var_offset": 1964,
+      "var_size": 8
+    },
+    "data/shoptag.dat64": {
+      "fixed_size": 25256,
+      "row_count": 616,
+      "row_width": 41,
+      "var_offset": 25260,
+      "var_size": 39910
+    },
+    "data/shrines.dat64": {
+      "fixed_size": 10282,
+      "row_count": 53,
+      "row_width": 194,
+      "var_offset": 10286,
+      "var_size": 2200
+    },
+    "data/shrinesounds.dat64": {
+      "fixed_size": 312,
+      "row_count": 13,
+      "row_width": 24,
+      "var_offset": 316,
+      "var_size": 2660
+    },
+    "data/shrinevisualartvariations.dat64": {
+      "fixed_size": 216,
+      "row_count": 6,
+      "row_width": 36,
+      "var_offset": 220,
+      "var_size": 8
+    },
+    "data/sigildisplay.dat64": {
+      "fixed_size": 360,
+      "row_count": 5,
+      "row_width": 72,
+      "var_offset": 364,
+      "var_size": 1850
+    },
+    "data/singlegroundlaser.dat64": {
+      "fixed_size": 1284,
+      "row_count": 12,
+      "row_width": 107,
+      "var_offset": 1288,
+      "var_size": 240
+    },
+    "data/skillartvariations.dat64": {
+      "fixed_size": 42800,
+      "row_count": 214,
+      "row_width": 200,
+      "var_offset": 42804,
+      "var_size": 52316
+    },
+    "data/skillgeminfo.dat64": {
+      "fixed_size": 13056,
+      "row_count": 204,
+      "row_width": 64,
+      "var_offset": 13060,
+      "var_size": 147646
+    },
+    "data/skillgemlevelupeffects.dat64": {
+      "fixed_size": 144,
+      "row_count": 2,
+      "row_width": 72,
+      "var_offset": 148,
+      "var_size": 82
+    },
+    "data/skillgems.dat64": {
+      "fixed_size": 100980,
+      "row_count": 748,
+      "row_width": 135,
+      "var_offset": 100984,
+      "var_size": 31032
+    },
+    "data/skillmines.dat64": {
+      "fixed_size": 0,
+      "row_count": 7,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/skillminevariations.dat64": {
+      "fixed_size": 432,
+      "row_count": 18,
+      "row_width": 24,
+      "var_offset": 436,
+      "var_size": 8
+    },
+    "data/skillmorphdisplay.dat64": {
+      "fixed_size": 900,
+      "row_count": 10,
+      "row_width": 90,
+      "var_offset": 904,
+      "var_size": 2468
+    },
+    "data/skillmorphdisplayoverlaycondition.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/skillmorphdisplayoverlaystyle.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/skillsurgeeffects.dat64": {
+      "fixed_size": 7208,
+      "row_count": 136,
+      "row_width": 53,
+      "var_offset": 7212,
+      "var_size": 94
+    },
+    "data/skilltotems.dat64": {
+      "fixed_size": 0,
+      "row_count": 21,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/skilltotemvariations.dat64": {
+      "fixed_size": 6768,
+      "row_count": 282,
+      "row_width": 24,
+      "var_offset": 6772,
+      "var_size": 8
+    },
+    "data/skilltrapvariations.dat64": {
+      "fixed_size": 616,
+      "row_count": 22,
+      "row_width": 28,
+      "var_offset": 620,
+      "var_size": 1950
+    },
+    "data/skillweaponeffects.dat64": {
+      "fixed_size": 99,
+      "row_count": 3,
+      "row_width": 33,
+      "var_offset": 103,
+      "var_size": 154
+    },
+    "data/socketnotches.dat64": {
+      "fixed_size": 120,
+      "row_count": 3,
+      "row_width": 40,
+      "var_offset": 124,
+      "var_size": 1006
+    },
+    "data/soundeffects.dat64": {
+      "fixed_size": 18711,
+      "row_count": 567,
+      "row_width": 33,
+      "var_offset": 18715,
+      "var_size": 106954
+    },
+    "data/spawnadditionalchestsorclusters.dat64": {
+      "fixed_size": 768,
+      "row_count": 16,
+      "row_width": 48,
+      "var_offset": 772,
+      "var_size": 8
+    },
+    "data/spawnobject.dat64": {
+      "fixed_size": 9718,
+      "row_count": 113,
+      "row_width": 86,
+      "var_offset": 9722,
+      "var_size": 2768
+    },
+    "data/specialrooms.dat64": {
+      "fixed_size": 16,
+      "row_count": 1,
+      "row_width": 16,
+      "var_offset": 20,
+      "var_size": 134
+    },
+    "data/specialtiles.dat64": {
+      "fixed_size": 48,
+      "row_count": 3,
+      "row_width": 16,
+      "var_offset": 52,
+      "var_size": 348
+    },
+    "data/spectreoverrides.dat64": {
+      "fixed_size": 34752,
+      "row_count": 724,
+      "row_width": 48,
+      "var_offset": 34756,
+      "var_size": 8
+    },
+    "data/stampchoice.dat64": {
+      "fixed_size": 7840,
+      "row_count": 98,
+      "row_width": 80,
+      "var_offset": 7844,
+      "var_size": 5600
+    },
+    "data/stampfamily.dat64": {
+      "fixed_size": 324,
+      "row_count": 27,
+      "row_width": 12,
+      "var_offset": 328,
+      "var_size": 644
+    },
+    "data/startingpassiveskills.dat64": {
+      "fixed_size": 168,
+      "row_count": 7,
+      "row_width": 24,
+      "var_offset": 172,
+      "var_size": 412
+    },
+    "data/stashid.dat64": {
+      "fixed_size": 0,
+      "row_count": 23,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/stashtabaffinities.dat64": {
+      "fixed_size": 336,
+      "row_count": 12,
+      "row_width": 28,
+      "var_offset": 340,
+      "var_size": 466
+    },
+    "data/stashtype.dat64": {
+      "fixed_size": 760,
+      "row_count": 19,
+      "row_width": 40,
+      "var_offset": 764,
+      "var_size": 1986
+    },
+    "data/statdescriptionfunctions.dat64": {
+      "fixed_size": 960,
+      "row_count": 60,
+      "row_width": 16,
+      "var_offset": 964,
+      "var_size": 5526
+    },
+    "data/statinterpolationtypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 3,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/statistictrackingmicrotransactions.dat64": {
+      "fixed_size": 38,
+      "row_count": 2,
+      "row_width": 19,
+      "var_offset": 42,
+      "var_size": 8
+    },
+    "data/statistictrackingmicrotransactionsstatistics.dat64": {
+      "fixed_size": 1000,
+      "row_count": 20,
+      "row_width": 50,
+      "var_offset": 1004,
+      "var_size": 152
+    },
+    "data/stats.dat64": {
+      "fixed_size": 2218529,
+      "row_count": 19633,
+      "row_width": 113,
+      "var_offset": 2218533,
+      "var_size": 1779138
+    },
+    "data/statsaffectinggeneration.dat64": {
+      "fixed_size": 1420,
+      "row_count": 71,
+      "row_width": 20,
+      "var_offset": 1424,
+      "var_size": 8
+    },
+    "data/statsemantics.dat64": {
+      "fixed_size": 0,
+      "row_count": 7,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/statsfromskillstats.dat64": {
+      "fixed_size": 32,
+      "row_count": 1,
+      "row_width": 32,
+      "var_offset": 36,
+      "var_size": 8
+    },
+    "data/statvisuals.dat64": {
+      "fixed_size": 198,
+      "row_count": 6,
+      "row_width": 33,
+      "var_offset": 202,
+      "var_size": 1068
+    },
+    "data/strongboxes.dat64": {
+      "fixed_size": 2116,
+      "row_count": 46,
+      "row_width": 46,
+      "var_offset": 2120,
+      "var_size": 8
+    },
+    "data/suicideexplosion.dat64": {
+      "fixed_size": 2295,
+      "row_count": 51,
+      "row_width": 45,
+      "var_offset": 2299,
+      "var_size": 8
+    },
+    "data/summonedspecificbarrels.dat64": {
+      "fixed_size": 400,
+      "row_count": 5,
+      "row_width": 80,
+      "var_offset": 404,
+      "var_size": 198
+    },
+    "data/summonedspecificmonsters.dat64": {
+      "fixed_size": 67098,
+      "row_count": 633,
+      "row_width": 106,
+      "var_offset": 67102,
+      "var_size": 352
+    },
+    "data/summonedspecificmonstersondeath.dat64": {
+      "fixed_size": 980,
+      "row_count": 20,
+      "row_width": 49,
+      "var_offset": 984,
+      "var_size": 976
+    },
+    "data/summonedspecificmonstersondeathstats.dat64": {
+      "fixed_size": 363,
+      "row_count": 11,
+      "row_width": 33,
+      "var_offset": 367,
+      "var_size": 8
+    },
+    "data/surgecategory.dat64": {
+      "fixed_size": 0,
+      "row_count": 4,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/surgeeffects.dat64": {
+      "fixed_size": 11448,
+      "row_count": 159,
+      "row_width": 72,
+      "var_offset": 11452,
+      "var_size": 7696
+    },
+    "data/surgetypes.dat64": {
+      "fixed_size": 3696,
+      "row_count": 132,
+      "row_width": 28,
+      "var_offset": 3700,
+      "var_size": 8344
+    },
+    "data/synthesisareas.dat64": {
+      "fixed_size": 16700,
+      "row_count": 167,
+      "row_width": 100,
+      "var_offset": 16704,
+      "var_size": 23344
+    },
+    "data/synthesisareasize.dat64": {
+      "fixed_size": 80,
+      "row_count": 4,
+      "row_width": 20,
+      "var_offset": 84,
+      "var_size": 70
+    },
+    "data/synthesisbonuses.dat64": {
+      "fixed_size": 1292,
+      "row_count": 34,
+      "row_width": 38,
+      "var_offset": 1296,
+      "var_size": 8
+    },
+    "data/synthesisbrackets.dat64": {
+      "fixed_size": 672,
+      "row_count": 12,
+      "row_width": 56,
+      "var_offset": 676,
+      "var_size": 8
+    },
+    "data/synthesisfragmentdialogue.dat64": {
+      "fixed_size": 18032,
+      "row_count": 161,
+      "row_width": 112,
+      "var_offset": 18036,
+      "var_size": 8
+    },
+    "data/synthesisglobalmods.dat64": {
+      "fixed_size": 1820,
+      "row_count": 65,
+      "row_width": 28,
+      "var_offset": 1824,
+      "var_size": 8
+    },
+    "data/synthesismonsterexperienceperlevel.dat64": {
+      "fixed_size": 488,
+      "row_count": 61,
+      "row_width": 8,
+      "var_offset": 492,
+      "var_size": 8
+    },
+    "data/synthesisrewardcategories.dat64": {
+      "fixed_size": 24,
+      "row_count": 3,
+      "row_width": 8,
+      "var_offset": 28,
+      "var_size": 52
+    },
+    "data/synthesisrewardtypes.dat64": {
+      "fixed_size": 4280,
+      "row_count": 107,
+      "row_width": 40,
+      "var_offset": 4284,
+      "var_size": 27098
+    },
+    "data/tablecharge.dat64": {
+      "fixed_size": 1208,
+      "row_count": 8,
+      "row_width": 151,
+      "var_offset": 1212,
+      "var_size": 40
+    },
+    "data/tablemonsterspawners.dat64": {
+      "fixed_size": 447370,
+      "row_count": 2695,
+      "row_width": 166,
+      "var_offset": 447374,
+      "var_size": 231728
+    },
+    "data/tags.dat64": {
+      "fixed_size": 30604,
+      "row_count": 1093,
+      "row_width": 28,
+      "var_offset": 30608,
+      "var_size": 39466
+    },
+    "data/talismanmonstermods.dat64": {
+      "fixed_size": 32,
+      "row_count": 1,
+      "row_width": 32,
+      "var_offset": 36,
+      "var_size": 8
+    },
+    "data/talismanpacks.dat64": {
+      "fixed_size": 1656,
+      "row_count": 18,
+      "row_width": 92,
+      "var_offset": 1660,
+      "var_size": 3668
+    },
+    "data/talismans.dat64": {
+      "fixed_size": 2730,
+      "row_count": 35,
+      "row_width": 78,
+      "var_offset": 2734,
+      "var_size": 8
+    },
+    "data/talkingpetaudioevents.dat64": {
+      "fixed_size": 1792,
+      "row_count": 32,
+      "row_width": 56,
+      "var_offset": 1796,
+      "var_size": 1234
+    },
+    "data/talkingpetnpcaudio.dat64": {
+      "fixed_size": 4674,
+      "row_count": 82,
+      "row_width": 57,
+      "var_offset": 4678,
+      "var_size": 1324
+    },
+    "data/talkingpets.dat64": {
+      "fixed_size": 256,
+      "row_count": 8,
+      "row_width": 32,
+      "var_offset": 260,
+      "var_size": 488
+    },
+    "data/tencentautolootpetcurrencies.dat64": {
+      "fixed_size": 1518,
+      "row_count": 46,
+      "row_width": 33,
+      "var_offset": 1522,
+      "var_size": 88
+    },
+    "data/tencentautolootpetcurrenciesexcludable.dat64": {
+      "fixed_size": 144,
+      "row_count": 9,
+      "row_width": 16,
+      "var_offset": 148,
+      "var_size": 8
+    },
+    "data/terrainplugins.dat64": {
+      "fixed_size": 266,
+      "row_count": 19,
+      "row_width": 14,
+      "var_offset": 270,
+      "var_size": 738
+    },
+    "data/tieredmicrotransactions.dat64": {
+      "fixed_size": 14949,
+      "row_count": 99,
+      "row_width": 151,
+      "var_offset": 14953,
+      "var_size": 1364
+    },
+    "data/tieredmicrotransactionsvisuals.dat64": {
+      "fixed_size": 1824,
+      "row_count": 38,
+      "row_width": 48,
+      "var_offset": 1828,
+      "var_size": 2648
+    },
+    "data/tinctures.dat64": {
+      "fixed_size": 128,
+      "row_count": 8,
+      "row_width": 16,
+      "var_offset": 132,
+      "var_size": 8
+    },
+    "data/tips.dat64": {
+      "fixed_size": 960,
+      "row_count": 40,
+      "row_width": 24,
+      "var_offset": 964,
+      "var_size": 8740
+    },
+    "data/topologies.dat64": {
+      "fixed_size": 70700,
+      "row_count": 2525,
+      "row_width": 28,
+      "var_offset": 70704,
+      "var_size": 421920
+    },
+    "data/tormentedspiritlifescalingperlevel.dat64": {
+      "fixed_size": 800,
+      "row_count": 100,
+      "row_width": 8,
+      "var_offset": 804,
+      "var_size": 8
+    },
+    "data/tormentspirits.dat64": {
+      "fixed_size": 4864,
+      "row_count": 38,
+      "row_width": 128,
+      "var_offset": 4868,
+      "var_size": 5464
+    },
+    "data/trademarketcategory.dat64": {
+      "fixed_size": 3024,
+      "row_count": 56,
+      "row_width": 54,
+      "var_offset": 3028,
+      "var_size": 2400
+    },
+    "data/trademarketcategorygroups.dat64": {
+      "fixed_size": 128,
+      "row_count": 8,
+      "row_width": 16,
+      "var_offset": 132,
+      "var_size": 314
+    },
+    "data/trademarketcategorylistallclass.dat64": {
+      "fixed_size": 1472,
+      "row_count": 46,
+      "row_width": 32,
+      "var_offset": 1476,
+      "var_size": 8
+    },
+    "data/trademarketcategorystyleflag.dat64": {
+      "fixed_size": 0,
+      "row_count": 5,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/trademarketimplicitmoddisplay.dat64": {
+      "fixed_size": 336,
+      "row_count": 14,
+      "row_width": 24,
+      "var_offset": 340,
+      "var_size": 470
+    },
+    "data/trademarketindexitemas.dat64": {
+      "fixed_size": 608,
+      "row_count": 19,
+      "row_width": 32,
+      "var_offset": 612,
+      "var_size": 8
+    },
+    "data/triggerbeam.dat64": {
+      "fixed_size": 2944,
+      "row_count": 32,
+      "row_width": 92,
+      "var_offset": 2948,
+      "var_size": 1024
+    },
+    "data/triggerspawners.dat64": {
+      "fixed_size": 1395,
+      "row_count": 31,
+      "row_width": 45,
+      "var_offset": 1399,
+      "var_size": 7848
+    },
+    "data/trythenewleagueversions.dat64": {
+      "fixed_size": 288,
+      "row_count": 18,
+      "row_width": 16,
+      "var_offset": 292,
+      "var_size": 822
+    },
+    "data/tutorial.dat64": {
+      "fixed_size": 7410,
+      "row_count": 78,
+      "row_width": 95,
+      "var_offset": 7414,
+      "var_size": 9120
+    },
+    "data/uitalkcategories.dat64": {
+      "fixed_size": 0,
+      "row_count": 89,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/uitalktext.dat64": {
+      "fixed_size": 4410,
+      "row_count": 98,
+      "row_width": 45,
+      "var_offset": 4414,
+      "var_size": 34536
+    },
+    "data/ultimatumencounters.dat64": {
+      "fixed_size": 2960,
+      "row_count": 40,
+      "row_width": 74,
+      "var_offset": 2964,
+      "var_size": 2834
+    },
+    "data/ultimatumencountertypes.dat64": {
+      "fixed_size": 370,
+      "row_count": 5,
+      "row_width": 74,
+      "var_offset": 374,
+      "var_size": 486
+    },
+    "data/ultimatumitemisedrewards.dat64": {
+      "fixed_size": 7395,
+      "row_count": 87,
+      "row_width": 85,
+      "var_offset": 7399,
+      "var_size": 6126
+    },
+    "data/ultimatumlifescalingperlevel.dat64": {
+      "fixed_size": 800,
+      "row_count": 100,
+      "row_width": 8,
+      "var_offset": 804,
+      "var_size": 8
+    },
+    "data/ultimatummapmodifiers.dat64": {
+      "fixed_size": 736,
+      "row_count": 23,
+      "row_width": 32,
+      "var_offset": 740,
+      "var_size": 712
+    },
+    "data/ultimatummodifiers.dat64": {
+      "fixed_size": 21182,
+      "row_count": 89,
+      "row_width": 238,
+      "var_offset": 21186,
+      "var_size": 27676
+    },
+    "data/ultimatummodifiertypes.dat64": {
+      "fixed_size": 252,
+      "row_count": 28,
+      "row_width": 9,
+      "var_offset": 256,
+      "var_size": 776
+    },
+    "data/ultimatumtrialmasteraudio.dat64": {
+      "fixed_size": 1320,
+      "row_count": 30,
+      "row_width": 44,
+      "var_offset": 1324,
+      "var_size": 84
+    },
+    "data/uniquechests.dat64": {
+      "fixed_size": 6885,
+      "row_count": 45,
+      "row_width": 153,
+      "var_offset": 6889,
+      "var_size": 6690
+    },
+    "data/uniquejewellimits.dat64": {
+      "fixed_size": 2180,
+      "row_count": 109,
+      "row_width": 20,
+      "var_offset": 2184,
+      "var_size": 8
+    },
+    "data/uniquemaps.dat64": {
+      "fixed_size": 2706,
+      "row_count": 33,
+      "row_width": 82,
+      "var_offset": 2710,
+      "var_size": 1228
+    },
+    "data/uniquesetnames.dat64": {
+      "fixed_size": 0,
+      "row_count": 177,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/uniquestashlayout.dat64": {
+      "fixed_size": 118690,
+      "row_count": 1430,
+      "row_width": 83,
+      "var_offset": 118694,
+      "var_size": 8
+    },
+    "data/uniquestashtypes.dat64": {
+      "fixed_size": 1166,
+      "row_count": 22,
+      "row_width": 53,
+      "var_offset": 1170,
+      "var_size": 3196
+    },
+    "data/userinterfacemodecondition.dat64": {
+      "fixed_size": 0,
+      "row_count": 5,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/virtualstatcontextflags.dat64": {
+      "fixed_size": 480,
+      "row_count": 40,
+      "row_width": 12,
+      "var_offset": 484,
+      "var_size": 986
+    },
+    "data/visualitemslotid.dat64": {
+      "fixed_size": 0,
+      "row_count": 17,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/votestate.dat64": {
+      "fixed_size": 64,
+      "row_count": 4,
+      "row_width": 16,
+      "var_offset": 68,
+      "var_size": 310
+    },
+    "data/votetype.dat64": {
+      "fixed_size": 144,
+      "row_count": 3,
+      "row_width": 48,
+      "var_offset": 148,
+      "var_size": 1298
+    },
+    "data/warbandsgraph.dat64": {
+      "fixed_size": 1536,
+      "row_count": 48,
+      "row_width": 32,
+      "var_offset": 1540,
+      "var_size": 792
+    },
+    "data/warbandsmapgraph.dat64": {
+      "fixed_size": 2816,
+      "row_count": 88,
+      "row_width": 32,
+      "var_offset": 2820,
+      "var_size": 1448
+    },
+    "data/warbandspackmonsters.dat64": {
+      "fixed_size": 444,
+      "row_count": 3,
+      "row_width": 148,
+      "var_offset": 448,
+      "var_size": 2720
+    },
+    "data/warbandspacknumbers.dat64": {
+      "fixed_size": 2160,
+      "row_count": 45,
+      "row_width": 48,
+      "var_offset": 2164,
+      "var_size": 1070
+    },
+    "data/weaponarmourcommon.dat64": {
+      "fixed_size": 0,
+      "row_count": 2,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/weaponclasses.dat64": {
+      "fixed_size": 320,
+      "row_count": 16,
+      "row_width": 20,
+      "var_offset": 324,
+      "var_size": 8
+    },
+    "data/weapondamagescaling.dat64": {
+      "fixed_size": 0,
+      "row_count": 1,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/weaponimpactsounddata.dat64": {
+      "fixed_size": 224,
+      "row_count": 8,
+      "row_width": 28,
+      "var_offset": 228,
+      "var_size": 172
+    },
+    "data/weaponpassiveskills.dat64": {
+      "fixed_size": 263200,
+      "row_count": 2632,
+      "row_width": 100,
+      "var_offset": 263204,
+      "var_size": 169138
+    },
+    "data/weaponpassiveskilltypes.dat64": {
+      "fixed_size": 36,
+      "row_count": 3,
+      "row_width": 12,
+      "var_offset": 40,
+      "var_size": 66
+    },
+    "data/weaponpassivetreebalanceperitemlevel.dat64": {
+      "fixed_size": 2400,
+      "row_count": 100,
+      "row_width": 24,
+      "var_offset": 2404,
+      "var_size": 8
+    },
+    "data/weaponpassivetreeuniquebasetypes.dat64": {
+      "fixed_size": 3440,
+      "row_count": 172,
+      "row_width": 20,
+      "var_offset": 3444,
+      "var_size": 8
+    },
+    "data/weaponsoundtypes.dat64": {
+      "fixed_size": 0,
+      "row_count": 8,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/weapontypes.dat64": {
+      "fixed_size": 14480,
+      "row_count": 362,
+      "row_width": 40,
+      "var_offset": 14484,
+      "var_size": 8
+    },
+    "data/windowcursors.dat64": {
+      "fixed_size": 689,
+      "row_count": 13,
+      "row_width": 53,
+      "var_offset": 693,
+      "var_size": 3646
+    },
+    "data/wordlists.dat64": {
+      "fixed_size": 0,
+      "row_count": 10,
+      "row_width": 0,
+      "var_offset": 4,
+      "var_size": 8
+    },
+    "data/words.dat64": {
+      "fixed_size": 173952,
+      "row_count": 2718,
+      "row_width": 64,
+      "var_offset": 173956,
+      "var_size": 196418
+    },
+    "data/worldarealeaguechances.dat64": {
+      "fixed_size": 16500,
+      "row_count": 125,
+      "row_width": 132,
+      "var_offset": 16504,
+      "var_size": 3836
+    },
+    "data/worldareas.dat64": {
+      "fixed_size": 1195908,
+      "row_count": 1857,
+      "row_width": 644,
+      "var_offset": 1195912,
+      "var_size": 433070
+    },
+    "data/worldpopupicontypes.dat64": {
+      "fixed_size": 135,
+      "row_count": 3,
+      "row_width": 45,
+      "var_offset": 139,
+      "var_size": 342
+    }
+  }
+}
